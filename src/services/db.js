@@ -1,4 +1,4 @@
-// 20181123150054
+// 20181127134504
 // https://sukhajata.com/el/phrases.php?lanId=3
 
 module.exports = [
@@ -10,7 +10,7 @@ module.exports = [
     "romanisation": "saao sao sao saao",
     "literalTranslation": "young woman - morning - Saturday - twenty",
     "notes": "",
-    "fileName": "a1"
+    "fileName": "1"
   },
   {
     "pid": "2",
@@ -20,7 +20,7 @@ module.exports = [
     "romanisation": "gai gai gai",
     "literalTranslation": "far - near - chicken",
     "notes": "",
-    "fileName": "a2"
+    "fileName": "2"
   },
   {
     "pid": "3",
@@ -30,7 +30,7 @@ module.exports = [
     "romanisation": "khao khaao khaao",
     "literalTranslation": "enter - white - rice",
     "notes": "",
-    "fileName": "a3"
+    "fileName": "3"
   },
   {
     "pid": "4",
@@ -40,7 +40,7 @@ module.exports = [
     "romanisation": "bpaa bpaa bpaa",
     "literalTranslation": "fish - forest - aunt",
     "notes": "",
-    "fileName": "a4"
+    "fileName": "4"
   },
   {
     "pid": "5",
@@ -50,7 +50,7 @@ module.exports = [
     "romanisation": "por poor",
     "literalTranslation": "because - Dad",
     "notes": "",
-    "fileName": "a5"
+    "fileName": "5"
   },
   {
     "pid": "6",
@@ -60,7 +60,7 @@ module.exports = [
     "romanisation": "sáo sáao",
     "literalTranslation": "cease - twenty",
     "notes": "",
-    "fileName": "a6"
+    "fileName": "6"
   },
   {
     "pid": "7",
@@ -70,7 +70,7 @@ module.exports = [
     "romanisation": "kăi kăai",
     "literalTranslation": "fate - sell",
     "notes": "",
-    "fileName": "a7"
+    "fileName": "7"
   },
   {
     "pid": "8",
@@ -80,7 +80,7 @@ module.exports = [
     "romanisation": "sâi sâai",
     "literalTranslation": "use - left",
     "notes": "",
-    "fileName": "a8"
+    "fileName": "8"
   },
   {
     "pid": "9",
@@ -90,7 +90,7 @@ module.exports = [
     "romanisation": "hài bòrk",
     "literalTranslation": "give - tell",
     "notes": "",
-    "fileName": "a9"
+    "fileName": "9"
   },
   {
     "pid": "10",
@@ -100,7 +100,7 @@ module.exports = [
     "romanisation": "khoy baw sua waa jao seu seua baep seua",
     "literalTranslation": "I - not - believe - that - you - buy - shirt - style - tiger",
     "notes": "",
-    "fileName": "a10"
+    "fileName": "10"
   },
   {
     "pid": "11",
@@ -110,7 +110,7 @@ module.exports = [
     "romanisation": "laao suen khon suan nyai bpai suan",
     "literalTranslation": "he - invite - person classifier - part - more - go - garden",
     "notes": "",
-    "fileName": "a11"
+    "fileName": "11"
   },
   {
     "pid": "12",
@@ -120,7 +120,7 @@ module.exports = [
     "romanisation": "maa lae maa maa laew",
     "literalTranslation": "dog - and - horse - come - already",
     "notes": "",
-    "fileName": "a12"
+    "fileName": "12"
   },
   {
     "pid": "13",
@@ -130,7 +130,7 @@ module.exports = [
     "romanisation": "saao saao khon sao heuan nai dton sao wan sao",
     "literalTranslation": "young woman - twenty - person classifier - rent - house - in - at - morning - Saturday",
     "notes": "",
-    "fileName": "a13"
+    "fileName": "13"
   },
   {
     "pid": "14",
@@ -140,7 +140,7 @@ module.exports = [
     "romanisation": "sabai dee",
     "literalTranslation": "well - good",
     "notes": "Can be used at any time of day.",
-    "fileName": "a14"
+    "fileName": "14"
   },
   {
     "pid": "15",
@@ -150,7 +150,7 @@ module.exports = [
     "romanisation": "sabai dee baw?",
     "literalTranslation": "well - good - question particle?",
     "notes": null,
-    "fileName": "a15"
+    "fileName": "15"
   },
   {
     "pid": "16",
@@ -160,7 +160,7 @@ module.exports = [
     "romanisation": "sabai dee",
     "literalTranslation": "well - good",
     "notes": null,
-    "fileName": "a16"
+    "fileName": "16"
   },
   {
     "pid": "17",
@@ -170,7 +170,7 @@ module.exports = [
     "romanisation": "baw khoy sabai",
     "literalTranslation": "not - quite - well",
     "notes": null,
-    "fileName": "a17"
+    "fileName": "17"
   },
   {
     "pid": "18",
@@ -180,7 +180,7 @@ module.exports = [
     "romanisation": "jao dae?",
     "literalTranslation": "you - question particle",
     "notes": null,
-    "fileName": "a18"
+    "fileName": "18"
   },
   {
     "pid": "19",
@@ -190,7 +190,7 @@ module.exports = [
     "romanisation": "jao bpen naew-dai?",
     "literalTranslation": "you - are - how?",
     "notes": null,
-    "fileName": "a19"
+    "fileName": "19"
   },
   {
     "pid": "20",
@@ -200,7 +200,7 @@ module.exports = [
     "romanisation": "sohk dee",
     "literalTranslation": "luck - good ",
     "notes": null,
-    "fileName": "a20"
+    "fileName": "20"
   },
   {
     "pid": "21",
@@ -210,7 +210,7 @@ module.exports = [
     "romanisation": "jao seu nyang?",
     "literalTranslation": "you - name - what?",
     "notes": "",
-    "fileName": "a21"
+    "fileName": "21"
   },
   {
     "pid": "22",
@@ -220,7 +220,7 @@ module.exports = [
     "romanisation": "tun mii seu lin baw?",
     "literalTranslation": "you - have - nickname - question particle?",
     "notes": "",
-    "fileName": "a22"
+    "fileName": "22"
   },
   {
     "pid": "23",
@@ -230,7 +230,7 @@ module.exports = [
     "romanisation": "yin dee tee dai huujahk",
     "literalTranslation": "feel pleased - good - to - can - know",
     "notes": "",
-    "fileName": "a23"
+    "fileName": "23"
   },
   {
     "pid": "24",
@@ -240,7 +240,7 @@ module.exports = [
     "romanisation": "laew por gan mai",
     "literalTranslation": "then - meet - together - again",
     "notes": "",
-    "fileName": "a24"
+    "fileName": "24"
   },
   {
     "pid": "25",
@@ -250,7 +250,7 @@ module.exports = [
     "romanisation": "jao maa jahk sai?",
     "literalTranslation": "you - come - from - where?",
     "notes": "",
-    "fileName": "a25"
+    "fileName": "25"
   },
   {
     "pid": "26",
@@ -260,7 +260,7 @@ module.exports = [
     "romanisation": "jao si bpai sai?",
     "literalTranslation": "you - future marker - go - where?",
     "notes": "",
-    "fileName": "a26"
+    "fileName": "26"
   },
   {
     "pid": "27",
@@ -270,7 +270,7 @@ module.exports = [
     "romanisation": "jao bpai sai maa?",
     "literalTranslation": "you - go - where - come?",
     "notes": "",
-    "fileName": "a27"
+    "fileName": "27"
   },
   {
     "pid": "28",
@@ -280,7 +280,7 @@ module.exports = [
     "romanisation": "",
     "literalTranslation": "request - punishment / blame",
     "notes": "",
-    "fileName": "a28"
+    "fileName": "28"
   },
   {
     "pid": "29",
@@ -290,7 +290,7 @@ module.exports = [
     "romanisation": "gin khao laew baw?",
     "literalTranslation": "eat - rice - already - question particle?",
     "notes": "You can answer 'gin lâew' (ກິນແລ້ວ, 'eat already') or 'nyáng' (ຍັງ, 'not yet'). The latter is likely to prompt an invitation to eat together.",
-    "fileName": "a29"
+    "fileName": "29"
   },
   {
     "pid": "30",
@@ -300,7 +300,7 @@ module.exports = [
     "romanisation": "baw bpen nyang",
     "literalTranslation": "not - is - anything",
     "notes": "",
-    "fileName": "a30"
+    "fileName": "30"
   },
   {
     "pid": "31",
@@ -310,7 +310,7 @@ module.exports = [
     "romanisation": "dii laew",
     "literalTranslation": "good - already",
     "notes": "",
-    "fileName": "a31"
+    "fileName": "31"
   },
   {
     "pid": "32",
@@ -320,7 +320,7 @@ module.exports = [
     "romanisation": "tuuk dtong",
     "literalTranslation": "correct - must",
     "notes": "",
-    "fileName": "a32"
+    "fileName": "32"
   },
   {
     "pid": "33",
@@ -330,7 +330,7 @@ module.exports = [
     "romanisation": "soen maa gin khao",
     "literalTranslation": "please - come - eat - rice!",
     "notes": "",
-    "fileName": "a33"
+    "fileName": "33"
   },
   {
     "pid": "34",
@@ -340,7 +340,7 @@ module.exports = [
     "romanisation": "khorp jai",
     "literalTranslation": "thank - heart/mind",
     "notes": "",
-    "fileName": "a34"
+    "fileName": "34"
   },
   {
     "pid": "35",
@@ -350,7 +350,7 @@ module.exports = [
     "romanisation": "galunaa",
     "literalTranslation": "please",
     "notes": "",
-    "fileName": "a35"
+    "fileName": "35"
   },
   {
     "pid": "36",
@@ -360,7 +360,7 @@ module.exports = [
     "romanisation": "lor sak khuu",
     "literalTranslation": "wait - just - a short moment",
     "notes": "",
-    "fileName": "a36"
+    "fileName": "36"
   },
   {
     "pid": "37",
@@ -370,7 +370,7 @@ module.exports = [
     "romanisation": "jao khao jai baw?",
     "literalTranslation": "you - enter - heart/mind - question particle?",
     "notes": "",
-    "fileName": "a37"
+    "fileName": "37"
   },
   {
     "pid": "38",
@@ -380,7 +380,7 @@ module.exports = [
     "romanisation": "khoy khao jai",
     "literalTranslation": "I - enter - heart/mind",
     "notes": "",
-    "fileName": "a38"
+    "fileName": "38"
   },
   {
     "pid": "39",
@@ -390,7 +390,7 @@ module.exports = [
     "romanisation": "khoy baw khao jai",
     "literalTranslation": "I - not - enter - heart/mind",
     "notes": "",
-    "fileName": "a39"
+    "fileName": "39"
   },
   {
     "pid": "40",
@@ -400,7 +400,7 @@ module.exports = [
     "romanisation": "khoy baw huu waa jao wao nyang",
     "literalTranslation": "I - not - know - that - you - speak - what",
     "notes": "",
-    "fileName": "a40"
+    "fileName": "40"
   },
   {
     "pid": "41",
@@ -410,7 +410,7 @@ module.exports = [
     "romanisation": "nyang?",
     "literalTranslation": "what?",
     "notes": "",
-    "fileName": "a41"
+    "fileName": "41"
   },
   {
     "pid": "42",
@@ -420,7 +420,7 @@ module.exports = [
     "romanisation": "galunaa wao saa saa",
     "literalTranslation": "please - speak - slow - decrease",
     "notes": "",
-    "fileName": "a42"
+    "fileName": "42"
   },
   {
     "pid": "43",
@@ -430,7 +430,7 @@ module.exports = [
     "romanisation": "galunaa wao eek theu neung",
     "literalTranslation": "please - speak - another - instance - one",
     "notes": "",
-    "fileName": "a43"
+    "fileName": "43"
   },
   {
     "pid": "44",
@@ -440,7 +440,7 @@ module.exports = [
     "romanisation": "jao wao lao dai",
     "literalTranslation": "you - speak - Lao - can",
     "notes": "",
-    "fileName": "a44"
+    "fileName": "44"
   },
   {
     "pid": "45",
@@ -450,7 +450,7 @@ module.exports = [
     "romanisation": "khoy wao lao dai noy neung",
     "literalTranslation": "I - speak - Lao - can - a little bit - one",
     "notes": "",
-    "fileName": "a45"
+    "fileName": "45"
   },
   {
     "pid": "46",
@@ -460,7 +460,7 @@ module.exports = [
     "romanisation": "khoy wao lao baw dai",
     "literalTranslation": "I - speak - Lao - not - can",
     "notes": "",
-    "fileName": "a46"
+    "fileName": "46"
   },
   {
     "pid": "47",
@@ -470,7 +470,7 @@ module.exports = [
     "romanisation": "nii maen nyang?",
     "literalTranslation": "this - is - what?",
     "notes": "",
-    "fileName": "a47"
+    "fileName": "47"
   },
   {
     "pid": "48",
@@ -480,7 +480,7 @@ module.exports = [
     "romanisation": "an nii phasaa lao oen waa nyang?",
     "literalTranslation": "item - this - language - Lao - called - that - what?",
     "notes": "",
-    "fileName": "a48"
+    "fileName": "48"
   },
   {
     "pid": "49",
@@ -490,7 +490,7 @@ module.exports = [
     "romanisation": "khoy mak",
     "literalTranslation": "I - like",
     "notes": "",
-    "fileName": "a49"
+    "fileName": "49"
   },
   {
     "pid": "50",
@@ -500,7 +500,7 @@ module.exports = [
     "romanisation": "khoy baw mak",
     "literalTranslation": "I - not - like",
     "notes": "",
-    "fileName": "a50"
+    "fileName": "50"
   },
   {
     "pid": "51",
@@ -510,7 +510,7 @@ module.exports = [
     "romanisation": "khoy baw huu",
     "literalTranslation": "I - not - know",
     "notes": "",
-    "fileName": "a51"
+    "fileName": "51"
   },
   {
     "pid": "52",
@@ -520,7 +520,7 @@ module.exports = [
     "romanisation": "dii laai",
     "literalTranslation": "good - very!",
     "notes": "",
-    "fileName": "a52"
+    "fileName": "52"
   },
   {
     "pid": "53",
@@ -530,7 +530,7 @@ module.exports = [
     "romanisation": "jao het nyang yuu?",
     "literalTranslation": "you - do - what - at the moment?",
     "notes": "",
-    "fileName": "a53"
+    "fileName": "53"
   },
   {
     "pid": "54",
@@ -540,7 +540,7 @@ module.exports = [
     "romanisation": "jao aayu jak bpii",
     "literalTranslation": "you - age - how many - year?",
     "notes": "",
-    "fileName": "a54"
+    "fileName": "54"
   },
   {
     "pid": "55",
@@ -550,7 +550,7 @@ module.exports = [
     "romanisation": "baw khorp jai",
     "literalTranslation": "no - thanks",
     "notes": "",
-    "fileName": "a55"
+    "fileName": "55"
   },
   {
     "pid": "57",
@@ -560,7 +560,7 @@ module.exports = [
     "romanisation": "mii hawng nam baw?",
     "literalTranslation": "have - room - water - question particle?",
     "notes": "",
-    "fileName": "a57"
+    "fileName": "57"
   },
   {
     "pid": "58",
@@ -570,7 +570,7 @@ module.exports = [
     "romanisation": "ao nyang?",
     "literalTranslation": "take - what?",
     "notes": "",
-    "fileName": "a58"
+    "fileName": "58"
   },
   {
     "pid": "59",
@@ -580,7 +580,7 @@ module.exports = [
     "romanisation": "jao maa yuu lao don laew baw?",
     "literalTranslation": "you - come - stay - Lao - long time - already - question particle?",
     "notes": "",
-    "fileName": "a59"
+    "fileName": "59"
   },
   {
     "pid": "60",
@@ -590,7 +590,7 @@ module.exports = [
     "romanisation": "jao mii faen laew baw?",
     "literalTranslation": "you - have - boyfriend/girlfriend - already - question particle?",
     "notes": "",
-    "fileName": "a60"
+    "fileName": "60"
   },
   {
     "pid": "61",
@@ -600,7 +600,7 @@ module.exports = [
     "romanisation": "jao maa jak khon?",
     "literalTranslation": "you - come - how many - people?",
     "notes": "",
-    "fileName": "a61"
+    "fileName": "61"
   },
   {
     "pid": "62",
@@ -610,7 +610,7 @@ module.exports = [
     "romanisation": "dteun",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a62"
+    "fileName": "62"
   },
   {
     "pid": "63",
@@ -620,7 +620,7 @@ module.exports = [
     "romanisation": "aap nam",
     "literalTranslation": "bathe - water",
     "notes": "",
-    "fileName": "a63"
+    "fileName": "63"
   },
   {
     "pid": "64",
@@ -630,7 +630,7 @@ module.exports = [
     "romanisation": "bpaeng kaew",
     "literalTranslation": "brush - tooth",
     "notes": "",
-    "fileName": "a64"
+    "fileName": "64"
   },
   {
     "pid": "65",
@@ -640,7 +640,7 @@ module.exports = [
     "romanisation": "wii phom",
     "literalTranslation": "comb - hair",
     "notes": "",
-    "fileName": "a65"
+    "fileName": "65"
   },
   {
     "pid": "66",
@@ -650,7 +650,7 @@ module.exports = [
     "romanisation": "dtaeng dtoh",
     "literalTranslation": "dress - oneself",
     "notes": "",
-    "fileName": "a66"
+    "fileName": "66"
   },
   {
     "pid": "67",
@@ -660,7 +660,7 @@ module.exports = [
     "romanisation": "sak kheuang",
     "literalTranslation": "wash - clothes",
     "notes": "",
-    "fileName": "a67"
+    "fileName": "67"
   },
   {
     "pid": "68",
@@ -670,7 +670,7 @@ module.exports = [
     "romanisation": "het wiak",
     "literalTranslation": "do - work",
     "notes": "",
-    "fileName": "a68"
+    "fileName": "68"
   },
   {
     "pid": "69",
@@ -680,7 +680,7 @@ module.exports = [
     "romanisation": "het gap khao / het naew gin",
     "literalTranslation": "make - with - rice / make - kind - food",
     "notes": "",
-    "fileName": "a69"
+    "fileName": "69"
   },
   {
     "pid": "70",
@@ -690,7 +690,7 @@ module.exports = [
     "romanisation": "gin",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a70"
+    "fileName": "70"
   },
   {
     "pid": "71",
@@ -700,7 +700,7 @@ module.exports = [
     "romanisation": "deum",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a71"
+    "fileName": "71"
   },
   {
     "pid": "72",
@@ -710,7 +710,7 @@ module.exports = [
     "romanisation": "meua baan",
     "literalTranslation": "return - home",
     "notes": "",
-    "fileName": "a72"
+    "fileName": "72"
   },
   {
     "pid": "73",
@@ -720,7 +720,7 @@ module.exports = [
     "romanisation": "het wiak heaun",
     "literalTranslation": "do - work - home",
     "notes": "",
-    "fileName": "a73"
+    "fileName": "73"
   },
   {
     "pid": "74",
@@ -730,7 +730,7 @@ module.exports = [
     "romanisation": "lin gilaa",
     "literalTranslation": "play - sport",
     "notes": "",
-    "fileName": "a74"
+    "fileName": "74"
   },
   {
     "pid": "75",
@@ -740,7 +740,7 @@ module.exports = [
     "romanisation": "beung tholapahp",
     "literalTranslation": "look at - tv",
     "notes": "",
-    "fileName": "a75"
+    "fileName": "75"
   },
   {
     "pid": "76",
@@ -750,7 +750,7 @@ module.exports = [
     "romanisation": "bpai norn",
     "literalTranslation": "go - sleep",
     "notes": "",
-    "fileName": "a76"
+    "fileName": "76"
   },
   {
     "pid": "77",
@@ -760,7 +760,7 @@ module.exports = [
     "romanisation": "mii daet",
     "literalTranslation": "have - sunshine",
     "notes": "",
-    "fileName": "a77"
+    "fileName": "77"
   },
   {
     "pid": "78",
@@ -770,7 +770,7 @@ module.exports = [
     "romanisation": "fohn dtok",
     "literalTranslation": "rain - fall",
     "notes": "",
-    "fileName": "a78"
+    "fileName": "78"
   },
   {
     "pid": "79",
@@ -780,7 +780,7 @@ module.exports = [
     "romanisation": "mii maek",
     "literalTranslation": "have - cloud",
     "notes": "",
-    "fileName": "a79"
+    "fileName": "79"
   },
   {
     "pid": "80",
@@ -790,7 +790,7 @@ module.exports = [
     "romanisation": "lom haeng",
     "literalTranslation": "wind - strong",
     "notes": "",
-    "fileName": "a80"
+    "fileName": "80"
   },
   {
     "pid": "81",
@@ -800,7 +800,7 @@ module.exports = [
     "romanisation": "hawn",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a81"
+    "fileName": "81"
   },
   {
     "pid": "82",
@@ -810,7 +810,7 @@ module.exports = [
     "romanisation": "naao",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a82"
+    "fileName": "82"
   },
   {
     "pid": "83",
@@ -820,7 +820,7 @@ module.exports = [
     "romanisation": "khuam sum",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a83"
+    "fileName": "83"
   },
   {
     "pid": "84",
@@ -830,7 +830,7 @@ module.exports = [
     "romanisation": "nam thuam",
     "literalTranslation": "water - flood",
     "notes": "",
-    "fileName": "a84"
+    "fileName": "84"
   },
   {
     "pid": "85",
@@ -840,7 +840,7 @@ module.exports = [
     "romanisation": "phayu",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a85"
+    "fileName": "85"
   },
   {
     "pid": "86",
@@ -850,7 +850,7 @@ module.exports = [
     "romanisation": "phot haeng laeng",
     "literalTranslation": "too - dry - dry",
     "notes": "",
-    "fileName": "a86"
+    "fileName": "86"
   },
   {
     "pid": "87",
@@ -860,7 +860,7 @@ module.exports = [
     "romanisation": "aagaht bpen naew dai?",
     "literalTranslation": "weather - is - how?",
     "notes": "",
-    "fileName": "a87"
+    "fileName": "87"
   },
   {
     "pid": "88",
@@ -870,7 +870,7 @@ module.exports = [
     "romanisation": "mun hawn lae mii khuam oon",
     "literalTranslation": "it - hot - and - have - moisture",
     "notes": "",
-    "fileName": "a88"
+    "fileName": "88"
   },
   {
     "pid": "89",
@@ -880,7 +880,7 @@ module.exports = [
     "romanisation": "fohn gamlang-si dtok baw?",
     "literalTranslation": "rain - about to - fall - question particle?",
     "notes": "",
-    "fileName": "a89"
+    "fileName": "89"
   },
   {
     "pid": "90",
@@ -890,7 +890,7 @@ module.exports = [
     "romanisation": "fohn aht si dtok dawn baai",
     "literalTranslation": "rain - might - future marker - fall - during - afternoon",
     "notes": "",
-    "fileName": "a90"
+    "fileName": "90"
   },
   {
     "pid": "91",
@@ -900,7 +900,7 @@ module.exports = [
     "romanisation": "mun hawn gern bpai tii ja dtae bawn",
     "literalTranslation": "it - hot - excessive - go - to - future marker - kick - ball",
     "notes": "The expression 'gern bpai' (ເກີນໄປ) is similar to 'too'. ",
-    "fileName": "a91"
+    "fileName": "91"
   },
   {
     "pid": "92",
@@ -910,7 +910,7 @@ module.exports = [
     "romanisation": "meu nii aagaht naao",
     "literalTranslation": "day - this - weather - cold",
     "notes": "",
-    "fileName": "a92"
+    "fileName": "92"
   },
   {
     "pid": "93",
@@ -920,7 +920,7 @@ module.exports = [
     "romanisation": "pathet lao hawn",
     "literalTranslation": "country - Laos - hot",
     "notes": "",
-    "fileName": "a93"
+    "fileName": "93"
   },
   {
     "pid": "94",
@@ -930,7 +930,7 @@ module.exports = [
     "romanisation": "fohn dtok nak",
     "literalTranslation": "rain - fall - heavy",
     "notes": "",
-    "fileName": "a94"
+    "fileName": "94"
   },
   {
     "pid": "95",
@@ -940,7 +940,7 @@ module.exports = [
     "romanisation": "ledoo naao",
     "literalTranslation": "season - cold",
     "notes": "",
-    "fileName": "a95"
+    "fileName": "95"
   },
   {
     "pid": "96",
@@ -950,7 +950,7 @@ module.exports = [
     "romanisation": "ledoo fohn",
     "literalTranslation": "season - rain",
     "notes": "",
-    "fileName": "a96"
+    "fileName": "96"
   },
   {
     "pid": "97",
@@ -960,7 +960,7 @@ module.exports = [
     "romanisation": "ledoo hawn",
     "literalTranslation": "season - hot",
     "notes": "",
-    "fileName": "a97"
+    "fileName": "97"
   },
   {
     "pid": "98",
@@ -970,7 +970,7 @@ module.exports = [
     "romanisation": "phuak-hao ja bpuuk khao nai ledoo fohn",
     "literalTranslation": "we - future marker - plant - rice - in - season - rain",
     "notes": "",
-    "fileName": "a98"
+    "fileName": "98"
   },
   {
     "pid": "99",
@@ -980,7 +980,7 @@ module.exports = [
     "romanisation": null,
     "literalTranslation": null,
     "notes": null,
-    "fileName": "a99"
+    "fileName": "99"
   },
   {
     "pid": "100",
@@ -990,7 +990,7 @@ module.exports = [
     "romanisation": null,
     "literalTranslation": null,
     "notes": null,
-    "fileName": "a100"
+    "fileName": "100"
   },
   {
     "pid": "101",
@@ -1000,7 +1000,7 @@ module.exports = [
     "romanisation": "wieng jan",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a101"
+    "fileName": "101"
   },
   {
     "pid": "102",
@@ -1010,7 +1010,7 @@ module.exports = [
     "romanisation": null,
     "literalTranslation": null,
     "notes": null,
-    "fileName": "a102"
+    "fileName": "102"
   },
   {
     "pid": "103",
@@ -1020,7 +1020,7 @@ module.exports = [
     "romanisation": null,
     "literalTranslation": null,
     "notes": null,
-    "fileName": "a103"
+    "fileName": "103"
   },
   {
     "pid": "104",
@@ -1030,7 +1030,7 @@ module.exports = [
     "romanisation": null,
     "literalTranslation": null,
     "notes": null,
-    "fileName": "a104"
+    "fileName": "104"
   },
   {
     "pid": "105",
@@ -1040,7 +1040,7 @@ module.exports = [
     "romanisation": null,
     "literalTranslation": null,
     "notes": null,
-    "fileName": "a105"
+    "fileName": "105"
   },
   {
     "pid": "106",
@@ -1050,7 +1050,7 @@ module.exports = [
     "romanisation": null,
     "literalTranslation": null,
     "notes": "It is common to use this word before the country name when referring to a country.",
-    "fileName": "a106"
+    "fileName": "106"
   },
   {
     "pid": "107",
@@ -1060,7 +1060,7 @@ module.exports = [
     "romanisation": "aus-dtay-lia",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a107"
+    "fileName": "107"
   },
   {
     "pid": "108",
@@ -1070,7 +1070,7 @@ module.exports = [
     "romanisation": "kaenaadaa",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a108"
+    "fileName": "108"
   },
   {
     "pid": "109",
@@ -1080,7 +1080,7 @@ module.exports = [
     "romanisation": "jiin",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a109"
+    "fileName": "109"
   },
   {
     "pid": "110",
@@ -1090,7 +1090,7 @@ module.exports = [
     "romanisation": "falangset",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a110"
+    "fileName": "110"
   },
   {
     "pid": "111",
@@ -1100,7 +1100,7 @@ module.exports = [
     "romanisation": "yehramun",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a111"
+    "fileName": "111"
   },
   {
     "pid": "112",
@@ -1110,7 +1110,7 @@ module.exports = [
     "romanisation": null,
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a112"
+    "fileName": "112"
   },
   {
     "pid": "113",
@@ -1120,7 +1120,7 @@ module.exports = [
     "romanisation": "yi-bpun",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a113"
+    "fileName": "113"
   },
   {
     "pid": "114",
@@ -1130,7 +1130,7 @@ module.exports = [
     "romanisation": null,
     "literalTranslation": null,
     "notes": null,
-    "fileName": "a114"
+    "fileName": "114"
   },
   {
     "pid": "115",
@@ -1140,7 +1140,7 @@ module.exports = [
     "romanisation": "malayzia",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a115"
+    "fileName": "115"
   },
   {
     "pid": "116",
@@ -1150,7 +1150,7 @@ module.exports = [
     "romanisation": null,
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a116"
+    "fileName": "116"
   },
   {
     "pid": "117",
@@ -1160,7 +1160,7 @@ module.exports = [
     "romanisation": "new zeelen",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a117"
+    "fileName": "117"
   },
   {
     "pid": "118",
@@ -1170,7 +1170,7 @@ module.exports = [
     "romanisation": "lat-sia",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a118"
+    "fileName": "118"
   },
   {
     "pid": "119",
@@ -1180,7 +1180,7 @@ module.exports = [
     "romanisation": "sa-bpain",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a119"
+    "fileName": "119"
   },
   {
     "pid": "120",
@@ -1190,7 +1190,7 @@ module.exports = [
     "romanisation": "angit",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a120"
+    "fileName": "120"
   },
   {
     "pid": "121",
@@ -1200,7 +1200,7 @@ module.exports = [
     "romanisation": "aa-meh-ligaa",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a121"
+    "fileName": "121"
   },
   {
     "pid": "122",
@@ -1210,7 +1210,7 @@ module.exports = [
     "romanisation": "wietnam",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a122"
+    "fileName": "122"
   },
   {
     "pid": "123",
@@ -1220,7 +1220,7 @@ module.exports = [
     "romanisation": null,
     "literalTranslation": null,
     "notes": null,
-    "fileName": "a123"
+    "fileName": "123"
   },
   {
     "pid": "124",
@@ -1230,7 +1230,7 @@ module.exports = [
     "romanisation": "khoy bpen khon aus-dtay-lia",
     "literalTranslation": "I - am - person - Australia",
     "notes": "",
-    "fileName": "a124"
+    "fileName": "124"
   },
   {
     "pid": "125",
@@ -1240,7 +1240,7 @@ module.exports = [
     "romanisation": "nang bpen khon falangset",
     "literalTranslation": "she - is - person - France",
     "notes": "",
-    "fileName": "a125"
+    "fileName": "125"
   },
   {
     "pid": "126",
@@ -1250,7 +1250,7 @@ module.exports = [
     "romanisation": "phaasaa",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a126"
+    "fileName": "126"
   },
   {
     "pid": "127",
@@ -1260,7 +1260,7 @@ module.exports = [
     "romanisation": "khoy wao phaasaa yi-bpun dai",
     "literalTranslation": "I - speak - language - Japan - can",
     "notes": "",
-    "fileName": "a127"
+    "fileName": "127"
   },
   {
     "pid": "128",
@@ -1270,7 +1270,7 @@ module.exports = [
     "romanisation": "sii dum",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a128"
+    "fileName": "128"
   },
   {
     "pid": "129",
@@ -1280,7 +1280,7 @@ module.exports = [
     "romanisation": "sii khaao",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a129"
+    "fileName": "129"
   },
   {
     "pid": "130",
@@ -1290,7 +1290,7 @@ module.exports = [
     "romanisation": "sii faa",
     "literalTranslation": "colour - sky",
     "notes": "",
-    "fileName": "a130"
+    "fileName": "130"
   },
   {
     "pid": "131",
@@ -1300,7 +1300,7 @@ module.exports = [
     "romanisation": "sii nam ngeun",
     "literalTranslation": "colour - water - silver",
     "notes": "",
-    "fileName": "a131"
+    "fileName": "131"
   },
   {
     "pid": "132",
@@ -1310,7 +1310,7 @@ module.exports = [
     "romanisation": "sii khiao",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a132"
+    "fileName": "132"
   },
   {
     "pid": "133",
@@ -1320,7 +1320,7 @@ module.exports = [
     "romanisation": "sii daeng",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a133"
+    "fileName": "133"
   },
   {
     "pid": "134",
@@ -1330,7 +1330,7 @@ module.exports = [
     "romanisation": "sii som",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a134"
+    "fileName": "134"
   },
   {
     "pid": "135",
@@ -1340,7 +1340,7 @@ module.exports = [
     "romanisation": "sii sompoo",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a135"
+    "fileName": "135"
   },
   {
     "pid": "136",
@@ -1350,7 +1350,7 @@ module.exports = [
     "romanisation": "sii nam-dtaan",
     "literalTranslation": "colour - sugar",
     "notes": "",
-    "fileName": "a136"
+    "fileName": "136"
   },
   {
     "pid": "137",
@@ -1360,7 +1360,7 @@ module.exports = [
     "romanisation": "sii muang",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a137"
+    "fileName": "137"
   },
   {
     "pid": "138",
@@ -1370,7 +1370,7 @@ module.exports = [
     "romanisation": "sii leuang",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a138"
+    "fileName": "138"
   },
   {
     "pid": "139",
@@ -1380,7 +1380,7 @@ module.exports = [
     "romanisation": "sii khem / sii gae",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a139"
+    "fileName": "139"
   },
   {
     "pid": "140",
@@ -1390,7 +1390,7 @@ module.exports = [
     "romanisation": "sii-khiao sum / sii-khiao gae",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a140"
+    "fileName": "140"
   },
   {
     "pid": "141",
@@ -1400,7 +1400,7 @@ module.exports = [
     "romanisation": "sii awn",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a141"
+    "fileName": "141"
   },
   {
     "pid": "142",
@@ -1410,7 +1410,7 @@ module.exports = [
     "romanisation": "lot sii-khaao",
     "literalTranslation": "car - white",
     "notes": "",
-    "fileName": "a142"
+    "fileName": "142"
   },
   {
     "pid": "143",
@@ -1420,7 +1420,7 @@ module.exports = [
     "romanisation": "seua sii-leuang",
     "literalTranslation": "shirt - yellow",
     "notes": "",
-    "fileName": "a143"
+    "fileName": "143"
   },
   {
     "pid": "144",
@@ -1430,7 +1430,7 @@ module.exports = [
     "romanisation": "jao mii baep nii bpen sii-daeng baw?",
     "literalTranslation": "you - have - style - this - be - red - question particle?",
     "notes": "",
-    "fileName": "a144"
+    "fileName": "144"
   },
   {
     "pid": "145",
@@ -1440,7 +1440,7 @@ module.exports = [
     "romanisation": "meu nii sai sii-khiao sohk dii",
     "literalTranslation": "day - this - put on - green - luck - good",
     "notes": "",
-    "fileName": "a145"
+    "fileName": "145"
   },
   {
     "pid": "146",
@@ -1450,7 +1450,7 @@ module.exports = [
     "romanisation": "maa",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a146"
+    "fileName": "146"
   },
   {
     "pid": "147",
@@ -1460,7 +1460,7 @@ module.exports = [
     "romanisation": "maeo",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a147"
+    "fileName": "147"
   },
   {
     "pid": "148",
@@ -1470,7 +1470,7 @@ module.exports = [
     "romanisation": "sahng",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a148"
+    "fileName": "148"
   },
   {
     "pid": "149",
@@ -1480,7 +1480,7 @@ module.exports = [
     "romanisation": "ling",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a149"
+    "fileName": "149"
   },
   {
     "pid": "150",
@@ -1490,7 +1490,7 @@ module.exports = [
     "romanisation": "seua",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a150"
+    "fileName": "150"
   },
   {
     "pid": "151",
@@ -1500,7 +1500,7 @@ module.exports = [
     "romanisation": "nguu",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a151"
+    "fileName": "151"
   },
   {
     "pid": "152",
@@ -1510,7 +1510,7 @@ module.exports = [
     "romanisation": "nyung",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a152"
+    "fileName": "152"
   },
   {
     "pid": "153",
@@ -1520,7 +1520,7 @@ module.exports = [
     "romanisation": "maeng mai",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a153"
+    "fileName": "153"
   },
   {
     "pid": "154",
@@ -1530,7 +1530,7 @@ module.exports = [
     "romanisation": "mot",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a154"
+    "fileName": "154"
   },
   {
     "pid": "155",
@@ -1540,7 +1540,7 @@ module.exports = [
     "romanisation": "mot daeng",
     "literalTranslation": "ant - red",
     "notes": "",
-    "fileName": "a155"
+    "fileName": "155"
   },
   {
     "pid": "156",
@@ -1550,7 +1550,7 @@ module.exports = [
     "romanisation": "mot fai",
     "literalTranslation": "ant - fire",
     "notes": "",
-    "fileName": "a156"
+    "fileName": "156"
   },
   {
     "pid": "157",
@@ -1560,7 +1560,7 @@ module.exports = [
     "romanisation": "gop",
     "literalTranslation": "",
     "notes": "This refers to one kind of frog. There are many varieties, some of which are edible.",
-    "fileName": "a157"
+    "fileName": "157"
   },
   {
     "pid": "158",
@@ -1570,7 +1570,7 @@ module.exports = [
     "romanisation": "nuu",
     "literalTranslation": "",
     "notes": "Rats are sometimes grilled and eaten with rice.",
-    "fileName": "a158"
+    "fileName": "158"
   },
   {
     "pid": "159",
@@ -1580,7 +1580,7 @@ module.exports = [
     "romanisation": "bpaa",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a159"
+    "fileName": "159"
   },
   {
     "pid": "160",
@@ -1590,7 +1590,7 @@ module.exports = [
     "romanisation": "muu",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a160"
+    "fileName": "160"
   },
   {
     "pid": "161",
@@ -1600,7 +1600,7 @@ module.exports = [
     "romanisation": "kuai",
     "literalTranslation": "",
     "notes": "Buffaloes were traditionally used for rice farming, but now they are usually kept only as an investment. The buffalo is associated with lack of intelligence when used to describe a person.",
-    "fileName": "a161"
+    "fileName": "161"
   },
   {
     "pid": "162",
@@ -1610,7 +1610,7 @@ module.exports = [
     "romanisation": "nok",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a162"
+    "fileName": "162"
   },
   {
     "pid": "163",
@@ -1620,7 +1620,7 @@ module.exports = [
     "romanisation": "gai",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a163"
+    "fileName": "163"
   },
   {
     "pid": "164",
@@ -1630,7 +1630,7 @@ module.exports = [
     "romanisation": "bpet",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a164"
+    "fileName": "164"
   },
   {
     "pid": "165",
@@ -1640,7 +1640,7 @@ module.exports = [
     "romanisation": "sat liang",
     "literalTranslation": "animal - look after",
     "notes": "",
-    "fileName": "a165"
+    "fileName": "165"
   },
   {
     "pid": "166",
@@ -1650,7 +1650,7 @@ module.exports = [
     "romanisation": "mii nguu nai tung naa",
     "literalTranslation": "there is - snake - in - field - rice field",
     "notes": "",
-    "fileName": "a166"
+    "fileName": "166"
   },
   {
     "pid": "167",
@@ -1660,7 +1660,7 @@ module.exports = [
     "romanisation": "phuak-hao mii maa samrap bong-gan khuam bpawt pai",
     "literalTranslation": "we - have - dog - for the purpose of - defend - prefix which converts adjective or verb into a noun - free from - harm",
     "notes": "",
-    "fileName": "a167"
+    "fileName": "167"
   },
   {
     "pid": "168",
@@ -1670,7 +1670,7 @@ module.exports = [
     "romanisation": "ledoo fohn mii nyung laai",
     "literalTranslation": "season - rain - have - mosquito - lots",
     "notes": "",
-    "fileName": "a168"
+    "fileName": "168"
   },
   {
     "pid": "169",
@@ -1680,7 +1680,7 @@ module.exports = [
     "romanisation": "suun",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a169"
+    "fileName": "169"
   },
   {
     "pid": "170",
@@ -1690,7 +1690,7 @@ module.exports = [
     "romanisation": "neung sawng saam sii haa",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a170"
+    "fileName": "170"
   },
   {
     "pid": "171",
@@ -1700,7 +1700,7 @@ module.exports = [
     "romanisation": "hok jet bpaet gao sip",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a171"
+    "fileName": "171"
   },
   {
     "pid": "172",
@@ -1710,7 +1710,7 @@ module.exports = [
     "romanisation": "sip et",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a172"
+    "fileName": "172"
   },
   {
     "pid": "173",
@@ -1720,7 +1720,7 @@ module.exports = [
     "romanisation": "sip sawng",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a173"
+    "fileName": "173"
   },
   {
     "pid": "174",
@@ -1730,7 +1730,7 @@ module.exports = [
     "romanisation": "sip saam",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a174"
+    "fileName": "174"
   },
   {
     "pid": "175",
@@ -1740,7 +1740,7 @@ module.exports = [
     "romanisation": "sip sii",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a175"
+    "fileName": "175"
   },
   {
     "pid": "176",
@@ -1750,7 +1750,7 @@ module.exports = [
     "romanisation": "sip haa",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a176"
+    "fileName": "176"
   },
   {
     "pid": "177",
@@ -1760,7 +1760,7 @@ module.exports = [
     "romanisation": "sip hok",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a177"
+    "fileName": "177"
   },
   {
     "pid": "178",
@@ -1770,7 +1770,7 @@ module.exports = [
     "romanisation": "sip jet",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a178"
+    "fileName": "178"
   },
   {
     "pid": "179",
@@ -1780,7 +1780,7 @@ module.exports = [
     "romanisation": "sip bpaet",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a179"
+    "fileName": "179"
   },
   {
     "pid": "180",
@@ -1790,7 +1790,7 @@ module.exports = [
     "romanisation": "sip gao",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a180"
+    "fileName": "180"
   },
   {
     "pid": "181",
@@ -1800,7 +1800,7 @@ module.exports = [
     "romanisation": "saao",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a181"
+    "fileName": "181"
   },
   {
     "pid": "182",
@@ -1810,7 +1810,7 @@ module.exports = [
     "romanisation": "saao et",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a182"
+    "fileName": "182"
   },
   {
     "pid": "183",
@@ -1820,7 +1820,7 @@ module.exports = [
     "romanisation": "saao sawng",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a183"
+    "fileName": "183"
   },
   {
     "pid": "184",
@@ -1830,7 +1830,7 @@ module.exports = [
     "romanisation": "saam sip",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a184"
+    "fileName": "184"
   },
   {
     "pid": "185",
@@ -1840,7 +1840,7 @@ module.exports = [
     "romanisation": "saam sip et",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a185"
+    "fileName": "185"
   },
   {
     "pid": "186",
@@ -1850,7 +1850,7 @@ module.exports = [
     "romanisation": "sii sip",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a186"
+    "fileName": "186"
   },
   {
     "pid": "187",
@@ -1860,7 +1860,7 @@ module.exports = [
     "romanisation": "bpaet sip",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a187"
+    "fileName": "187"
   },
   {
     "pid": "188",
@@ -1870,7 +1870,7 @@ module.exports = [
     "romanisation": "neung loi",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a188"
+    "fileName": "188"
   },
   {
     "pid": "189",
@@ -1880,7 +1880,7 @@ module.exports = [
     "romanisation": "neung loi saam sip sii",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a189"
+    "fileName": "189"
   },
   {
     "pid": "190",
@@ -1890,7 +1890,7 @@ module.exports = [
     "romanisation": "saam loi",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a190"
+    "fileName": "190"
   },
   {
     "pid": "191",
@@ -1900,7 +1900,7 @@ module.exports = [
     "romanisation": "neung pan",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a191"
+    "fileName": "191"
   },
   {
     "pid": "192",
@@ -1910,7 +1910,7 @@ module.exports = [
     "romanisation": "sawng pan",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a192"
+    "fileName": "192"
   },
   {
     "pid": "193",
@@ -1920,7 +1920,7 @@ module.exports = [
     "romanisation": "neung meun",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a193"
+    "fileName": "193"
   },
   {
     "pid": "194",
@@ -1930,7 +1930,7 @@ module.exports = [
     "romanisation": "haa meun",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a194"
+    "fileName": "194"
   },
   {
     "pid": "195",
@@ -1940,7 +1940,7 @@ module.exports = [
     "romanisation": "neung saen",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a195"
+    "fileName": "195"
   },
   {
     "pid": "196",
@@ -1950,7 +1950,7 @@ module.exports = [
     "romanisation": "hok saen",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a196"
+    "fileName": "196"
   },
   {
     "pid": "197",
@@ -1960,7 +1960,7 @@ module.exports = [
     "romanisation": "neung laan",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a197"
+    "fileName": "197"
   },
   {
     "pid": "198",
@@ -1970,7 +1970,7 @@ module.exports = [
     "romanisation": "naatii",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a198"
+    "fileName": "198"
   },
   {
     "pid": "199",
@@ -1980,7 +1980,7 @@ module.exports = [
     "romanisation": "sua mohng",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a199"
+    "fileName": "199"
   },
   {
     "pid": "200",
@@ -1990,7 +1990,7 @@ module.exports = [
     "romanisation": "meu",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a200"
+    "fileName": "200"
   },
   {
     "pid": "201",
@@ -2000,7 +2000,7 @@ module.exports = [
     "romanisation": "aathit",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a201"
+    "fileName": "201"
   },
   {
     "pid": "202",
@@ -2010,7 +2010,7 @@ module.exports = [
     "romanisation": "deuan",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a202"
+    "fileName": "202"
   },
   {
     "pid": "203",
@@ -2020,7 +2020,7 @@ module.exports = [
     "romanisation": "bpii",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a203"
+    "fileName": "203"
   },
   {
     "pid": "204",
@@ -2030,7 +2030,7 @@ module.exports = [
     "romanisation": "meu nii",
     "literalTranslation": "day - this",
     "notes": "",
-    "fileName": "a204"
+    "fileName": "204"
   },
   {
     "pid": "205",
@@ -2040,7 +2040,7 @@ module.exports = [
     "romanisation": "meu eun",
     "literalTranslation": "day - other",
     "notes": "",
-    "fileName": "a205"
+    "fileName": "205"
   },
   {
     "pid": "206",
@@ -2050,7 +2050,7 @@ module.exports = [
     "romanisation": "meu waan nii",
     "literalTranslation": "day - yesterday - this",
     "notes": "",
-    "fileName": "a206"
+    "fileName": "206"
   },
   {
     "pid": "207",
@@ -2060,7 +2060,7 @@ module.exports = [
     "romanisation": "athit nii",
     "literalTranslation": "week - this",
     "notes": "",
-    "fileName": "a207"
+    "fileName": "207"
   },
   {
     "pid": "208",
@@ -2070,7 +2070,7 @@ module.exports = [
     "romanisation": "athit naa",
     "literalTranslation": "week - next",
     "notes": "",
-    "fileName": "a208"
+    "fileName": "208"
   },
   {
     "pid": "209",
@@ -2080,7 +2080,7 @@ module.exports = [
     "romanisation": "athit thi laew",
     "literalTranslation": "week - position - already",
     "notes": "",
-    "fileName": "a209"
+    "fileName": "209"
   },
   {
     "pid": "210",
@@ -2090,7 +2090,7 @@ module.exports = [
     "romanisation": "deuan naa",
     "literalTranslation": "month - next",
     "notes": "",
-    "fileName": "a210"
+    "fileName": "210"
   },
   {
     "pid": "211",
@@ -2100,7 +2100,7 @@ module.exports = [
     "romanisation": "deuan thi paan maa",
     "literalTranslation": "month - that - pass - come",
     "notes": "",
-    "fileName": "a211"
+    "fileName": "211"
   },
   {
     "pid": "212",
@@ -2110,7 +2110,7 @@ module.exports = [
     "romanisation": "bpii thi laew / bpii gai",
     "literalTranslation": "year - position - already / year - pass",
     "notes": "",
-    "fileName": "a212"
+    "fileName": "212"
   },
   {
     "pid": "213",
@@ -2120,7 +2120,7 @@ module.exports = [
     "romanisation": "diao nii",
     "literalTranslation": "moment - this",
     "notes": "",
-    "fileName": "a213"
+    "fileName": "213"
   },
   {
     "pid": "214",
@@ -2130,7 +2130,7 @@ module.exports = [
     "romanisation": "nai eek baw don",
     "literalTranslation": "in - another - not - long",
     "notes": "",
-    "fileName": "a214"
+    "fileName": "214"
   },
   {
     "pid": "215",
@@ -2140,7 +2140,7 @@ module.exports = [
     "romanisation": "gorn naa nii",
     "literalTranslation": "before - next - this",
     "notes": "",
-    "fileName": "a215"
+    "fileName": "215"
   },
   {
     "pid": "216",
@@ -2150,7 +2150,7 @@ module.exports = [
     "romanisation": "jao maa hort wai",
     "literalTranslation": "you - come - arrive - fast",
     "notes": "",
-    "fileName": "a216"
+    "fileName": "216"
   },
   {
     "pid": "217",
@@ -2160,7 +2160,7 @@ module.exports = [
     "romanisation": "lao maa saa",
     "literalTranslation": "he - come - slow",
     "notes": "",
-    "fileName": "a217"
+    "fileName": "217"
   },
   {
     "pid": "218",
@@ -2170,7 +2170,7 @@ module.exports = [
     "romanisation": "gap maa heuan saa",
     "literalTranslation": "return - come - home - slow",
     "notes": "",
-    "fileName": "a218"
+    "fileName": "218"
   },
   {
     "pid": "219",
@@ -2180,7 +2180,7 @@ module.exports = [
     "romanisation": "lang jaak nan",
     "literalTranslation": "behind - from - that",
     "notes": "",
-    "fileName": "a219"
+    "fileName": "219"
   },
   {
     "pid": "220",
@@ -2190,7 +2190,7 @@ module.exports = [
     "romanisation": "sao",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a220"
+    "fileName": "220"
   },
   {
     "pid": "221",
@@ -2200,7 +2200,7 @@ module.exports = [
     "romanisation": "baai",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a221"
+    "fileName": "221"
   },
   {
     "pid": "222",
@@ -2210,7 +2210,7 @@ module.exports = [
     "romanisation": "laeng",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a222"
+    "fileName": "222"
   },
   {
     "pid": "223",
@@ -2220,7 +2220,7 @@ module.exports = [
     "romanisation": "gaang keun",
     "literalTranslation": "middle - night",
     "notes": "",
-    "fileName": "a223"
+    "fileName": "223"
   },
   {
     "pid": "224",
@@ -2230,7 +2230,7 @@ module.exports = [
     "romanisation": "nai dawn laeng",
     "literalTranslation": "in - at (time of day) - early evening",
     "notes": "",
-    "fileName": "a224"
+    "fileName": "224"
   },
   {
     "pid": "225",
@@ -2240,7 +2240,7 @@ module.exports = [
     "romanisation": "nai dawn gaang keun",
     "literalTranslation": "in - at (time of day) - middle - night",
     "notes": "",
-    "fileName": "a225"
+    "fileName": "225"
   },
   {
     "pid": "226",
@@ -2250,7 +2250,7 @@ module.exports = [
     "romanisation": "meu sao nii",
     "literalTranslation": "day - morning - this",
     "notes": "",
-    "fileName": "a226"
+    "fileName": "226"
   },
   {
     "pid": "227",
@@ -2260,7 +2260,7 @@ module.exports = [
     "romanisation": "meu keun nii",
     "literalTranslation": "day - night - this",
     "notes": "",
-    "fileName": "a227"
+    "fileName": "227"
   },
   {
     "pid": "228",
@@ -2270,7 +2270,7 @@ module.exports = [
     "romanisation": "beut meu",
     "literalTranslation": "used up - day",
     "notes": "",
-    "fileName": "a228"
+    "fileName": "228"
   },
   {
     "pid": "229",
@@ -2280,7 +2280,7 @@ module.exports = [
     "romanisation": "jak mohng laew?",
     "literalTranslation": "how many - hour - already?",
     "notes": "",
-    "fileName": "a229"
+    "fileName": "229"
   },
   {
     "pid": "230",
@@ -2290,7 +2290,7 @@ module.exports = [
     "romanisation": "thiang keun",
     "literalTranslation": "12:00 - night",
     "notes": "",
-    "fileName": "a230"
+    "fileName": "230"
   },
   {
     "pid": "231",
@@ -2300,7 +2300,7 @@ module.exports = [
     "romanisation": null,
     "literalTranslation": "after midnight - two",
     "notes": "From 1AM to 5AM, use the word “dtee” followed by the hour.",
-    "fileName": "a231"
+    "fileName": "231"
   },
   {
     "pid": "232",
@@ -2310,7 +2310,7 @@ module.exports = [
     "romanisation": null,
     "literalTranslation": "after midnight - four - half",
     "notes": null,
-    "fileName": "a232"
+    "fileName": "232"
   },
   {
     "pid": "233",
@@ -2320,7 +2320,7 @@ module.exports = [
     "romanisation": null,
     "literalTranslation": "after midnight - five",
     "notes": null,
-    "fileName": "a233"
+    "fileName": "233"
   },
   {
     "pid": "234",
@@ -2330,7 +2330,7 @@ module.exports = [
     "romanisation": null,
     "literalTranslation": "six - hour - morning",
     "notes": "From 6am to 12pm, use the hour followed by 'móhng sâo' (ໂມງເຊົ້າ).",
-    "fileName": "a234"
+    "fileName": "234"
   },
   {
     "pid": "235",
@@ -2340,7 +2340,7 @@ module.exports = [
     "romanisation": null,
     "literalTranslation": "seven - hour - morning",
     "notes": "",
-    "fileName": "a235"
+    "fileName": "235"
   },
   {
     "pid": "236",
@@ -2350,7 +2350,7 @@ module.exports = [
     "romanisation": null,
     "literalTranslation": "eight - hour - morning",
     "notes": "",
-    "fileName": "a236"
+    "fileName": "236"
   },
   {
     "pid": "237",
@@ -2360,7 +2360,7 @@ module.exports = [
     "romanisation": null,
     "literalTranslation": "ten - hour - fifteen",
     "notes": "You do not say 'sâo' (ເຊົ້າ) when including minutes past the hour.",
-    "fileName": "a237"
+    "fileName": "237"
   },
   {
     "pid": "238",
@@ -2370,7 +2370,7 @@ module.exports = [
     "romanisation": null,
     "literalTranslation": "noon",
     "notes": "",
-    "fileName": "a238"
+    "fileName": "238"
   },
   {
     "pid": "239",
@@ -2380,7 +2380,7 @@ module.exports = [
     "romanisation": null,
     "literalTranslation": "noon - forty-five",
     "notes": "",
-    "fileName": "a239"
+    "fileName": "239"
   },
   {
     "pid": "240",
@@ -2390,7 +2390,7 @@ module.exports = [
     "romanisation": null,
     "literalTranslation": "afternoon - hour",
     "notes": "From 1pm to 3pm, use the word 'baai' (ບ່າຍ, 'afternoon') followed by the hours.",
-    "fileName": "a240"
+    "fileName": "240"
   },
   {
     "pid": "241",
@@ -2400,7 +2400,7 @@ module.exports = [
     "romanisation": null,
     "literalTranslation": "afternoon - two - hours",
     "notes": "",
-    "fileName": "a241"
+    "fileName": "241"
   },
   {
     "pid": "242",
@@ -2410,7 +2410,7 @@ module.exports = [
     "romanisation": null,
     "literalTranslation": "four - hour - early evening",
     "notes": "Laos has a period of time between afternoon and evening known as 'láeng' (ແລງ). ",
-    "fileName": "a242"
+    "fileName": "242"
   },
   {
     "pid": "243",
@@ -2420,7 +2420,7 @@ module.exports = [
     "romanisation": null,
     "literalTranslation": "five - hour - fifteen",
     "notes": "",
-    "fileName": "a243"
+    "fileName": "243"
   },
   {
     "pid": "244",
@@ -2430,7 +2430,7 @@ module.exports = [
     "romanisation": null,
     "literalTranslation": "seven - hour - at (time) - night",
     "notes": "For 6pm to 11pm use the hours then 'dtàwn khám' (ຕອນຄ່ຳ, 'at night').",
-    "fileName": "a244"
+    "fileName": "244"
   },
   {
     "pid": "245",
@@ -2440,7 +2440,7 @@ module.exports = [
     "romanisation": null,
     "literalTranslation": "seven - hour - half - at (time) - night",
     "notes": "",
-    "fileName": "a245"
+    "fileName": "245"
   },
   {
     "pid": "246",
@@ -2450,7 +2450,7 @@ module.exports = [
     "romanisation": null,
     "literalTranslation": "eight - hour - at (time) - night",
     "notes": "",
-    "fileName": "a246"
+    "fileName": "246"
   },
   {
     "pid": "247",
@@ -2460,7 +2460,7 @@ module.exports = [
     "romanisation": null,
     "literalTranslation": "nine - hour - at (time) - night",
     "notes": "",
-    "fileName": "a247"
+    "fileName": "247"
   },
   {
     "pid": "248",
@@ -2470,7 +2470,7 @@ module.exports = [
     "romanisation": null,
     "literalTranslation": "eleven - hour - twenty-five - at (time) - night",
     "notes": "",
-    "fileName": "a248"
+    "fileName": "248"
   },
   {
     "pid": "249",
@@ -2480,7 +2480,7 @@ module.exports = [
     "romanisation": null,
     "literalTranslation": "two - hour - more than",
     "notes": "",
-    "fileName": "a249"
+    "fileName": "249"
   },
   {
     "pid": "250",
@@ -2490,7 +2490,7 @@ module.exports = [
     "romanisation": "jao daeng-ngaan don bpaan-dai laew?",
     "literalTranslation": "you - married - long time - how much - already?",
     "notes": "",
-    "fileName": "a250"
+    "fileName": "250"
   },
   {
     "pid": "251",
@@ -2500,7 +2500,7 @@ module.exports = [
     "romanisation": "khoy maa yuu pathet lao don laew",
     "literalTranslation": "I - come - stay - country - Laos - long time - already",
     "notes": "",
-    "fileName": "a251"
+    "fileName": "251"
   },
   {
     "pid": "252",
@@ -2510,7 +2510,7 @@ module.exports = [
     "romanisation": "khii lot-meh bpai Luang Phabhang sai welah don bpaan-dai?",
     "literalTranslation": "ride - bus - go - Luang Phabang - use - time - long time - how much?",
     "notes": "",
-    "fileName": "a252"
+    "fileName": "252"
   },
   {
     "pid": "253",
@@ -2520,7 +2520,7 @@ module.exports = [
     "romanisation": "diao khoy sii het hai dek gorn",
     "literalTranslation": "moment - I - future marker - make - give - child - before",
     "notes": "",
-    "fileName": "a253"
+    "fileName": "253"
   },
   {
     "pid": "254",
@@ -2530,7 +2530,7 @@ module.exports = [
     "romanisation": "",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a254"
+    "fileName": "254"
   },
   {
     "pid": "255",
@@ -2540,7 +2540,7 @@ module.exports = [
     "romanisation": "khoy / kaapajao",
     "literalTranslation": "",
     "notes": "The second form is more polite, meaning something like 'your servant'.",
-    "fileName": "a256"
+    "fileName": "256"
   },
   {
     "pid": "256",
@@ -2550,7 +2550,7 @@ module.exports = [
     "romanisation": "phuak hao",
     "literalTranslation": "group of - we",
     "notes": "",
-    "fileName": "a257"
+    "fileName": "257"
   },
   {
     "pid": "258",
@@ -2560,7 +2560,7 @@ module.exports = [
     "romanisation": "jao",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a259"
+    "fileName": "259"
   },
   {
     "pid": "259",
@@ -2570,7 +2570,7 @@ module.exports = [
     "romanisation": "phuak jao",
     "literalTranslation": "group of - you",
     "notes": "",
-    "fileName": "a260"
+    "fileName": "260"
   },
   {
     "pid": "260",
@@ -2580,7 +2580,7 @@ module.exports = [
     "romanisation": "naang",
     "literalTranslation": "",
     "notes": "Polite form, similar to 'Miss' or 'Mrs'.",
-    "fileName": "a261"
+    "fileName": "261"
   },
   {
     "pid": "261",
@@ -2590,7 +2590,7 @@ module.exports = [
     "romanisation": "thaan",
     "literalTranslation": "",
     "notes": "Polite form, similar to 'Mr' or 'Sir'",
-    "fileName": "a"
+    "fileName": ""
   },
   {
     "pid": "262",
@@ -2600,7 +2600,7 @@ module.exports = [
     "romanisation": "kao / laao",
     "literalTranslation": "",
     "notes": "ລາວ (laao) is more informal.",
-    "fileName": "a263"
+    "fileName": "263"
   },
   {
     "pid": "263",
@@ -2610,7 +2610,7 @@ module.exports = [
     "romanisation": "phuak kao / phuak laao",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a264"
+    "fileName": "264"
   },
   {
     "pid": "264",
@@ -2620,7 +2620,7 @@ module.exports = [
     "romanisation": "mun",
     "literalTranslation": "",
     "notes": "Used for animals as well as objects.",
-    "fileName": "a265"
+    "fileName": "265"
   },
   {
     "pid": "265",
@@ -2630,7 +2630,7 @@ module.exports = [
     "romanisation": "galunaa ao hai laao",
     "literalTranslation": "please - take - give - him",
     "notes": "",
-    "fileName": "a266"
+    "fileName": "266"
   },
   {
     "pid": "266",
@@ -2640,7 +2640,7 @@ module.exports = [
     "romanisation": "phuak laao hiu",
     "literalTranslation": "group of - him - hungry",
     "notes": "",
-    "fileName": "a267"
+    "fileName": "267"
   },
   {
     "pid": "267",
@@ -2650,7 +2650,7 @@ module.exports = [
     "romanisation": "laao mii-kwaam-suuk",
     "literalTranslation": "she/he - happy",
     "notes": "",
-    "fileName": "a268"
+    "fileName": "268"
   },
   {
     "pid": "268",
@@ -2660,7 +2660,7 @@ module.exports = [
     "romanisation": "laao bpen luuk-khaa bajum",
     "literalTranslation": "he - is - customer - regular",
     "notes": "",
-    "fileName": "a269"
+    "fileName": "269"
   },
   {
     "pid": "269",
@@ -2670,7 +2670,7 @@ module.exports = [
     "romanisation": "bork hai phuak kao maa gin khao",
     "literalTranslation": "tell - give - group of - him - come - eat - rice",
     "notes": "",
-    "fileName": "a270"
+    "fileName": "270"
   },
   {
     "pid": "270",
@@ -2680,7 +2680,7 @@ module.exports = [
     "romanisation": "laao mii ngern laai",
     "literalTranslation": "she/he - have - money - lots",
     "notes": "",
-    "fileName": "a271"
+    "fileName": "271"
   },
   {
     "pid": "271",
@@ -2690,7 +2690,7 @@ module.exports = [
     "romanisation": "dtua aeng",
     "literalTranslation": "body - self",
     "notes": "",
-    "fileName": "a273"
+    "fileName": "273"
   },
   {
     "pid": "272",
@@ -2700,7 +2700,7 @@ module.exports = [
     "romanisation": "boeng jao kawng nae der",
     "literalTranslation": "look - you - of - polite particle - polite particle",
     "notes": "",
-    "fileName": "a274"
+    "fileName": "274"
   },
   {
     "pid": "273",
@@ -2710,7 +2710,7 @@ module.exports = [
     "romanisation": "gan",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a275"
+    "fileName": "275"
   },
   {
     "pid": "274",
@@ -2720,7 +2720,7 @@ module.exports = [
     "romanisation": "por gap mae huk gan",
     "literalTranslation": "father - and - mother - love - each other",
     "notes": "",
-    "fileName": "a276"
+    "fileName": "276"
   },
   {
     "pid": "275",
@@ -2730,7 +2730,7 @@ module.exports = [
     "romanisation": "kawng",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a277"
+    "fileName": "277"
   },
   {
     "pid": "276",
@@ -2740,7 +2740,7 @@ module.exports = [
     "romanisation": "lot khan nan bpen kawng pai? mun bpen kawng mae",
     "literalTranslation": "car - classifier for vehicles - that - is - belonging to - who? it - is - belonging to - mother",
     "notes": "",
-    "fileName": "a278"
+    "fileName": "278"
   },
   {
     "pid": "277",
@@ -2750,7 +2750,7 @@ module.exports = [
     "romanisation": "ga-bpong jao ngaam",
     "literalTranslation": "dress  - you - pretty",
     "notes": "",
-    "fileName": "a279"
+    "fileName": "279"
   },
   {
     "pid": "278",
@@ -2760,7 +2760,7 @@ module.exports = [
     "romanisation": "an nii laakaa tao dai?",
     "literalTranslation": "item - this - price - equal to - what?",
     "notes": "",
-    "fileName": "a280"
+    "fileName": "280"
   },
   {
     "pid": "279",
@@ -2770,7 +2770,7 @@ module.exports = [
     "romanisation": "dto dto nii nyai gua dto nan",
     "literalTranslation": "table - classifier - this - big - more than - table - classifier - that",
     "notes": "The character 'ະ' shortens the length of the vowel. Hence 'ໂຕະ' (dto - table) has a shorter vowel sound than 'ໂຕ' (dto - classifier).",
-    "fileName": "a281"
+    "fileName": "281"
   },
   {
     "pid": "280",
@@ -2780,7 +2780,7 @@ module.exports = [
     "romanisation": "dek noy phu-nying suum nan kao beua",
     "literalTranslation": "child - little - female - group - that - they - bored",
     "notes": "",
-    "fileName": "a1280"
+    "fileName": "1280"
   },
   {
     "pid": "281",
@@ -2790,7 +2790,7 @@ module.exports = [
     "romanisation": "mii pai het laew le baw?",
     "literalTranslation": "is there - anyone - do - already - or - question particle?",
     "notes": "",
-    "fileName": "a1281"
+    "fileName": "1281"
   },
   {
     "pid": "282",
@@ -2800,7 +2800,7 @@ module.exports = [
     "romanisation": "baw mii pai yuu nii",
     "literalTranslation": "not - have - anyone - at - this",
     "notes": "",
-    "fileName": "a1283"
+    "fileName": "1283"
   },
   {
     "pid": "283",
@@ -2810,7 +2810,7 @@ module.exports = [
     "romanisation": "taan huujak pai thi saamaat lin gii-dtaa baw?",
     "literalTranslation": "you - know - anyone - that - can - play - guitar - question particle?",
     "notes": "",
-    "fileName": "a282"
+    "fileName": "282"
   },
   {
     "pid": "284",
@@ -2820,7 +2820,7 @@ module.exports = [
     "romanisation": "tholaphaap baw mii nyang bpen dtaa boeng",
     "literalTranslation": "tv - not - have - anything - is - eye - watch ",
     "notes": "",
-    "fileName": "a283"
+    "fileName": "283"
   },
   {
     "pid": "285",
@@ -2830,7 +2830,7 @@ module.exports = [
     "romanisation": "khoy yaak seu bahng yahng meua baan",
     "literalTranslation": "I - want - buy - some - kind - return - home",
     "notes": "",
-    "fileName": "a284"
+    "fileName": "284"
   },
   {
     "pid": "286",
@@ -2840,7 +2840,7 @@ module.exports = [
     "romanisation": "laao baw yaak bpai sai",
     "literalTranslation": "he - not - want - go - anywhere",
     "notes": "",
-    "fileName": "a285"
+    "fileName": "285"
   },
   {
     "pid": "287",
@@ -2850,7 +2850,7 @@ module.exports = [
     "romanisation": "mii bon-dai dtae bawn dai baw?",
     "literalTranslation": "is there - where - kick - ball - can - question particle?",
     "notes": "",
-    "fileName": "a286"
+    "fileName": "286"
   },
   {
     "pid": "288",
@@ -2860,7 +2860,7 @@ module.exports = [
     "romanisation": "foe saam thuay",
     "literalTranslation": "noodle soup - three - classifier for cups",
     "notes": "",
-    "fileName": "a287"
+    "fileName": "287"
   },
   {
     "pid": "289",
@@ -2870,7 +2870,7 @@ module.exports = [
     "romanisation": "seua sii-khaao sawng doh",
     "literalTranslation": "shirt - white - two - classifier for shirts",
     "notes": "",
-    "fileName": "a288"
+    "fileName": "288"
   },
   {
     "pid": "290",
@@ -2880,7 +2880,7 @@ module.exports = [
     "romanisation": "phuak-hao hiu",
     "literalTranslation": "we - hungry",
     "notes": "",
-    "fileName": "a289"
+    "fileName": "289"
   },
   {
     "pid": "291",
@@ -2890,7 +2890,7 @@ module.exports = [
     "romanisation": "phuak-hao mii-kwaam-suuk",
     "literalTranslation": "we - happy",
     "notes": "",
-    "fileName": "a290"
+    "fileName": "290"
   },
   {
     "pid": "292",
@@ -2900,7 +2900,7 @@ module.exports = [
     "romanisation": "laao bpen khon baw dii",
     "literalTranslation": "he - is - person - not - good",
     "notes": "",
-    "fileName": "a291"
+    "fileName": "291"
   },
   {
     "pid": "293",
@@ -2910,7 +2910,7 @@ module.exports = [
     "romanisation": "phuu-nying phuak nan beua",
     "literalTranslation": "female - group - that - bored",
     "notes": "",
-    "fileName": "a292"
+    "fileName": "292"
   },
   {
     "pid": "294",
@@ -2920,7 +2920,7 @@ module.exports = [
     "romanisation": "phuu-saai suum nan mii-kwaam-suuk",
     "literalTranslation": "male - group - that - happy",
     "notes": "",
-    "fileName": "a293"
+    "fileName": "293"
   },
   {
     "pid": "295",
@@ -2930,7 +2930,7 @@ module.exports = [
     "romanisation": "an nan dtaek-dtang-gan",
     "literalTranslation": "item - that - different",
     "notes": "",
-    "fileName": "a294"
+    "fileName": "294"
   },
   {
     "pid": "296",
@@ -2940,7 +2940,7 @@ module.exports = [
     "romanisation": "phuu tao khon neung gap phu saao khon neung",
     "literalTranslation": "person - old - classifier for people - one - with - person - young woman - classifier for people - one",
     "notes": "",
-    "fileName": "a295"
+    "fileName": "295"
   },
   {
     "pid": "297",
@@ -2950,7 +2950,7 @@ module.exports = [
     "romanisation": "khon gae bahng khon mak bpai wat",
     "literalTranslation": "person - elderly - some - classifier for people - like - go - temple",
     "notes": "",
-    "fileName": "a296"
+    "fileName": "296"
   },
   {
     "pid": "298",
@@ -2960,7 +2960,7 @@ module.exports = [
     "romanisation": "galunaa ao bpum sii-daeng sawng hua nan hai khoy",
     "literalTranslation": "please - take - book - red - two - classifier for books - that - give - me",
     "notes": "",
-    "fileName": "a297"
+    "fileName": "297"
   },
   {
     "pid": "299",
@@ -2970,7 +2970,7 @@ module.exports = [
     "romanisation": "dek nawy sawng khon nan bpai sai",
     "literalTranslation": "child - little - two - classifier for people - that - go - where?",
     "notes": "",
-    "fileName": "a298"
+    "fileName": "298"
   },
   {
     "pid": "300",
@@ -2980,7 +2980,7 @@ module.exports = [
     "romanisation": "suut sii-daeng ngaam gua",
     "literalTranslation": "outfit - red - pretty - more than",
     "notes": "",
-    "fileName": "a299"
+    "fileName": "299"
   },
   {
     "pid": "301",
@@ -2990,7 +2990,7 @@ module.exports = [
     "romanisation": "dek nawy phu nan salaat gua khoy",
     "literalTranslation": "child - little - person - that - smart - more than - me",
     "notes": "",
-    "fileName": "a300"
+    "fileName": "300"
   },
   {
     "pid": "302",
@@ -3000,7 +3000,7 @@ module.exports = [
     "romanisation": "",
     "literalTranslation": "shop - food - this - cheap - more than - shop - that",
     "notes": "",
-    "fileName": "a301"
+    "fileName": "301"
   },
   {
     "pid": "303",
@@ -3010,7 +3010,7 @@ module.exports = [
     "romanisation": "pathet lao hawn gua eulop",
     "literalTranslation": "country - Laos - hot - more than - Europe",
     "notes": "",
-    "fileName": "a302"
+    "fileName": "302"
   },
   {
     "pid": "304",
@@ -3020,7 +3020,7 @@ module.exports = [
     "romanisation": "phuak-lao pak yuu hong-haem tii paeng tii-sut",
     "literalTranslation": "they - rest - at - hotel - expensive - most",
     "notes": "",
-    "fileName": "a303"
+    "fileName": "303"
   },
   {
     "pid": "305",
@@ -3030,7 +3030,7 @@ module.exports = [
     "romanisation": "ahaan jaan nii saep tii-sut",
     "literalTranslation": "food - dish - this - delicious - most",
     "notes": "",
-    "fileName": "a304"
+    "fileName": "304"
   },
   {
     "pid": "306",
@@ -3040,7 +3040,7 @@ module.exports = [
     "romanisation": "meu-nii baw naao tao meu-waan",
     "literalTranslation": "today - not - cold - equal to - yesterday",
     "notes": "",
-    "fileName": "a305"
+    "fileName": "305"
   },
   {
     "pid": "307",
@@ -3050,7 +3050,7 @@ module.exports = [
     "romanisation": "phuak-hao maa saa keu gao",
     "literalTranslation": "we - come - slow - like - old",
     "notes": "",
-    "fileName": "a306"
+    "fileName": "306"
   },
   {
     "pid": "308",
@@ -3060,7 +3060,7 @@ module.exports = [
     "romanisation": "an nii keu gan baw?",
     "literalTranslation": "item - this - like - together - question particle?",
     "notes": "",
-    "fileName": "a307"
+    "fileName": "307"
   },
   {
     "pid": "309",
@@ -3070,7 +3070,7 @@ module.exports = [
     "romanisation": "bok-ga-dtii khoy dteun haa mohng sao",
     "literalTranslation": "usually - I - wake up - five - hour - morning",
     "notes": "",
-    "fileName": "a308"
+    "fileName": "308"
   },
   {
     "pid": "310",
@@ -3080,7 +3080,7 @@ module.exports = [
     "romanisation": "khoy mii ngeun khae neung meun giip",
     "literalTranslation": "I - have - money - only - ten thousand - kip",
     "notes": "",
-    "fileName": "a309"
+    "fileName": "309"
   },
   {
     "pid": "311",
@@ -3090,7 +3090,7 @@ module.exports = [
     "romanisation": "phuak-hao mii khao yuu",
     "literalTranslation": "we - have - rice - is",
     "notes": "The word 'khao' means rice but can also be used to refer to food in general.",
-    "fileName": "a310"
+    "fileName": "310"
   },
   {
     "pid": "312",
@@ -3100,7 +3100,7 @@ module.exports = [
     "romanisation": "jao mii sii eun baw?",
     "literalTranslation": "you - have - color - other - question particle?",
     "notes": "",
-    "fileName": "a311"
+    "fileName": "311"
   },
   {
     "pid": "313",
@@ -3110,7 +3110,7 @@ module.exports = [
     "romanisation": "baw mii naam eun der",
     "literalTranslation": "not - have - water - warm - polite particle",
     "notes": "The word 'mii' is used in 'there is' type expressions.",
-    "fileName": "a312"
+    "fileName": "312"
   },
   {
     "pid": "314",
@@ -3120,7 +3120,7 @@ module.exports = [
     "romanisation": "mii wat yuu lang dtalaat",
     "literalTranslation": "there is - temple - situated - behind - market",
     "notes": "",
-    "fileName": "a313"
+    "fileName": "313"
   },
   {
     "pid": "315",
@@ -3130,7 +3130,7 @@ module.exports = [
     "romanisation": "laao bpen muu kawng khoy",
     "literalTranslation": "he - is - friend - of - me ",
     "notes": "The word 'bpen' (ເປັນ) is the most common equivalent of the verb 'to be'.",
-    "fileName": "a314"
+    "fileName": "314"
   },
   {
     "pid": "316",
@@ -3140,7 +3140,7 @@ module.exports = [
     "romanisation": "mae kawng khoy bpen khon jai-dii",
     "literalTranslation": "mother - of - me - is - person - kind",
     "notes": "",
-    "fileName": "a315"
+    "fileName": "315"
   },
   {
     "pid": "317",
@@ -3150,7 +3150,7 @@ module.exports = [
     "romanisation": "waatsanaa  bpen faen kawng laao",
     "literalTranslation": "Vatsana - is - girlfriend - of - him",
     "notes": "",
-    "fileName": "a316"
+    "fileName": "316"
   },
   {
     "pid": "318",
@@ -3160,7 +3160,7 @@ module.exports = [
     "romanisation": "jao loy naam bpen baw?",
     "literalTranslation": "you - float - water - can - question particle?",
     "notes": "'bpen' (ເປັນ) can sometimes mean 'can' when talking about capability.",
-    "fileName": "a317"
+    "fileName": "317"
   },
   {
     "pid": "319",
@@ -3170,7 +3170,7 @@ module.exports = [
     "romanisation": "jao gin phet dai baw?",
     "literalTranslation": "you - eat - spicy - can - question particle?",
     "notes": "",
-    "fileName": "a318"
+    "fileName": "318"
   },
   {
     "pid": "320",
@@ -3180,7 +3180,7 @@ module.exports = [
     "romanisation": "khoy ao bpen aahaan jae dai baw?",
     "literalTranslation": "I - take - is - food - vegan - can - question particle?",
     "notes": "",
-    "fileName": "a319"
+    "fileName": "319"
   },
   {
     "pid": "321",
@@ -3190,7 +3190,7 @@ module.exports = [
     "romanisation": "het bpen wongom",
     "literalTranslation": "make - is - circle",
     "notes": "",
-    "fileName": "a320"
+    "fileName": "320"
   },
   {
     "pid": "322",
@@ -3200,7 +3200,7 @@ module.exports = [
     "romanisation": "bpen khai wat",
     "literalTranslation": "suffer from - fever - cold",
     "notes": "We use 'bpen' to mean 'suffer from' in the case of health issues.",
-    "fileName": "a321"
+    "fileName": "321"
   },
   {
     "pid": "323",
@@ -3210,7 +3210,7 @@ module.exports = [
     "romanisation": "maa gin khao num gan",
     "literalTranslation": "come - eat - rice - with - together",
     "notes": "",
-    "fileName": "a322"
+    "fileName": "322"
   },
   {
     "pid": "324",
@@ -3220,7 +3220,7 @@ module.exports = [
     "romanisation": "lot mae maa laew",
     "literalTranslation": "vehicle - mail - come - already",
     "notes": "",
-    "fileName": "a323"
+    "fileName": "323"
   },
   {
     "pid": "325",
@@ -3230,7 +3230,7 @@ module.exports = [
     "romanisation": "maa yaam peun",
     "literalTranslation": "come - visit",
     "notes": "",
-    "fileName": "a324"
+    "fileName": "324"
   },
   {
     "pid": "326",
@@ -3240,7 +3240,7 @@ module.exports = [
     "romanisation": "mii khon toh maa",
     "literalTranslation": "there is - person - phone - come",
     "notes": "As well as meaning 'come' and 'go', 'maa' (ມາ) and 'bpai' (ໄປ) are used with some verbs to indicate the direction of an action.",
-    "fileName": "a325"
+    "fileName": "325"
   },
   {
     "pid": "327",
@@ -3250,7 +3250,7 @@ module.exports = [
     "romanisation": "jao phawm sii bpai laew baw?",
     "literalTranslation": "you - ready - future marker - go - already - question particle?",
     "notes": "",
-    "fileName": "a326"
+    "fileName": "326"
   },
   {
     "pid": "328",
@@ -3260,7 +3260,7 @@ module.exports = [
     "romanisation": "bpai seu keuang",
     "literalTranslation": "go - buy - stuff",
     "notes": "",
-    "fileName": "a327"
+    "fileName": "327"
   },
   {
     "pid": "329",
@@ -3270,7 +3270,7 @@ module.exports = [
     "romanisation": "bpai thiao",
     "literalTranslation": "go - trip",
     "notes": "",
-    "fileName": "a328"
+    "fileName": "328"
   },
   {
     "pid": "330",
@@ -3280,7 +3280,7 @@ module.exports = [
     "romanisation": "khoy gamlang-sii bpai dtalaat",
     "literalTranslation": "I - about to - go - market",
     "notes": "",
-    "fileName": "a329"
+    "fileName": "329"
   },
   {
     "pid": "331",
@@ -3290,7 +3290,7 @@ module.exports = [
     "romanisation": "",
     "literalTranslation": "he - return - already",
     "notes": "",
-    "fileName": "a330"
+    "fileName": "330"
   },
   {
     "pid": "332",
@@ -3300,7 +3300,7 @@ module.exports = [
     "romanisation": "kheuang phuak nii paeng gern bpai",
     "literalTranslation": "stuff - group of - this - expensive - exceed - go",
     "notes": "",
-    "fileName": "a331"
+    "fileName": "331"
   },
   {
     "pid": "333",
@@ -3310,7 +3310,7 @@ module.exports = [
     "romanisation": "meu-eun khoy gap maa ga-dai",
     "literalTranslation": "tomorrow - I - return - come - if you like",
     "notes": "",
-    "fileName": "a332"
+    "fileName": "332"
   },
   {
     "pid": "334",
@@ -3320,7 +3320,7 @@ module.exports = [
     "romanisation": "khoy yeum lot jao dai baw?",
     "literalTranslation": "I - borrow - vehicle - you - can - question particle?",
     "notes": "Adding 'dai baw' (ໄດ້ບໍ່) to the end of a sentence makes it a request.",
-    "fileName": "a333"
+    "fileName": "333"
   },
   {
     "pid": "335",
@@ -3330,7 +3330,7 @@ module.exports = [
     "romanisation": "khoy gin het baw dai leuy",
     "literalTranslation": "I - eat - mushroom - not - can - at all",
     "notes": "Placing 'baw dai' (ບໍ່ໄດ້) after a verb means that an action is not possible.",
-    "fileName": "a334"
+    "fileName": "334"
   },
   {
     "pid": "336",
@@ -3340,7 +3340,7 @@ module.exports = [
     "romanisation": "khoy nyok mun baw dai",
     "literalTranslation": "I - lift - it - not - can",
     "notes": "",
-    "fileName": "a335"
+    "fileName": "335"
   },
   {
     "pid": "337",
@@ -3350,7 +3350,7 @@ module.exports = [
     "romanisation": "kao baw dai bpai pathet laao",
     "literalTranslation": "he - not - did - go - country - Laos",
     "notes": "Placing 'baw dai' (ບໍ່ໄດ້) before a verb means that the action did not happen.",
-    "fileName": "a336"
+    "fileName": "336"
   },
   {
     "pid": "338",
@@ -3360,7 +3360,7 @@ module.exports = [
     "romanisation": "jao yaak bpai seu kheuang baw? bpai ga-dai",
     "literalTranslation": "you - want to - go - buy - stuff - question particle? go - if you like",
     "notes": "",
-    "fileName": "a337"
+    "fileName": "337"
   },
   {
     "pid": "339",
@@ -3370,7 +3370,7 @@ module.exports = [
     "romanisation": "jao yaak bpai dtalaat baw? khoy yaak bpai",
     "literalTranslation": "you - want to - go - market - question particle? I - want to - go ",
     "notes": "",
-    "fileName": "a338"
+    "fileName": "338"
   },
   {
     "pid": "340",
@@ -3380,7 +3380,7 @@ module.exports = [
     "romanisation": "an dai ga-dai tii jao mak",
     "literalTranslation": "item - which - whichever - that - you - like",
     "notes": "",
-    "fileName": "a339"
+    "fileName": "339"
   },
   {
     "pid": "341",
@@ -3390,7 +3390,7 @@ module.exports = [
     "romanisation": "jao baw dtong ao nyang maa ga-dai",
     "literalTranslation": "you - not - need to - take - anything - come - as you like",
     "notes": "The word 'dtong' (ຕ້ອງ) is similar to 'have to' or 'must'.",
-    "fileName": "a340"
+    "fileName": "340"
   },
   {
     "pid": "342",
@@ -3400,7 +3400,7 @@ module.exports = [
     "romanisation": "khoy dtong bpai het wiak",
     "literalTranslation": "I - have to - go - do - work",
     "notes": "",
-    "fileName": "a341"
+    "fileName": "341"
   },
   {
     "pid": "343",
@@ -3410,7 +3410,7 @@ module.exports = [
     "romanisation": "phuak-hao dtong het wiak laew don-dai?",
     "literalTranslation": "we - have to - do - work - already - when",
     "notes": "",
-    "fileName": "a342"
+    "fileName": "342"
   },
   {
     "pid": "344",
@@ -3420,7 +3420,7 @@ module.exports = [
     "romanisation": "jao khuan sii bpai haa thaan-mor",
     "literalTranslation": "you - should - future marker - go - find - doctor",
     "notes": "",
-    "fileName": "a343"
+    "fileName": "343"
   },
   {
     "pid": "345",
@@ -3430,7 +3430,7 @@ module.exports = [
     "romanisation": "phuak-hao khuan sii bpai hort wai gwah han",
     "literalTranslation": "we - should - future marker - go - arrive - fast - more than - there",
     "notes": "",
-    "fileName": "a344"
+    "fileName": "344"
   },
   {
     "pid": "346",
@@ -3440,7 +3440,7 @@ module.exports = [
     "romanisation": "jao yaak bpai gin khao khang-nork baw?",
     "literalTranslation": "you - want to - go - eat - rice - outside - question particle?",
     "notes": "",
-    "fileName": "a345"
+    "fileName": "345"
   },
   {
     "pid": "347",
@@ -3450,7 +3450,7 @@ module.exports = [
     "romanisation": "kao baw yaak lin",
     "literalTranslation": "he - not - want to - play",
     "notes": "",
-    "fileName": "a346"
+    "fileName": "346"
   },
   {
     "pid": "348",
@@ -3460,7 +3460,7 @@ module.exports = [
     "romanisation": "khoy dai ao ngeun hai mae",
     "literalTranslation": "I - did - take - money - give - mother",
     "notes": "",
-    "fileName": "a347"
+    "fileName": "347"
   },
   {
     "pid": "349",
@@ -3470,7 +3470,7 @@ module.exports = [
     "romanisation": "hua-naa yaak hai khoy meua baan wai",
     "literalTranslation": "boss - want to - let - me - return - home - fast",
     "notes": "As well as meaning 'give', 'hai' (ໃຫ້) can also mean 'allow/let'.",
-    "fileName": "a348"
+    "fileName": "348"
   },
   {
     "pid": "350",
@@ -3480,7 +3480,7 @@ module.exports = [
     "romanisation": "hai khoy boeng num nair",
     "literalTranslation": "give - me - look - bring - polite particle",
     "notes": "",
-    "fileName": "a349"
+    "fileName": "349"
   },
   {
     "pid": "351",
@@ -3490,7 +3490,7 @@ module.exports = [
     "romanisation": "galunaa ao bpum bpai hong-hian num meu-eun",
     "literalTranslation": "please - take - book - go - school - bring - tomorrow",
     "notes": "The word 'ao' (ເອົາ) can mean 'take', 'accept' or 'bring'.",
-    "fileName": "a350"
+    "fileName": "350"
   },
   {
     "pid": "352",
@@ -3500,7 +3500,7 @@ module.exports = [
     "romanisation": "khoy sii ao saa khiao",
     "literalTranslation": "I - future marker - take - tea - green",
     "notes": "",
-    "fileName": "a351"
+    "fileName": "351"
   },
   {
     "pid": "353",
@@ -3510,7 +3510,7 @@ module.exports = [
     "romanisation": "pai het gaeo dtaek?",
     "literalTranslation": "who - cause - drinking glass - break",
     "notes": "The word 'het' (ເຮັດ) expresses the idea of causation. It is similar to 'do' and 'make'.",
-    "fileName": "a352"
+    "fileName": "352"
   },
   {
     "pid": "354",
@@ -3520,7 +3520,7 @@ module.exports = [
     "romanisation": "laao het wiak yuu hong mor",
     "literalTranslation": "he - do - work - at - building - doctor",
     "notes": "",
-    "fileName": "a353"
+    "fileName": "353"
   },
   {
     "pid": "355",
@@ -3530,7 +3530,7 @@ module.exports = [
     "romanisation": "khoy sii sai an nii naeo-dai?",
     "literalTranslation": "I - future marker - use - item - this - how?",
     "notes": "",
-    "fileName": "a354"
+    "fileName": "354"
   },
   {
     "pid": "356",
@@ -3540,7 +3540,7 @@ module.exports = [
     "romanisation": "jao mak nang leaung nii baw? mak",
     "literalTranslation": "you - like - movie - classifier for movies - this - question particle? like",
     "notes": "Adding 'baw' (ບໍ່) to the end of a sentence turns it into a question.",
-    "fileName": "a355"
+    "fileName": "355"
   },
   {
     "pid": "357",
@@ -3550,7 +3550,7 @@ module.exports = [
     "romanisation": "fohn dtok baw? baw",
     "literalTranslation": "rain - fall - question particle? no",
     "notes": "",
-    "fileName": "a356"
+    "fileName": "356"
   },
   {
     "pid": "358",
@@ -3560,7 +3560,7 @@ module.exports = [
     "romanisation": "saep baw? saep yuu",
     "literalTranslation": "tasty - question particle? tasty is",
     "notes": "An affirmative answer usually repeats the verb or adjective of the question.",
-    "fileName": "a357"
+    "fileName": "357"
   },
   {
     "pid": "359",
@@ -3570,7 +3570,7 @@ module.exports = [
     "romanisation": "mun paeng baw? baw paeng",
     "literalTranslation": "it - expensive - question particle? not - expensive",
     "notes": "",
-    "fileName": "a358"
+    "fileName": "358"
   },
   {
     "pid": "360",
@@ -3580,7 +3580,7 @@ module.exports = [
     "romanisation": "jao gamlang bpai seu kheuang maen baw? maen laew",
     "literalTranslation": "you - currently - go - buy - stuff - yes - question particle? yes - already",
     "notes": "We use 'maen baw' (ແມ່ນບໍ່) to seek confirmation.",
-    "fileName": "a359"
+    "fileName": "359"
   },
   {
     "pid": "361",
@@ -3590,7 +3590,7 @@ module.exports = [
     "romanisation": "mae jao bpen khon laao maen baw? baw maen",
     "literalTranslation": "mother - you - is - person - Lao - yes - question particle? not - yes",
     "notes": "",
-    "fileName": "a360"
+    "fileName": "360"
   },
   {
     "pid": "362",
@@ -3600,7 +3600,7 @@ module.exports = [
     "romanisation": "laao bpen faen jao maen baw? baw maen",
     "literalTranslation": "he - is - boyfriend - you - yes - question particle? not - yes",
     "notes": "",
-    "fileName": "a361"
+    "fileName": "361"
   },
   {
     "pid": "363",
@@ -3610,7 +3610,7 @@ module.exports = [
     "romanisation": "taan baw dai bork laao dti? khoy bork yuu",
     "literalTranslation": "you - not - did - tell - him - question particle? I - tell - is",
     "notes": "",
-    "fileName": "a362"
+    "fileName": "362"
   },
   {
     "pid": "364",
@@ -3620,7 +3620,7 @@ module.exports = [
     "romanisation": "jao sii bpai baw? bpai",
     "literalTranslation": "you - future marker - go - question particle? go",
     "notes": "",
-    "fileName": "a363"
+    "fileName": "363"
   },
   {
     "pid": "365",
@@ -3630,7 +3630,7 @@ module.exports = [
     "romanisation": "por laew baw? baw por",
     "literalTranslation": "enough - already - question particle? not - enough",
     "notes": "",
-    "fileName": "a364"
+    "fileName": "364"
   },
   {
     "pid": "366",
@@ -3640,7 +3640,7 @@ module.exports = [
     "romanisation": "euay jao gap maa heuan laew baw? gap maa laew",
     "literalTranslation": "older sister - you - return - come - home - already - question particle? return - come - already",
     "notes": "",
-    "fileName": "a365"
+    "fileName": "365"
   },
   {
     "pid": "367",
@@ -3650,7 +3650,7 @@ module.exports = [
     "romanisation": "huu baw waa khoy keut hort?",
     "literalTranslation": "know - question particle - that - I - think - arrive?",
     "notes": "The question word sometimes appears in the middle of a sentence.",
-    "fileName": "a366"
+    "fileName": "366"
   },
   {
     "pid": "368",
@@ -3660,7 +3660,7 @@ module.exports = [
     "romanisation": "mii pai jak khon sii hak duay jai jing?",
     "literalTranslation": "have - anyone - how many - person - future marker - love - with - heart - real?",
     "notes": "",
-    "fileName": "a367"
+    "fileName": "367"
   },
   {
     "pid": "369",
@@ -3670,7 +3670,7 @@ module.exports = [
     "romanisation": "jak mohng laew?",
     "literalTranslation": "how many - hour - already",
     "notes": "",
-    "fileName": "a368"
+    "fileName": "368"
   },
   {
     "pid": "370",
@@ -3680,7 +3680,7 @@ module.exports = [
     "romanisation": "an nii keu nyang?",
     "literalTranslation": "item - this - is - what?",
     "notes": "",
-    "fileName": "a369"
+    "fileName": "369"
   },
   {
     "pid": "371",
@@ -3690,7 +3690,7 @@ module.exports = [
     "romanisation": "laao seu nyang?",
     "literalTranslation": "he - name - what?",
     "notes": "",
-    "fileName": "a370"
+    "fileName": "370"
   },
   {
     "pid": "372",
@@ -3700,7 +3700,7 @@ module.exports = [
     "romanisation": "khoy gamlang wao gap pai?",
     "literalTranslation": "I - currently - speak - with - who?",
     "notes": "",
-    "fileName": "a371"
+    "fileName": "371"
   },
   {
     "pid": "373",
@@ -3710,7 +3710,7 @@ module.exports = [
     "romanisation": "an nii bpen khawng pai? mun bpen khawng khoy",
     "literalTranslation": "item - this - is - belonging to - who? it - is - belonging to - me",
     "notes": "",
-    "fileName": "a372"
+    "fileName": "372"
   },
   {
     "pid": "374",
@@ -3720,7 +3720,7 @@ module.exports = [
     "romanisation": "jao yaak dai doh dai?",
     "literalTranslation": "you - want to - receive - classifier for things - which?",
     "notes": "",
-    "fileName": "a373"
+    "fileName": "373"
   },
   {
     "pid": "375",
@@ -3730,7 +3730,7 @@ module.exports = [
     "romanisation": "bpam num-mun gai sut yuu sai?",
     "literalTranslation": "pump - oil - near - most - at - where?",
     "notes": "",
-    "fileName": "a374"
+    "fileName": "374"
   },
   {
     "pid": "376",
@@ -3740,7 +3740,7 @@ module.exports = [
     "romanisation": "jao gert yuu sai?",
     "literalTranslation": "you - born - at - where?",
     "notes": "",
-    "fileName": "a375"
+    "fileName": "375"
   },
   {
     "pid": "377",
@@ -3750,7 +3750,7 @@ module.exports = [
     "romanisation": "tholasap khawng khoy yuu sai?",
     "literalTranslation": "phone - belonging to - me - at - where?",
     "notes": "",
-    "fileName": "a376"
+    "fileName": "376"
   },
   {
     "pid": "378",
@@ -3760,7 +3760,7 @@ module.exports = [
     "romanisation": "laao sii maa jak mohng?",
     "literalTranslation": "he - future marker - come - how many - hour?",
     "notes": "",
-    "fileName": "a377"
+    "fileName": "377"
   },
   {
     "pid": "379",
@@ -3770,7 +3770,7 @@ module.exports = [
     "romanisation": "jao maa hort don dai?",
     "literalTranslation": "you - come - arrive - period of  time - which?",
     "notes": "",
-    "fileName": "a378"
+    "fileName": "378"
   },
   {
     "pid": "380",
@@ -3780,7 +3780,7 @@ module.exports = [
     "romanisation": "hong-hian sii bpert meu dai?",
     "literalTranslation": "school - future marker - open - day - which?",
     "notes": "",
-    "fileName": "a379"
+    "fileName": "379"
   },
   {
     "pid": "381",
@@ -3790,7 +3790,7 @@ module.exports = [
     "romanisation": "jao sii bork laao don dai?",
     "literalTranslation": "you - future marker - tell - him - period of time - which?",
     "notes": "",
-    "fileName": "a380"
+    "fileName": "380"
   },
   {
     "pid": "382",
@@ -3800,7 +3800,7 @@ module.exports = [
     "romanisation": "bpen nyang jao keu maa saa?",
     "literalTranslation": "is - what - you - is - come - slow?",
     "notes": "",
-    "fileName": "a381"
+    "fileName": "381"
   },
   {
     "pid": "383",
@@ -3810,7 +3810,7 @@ module.exports = [
     "romanisation": "bpen nyang jao baw bork khoy?",
     "literalTranslation": "is - what - you - not - tell - me?",
     "notes": "",
-    "fileName": "a382"
+    "fileName": "382"
   },
   {
     "pid": "384",
@@ -3820,7 +3820,7 @@ module.exports = [
     "romanisation": "jao maa baep dai?",
     "literalTranslation": "you - come - style - which?",
     "notes": "",
-    "fileName": "a383"
+    "fileName": "383"
   },
   {
     "pid": "385",
@@ -3830,7 +3830,7 @@ module.exports = [
     "romanisation": "jao keut naeo dai?",
     "literalTranslation": "you - think - kind - which?",
     "notes": "",
-    "fileName": "a384"
+    "fileName": "384"
   },
   {
     "pid": "386",
@@ -3840,7 +3840,7 @@ module.exports = [
     "romanisation": "mii jak khon sii maa gin khao laeng?",
     "literalTranslation": "have - how many - person - future marker - come - eat - rice - evening",
     "notes": "",
-    "fileName": "a385"
+    "fileName": "385"
   },
   {
     "pid": "387",
@@ -3850,7 +3850,7 @@ module.exports = [
     "romanisation": "jao mii luuk jak khon?",
     "literalTranslation": "you - have - child - how many - classifier for people?",
     "notes": "",
-    "fileName": "a386"
+    "fileName": "386"
   },
   {
     "pid": "388",
@@ -3860,7 +3860,7 @@ module.exports = [
     "romanisation": "an nii lakhaa tao dai?",
     "literalTranslation": "item - this - equal to - which?",
     "notes": "",
-    "fileName": "a387"
+    "fileName": "387"
   },
   {
     "pid": "389",
@@ -3870,7 +3870,7 @@ module.exports = [
     "romanisation": "an nii nak thao dai?",
     "literalTranslation": "item - this - heavy - equal to - which?",
     "notes": "",
-    "fileName": "a388"
+    "fileName": "388"
   },
   {
     "pid": "390",
@@ -3880,7 +3880,7 @@ module.exports = [
     "romanisation": "mun gai bpan dai?",
     "literalTranslation": "it - far - to the extent of - which?",
     "notes": "",
-    "fileName": "a389"
+    "fileName": "389"
   },
   {
     "pid": "391",
@@ -3890,7 +3890,7 @@ module.exports = [
     "romanisation": "jao huujak laao dii sum dai?",
     "literalTranslation": "you - know - him - good - to the extent of - which?",
     "notes": "",
-    "fileName": "a390"
+    "fileName": "390"
   },
   {
     "pid": "392",
@@ -3900,7 +3900,7 @@ module.exports = [
     "romanisation": "khoy baw bpai",
     "literalTranslation": "I - not - go",
     "notes": "To negate a verb or adjective we use 'baw' (ບໍ່).",
-    "fileName": "a391"
+    "fileName": "391"
   },
   {
     "pid": "393",
@@ -3910,7 +3910,7 @@ module.exports = [
     "romanisation": "khoy baw dtong-gaan mun",
     "literalTranslation": "I - not - want - it",
     "notes": "",
-    "fileName": "a392"
+    "fileName": "392"
   },
   {
     "pid": "394",
@@ -3920,7 +3920,7 @@ module.exports = [
     "romanisation": "phuak-hao baw mii hawng-naam",
     "literalTranslation": "we - not - have - bathroom",
     "notes": "",
-    "fileName": "a393"
+    "fileName": "393"
   },
   {
     "pid": "395",
@@ -3930,7 +3930,7 @@ module.exports = [
     "romanisation": "laao baw mii wiak het",
     "literalTranslation": "he - not - have - work - do",
     "notes": "",
-    "fileName": "a394"
+    "fileName": "394"
   },
   {
     "pid": "396",
@@ -3940,7 +3940,7 @@ module.exports = [
     "romanisation": "khoy baw maen khon amerigan",
     "literalTranslation": "I - not - am - person - American",
     "notes": "To negate a noun we can use 'baw maen' (ບໍ່ແມ່).",
-    "fileName": "a395"
+    "fileName": "395"
   },
   {
     "pid": "397",
@@ -3950,7 +3950,7 @@ module.exports = [
     "romanisation": "laao baw maen muu khoy",
     "literalTranslation": "she - not - is - friend - me",
     "notes": "",
-    "fileName": "a396"
+    "fileName": "396"
   },
   {
     "pid": "398",
@@ -3960,7 +3960,7 @@ module.exports = [
     "romanisation": "an nan pit",
     "literalTranslation": "item - that - wrong",
     "notes": "",
-    "fileName": "a397"
+    "fileName": "397"
   },
   {
     "pid": "399",
@@ -3970,7 +3970,7 @@ module.exports = [
     "romanisation": "mun baw maen leuang ngaai",
     "literalTranslation": "it - not - is - subject - easy",
     "notes": "",
-    "fileName": "a398"
+    "fileName": "398"
   },
   {
     "pid": "400",
@@ -3980,7 +3980,7 @@ module.exports = [
     "romanisation": "mun baw tun por",
     "literalTranslation": "it - not - - enough",
     "notes": "",
-    "fileName": "a399"
+    "fileName": "399"
   },
   {
     "pid": "401",
@@ -3990,7 +3990,7 @@ module.exports = [
     "romanisation": "heuan baw nyai bpan dai",
     "literalTranslation": "house - not - big - to the extent of - which",
     "notes": "",
-    "fileName": "a400"
+    "fileName": "400"
   },
   {
     "pid": "402",
@@ -4000,7 +4000,7 @@ module.exports = [
     "romanisation": "khoy baw-dai boeng nyaeng laao",
     "literalTranslation": "I - not - look - care - him",
     "notes": "",
-    "fileName": "a401"
+    "fileName": "401"
   },
   {
     "pid": "403",
@@ -4010,7 +4010,7 @@ module.exports = [
     "romanisation": "khoy sii baw bpai bpiap-thiap gap pai",
     "literalTranslation": "I - future marker - not - go - compare - with - anyone",
     "notes": "",
-    "fileName": "a402"
+    "fileName": "402"
   },
   {
     "pid": "404",
@@ -4020,7 +4020,7 @@ module.exports = [
     "romanisation": "khoy sawk haa mun baw hen",
     "literalTranslation": "I - look for - look for - it - not - find",
     "notes": "It's common to string verbs together to describe a sequence of actions. Sometimes two verbs with similar meanings are used together. ",
-    "fileName": "a403"
+    "fileName": "403"
   },
   {
     "pid": "405",
@@ -4030,7 +4030,7 @@ module.exports = [
     "romanisation": "phuak kao nyang baw than maa hort",
     "literalTranslation": "group of - him - still - not - yet - come - arrive",
     "notes": "",
-    "fileName": "a404"
+    "fileName": "404"
   },
   {
     "pid": "406",
@@ -4040,7 +4040,7 @@ module.exports = [
     "romanisation": "phuak hao baw mii waylaa phiang paw",
     "literalTranslation": "group of - we - not - have - time -  - just - enough",
     "notes": "",
-    "fileName": "a405"
+    "fileName": "405"
   },
   {
     "pid": "407",
@@ -4050,7 +4050,7 @@ module.exports = [
     "romanisation": "phetmanii baw dai boeng nang",
     "literalTranslation": "Phetmany - not - did - see - film",
     "notes": "To form a past negative for most verbs, 'baw dai' (ບໍ່ໄດ້) is placed before the verb.",
-    "fileName": "a406"
+    "fileName": "406"
   },
   {
     "pid": "408",
@@ -4060,7 +4060,7 @@ module.exports = [
     "romanisation": "phuak hao baw dai seu lot",
     "literalTranslation": "group of - we - not - did - buy - vehicle",
     "notes": "",
-    "fileName": "a407"
+    "fileName": "407"
   },
   {
     "pid": "409",
@@ -4070,7 +4070,7 @@ module.exports = [
     "romanisation": "jao baw jum-bpen dtong bpai",
     "literalTranslation": "you - not - necessary - have to - go",
     "notes": "",
-    "fileName": "a408"
+    "fileName": "408"
   },
   {
     "pid": "410",
@@ -4080,7 +4080,7 @@ module.exports = [
     "romanisation": "jao haam bpai",
     "literalTranslation": "you - prohibited - go",
     "notes": "",
-    "fileName": "a409"
+    "fileName": "409"
   },
   {
     "pid": "411",
@@ -4090,7 +4090,7 @@ module.exports = [
     "romanisation": "jao nyang het baw laew",
     "literalTranslation": "you - still - do - not - already",
     "notes": "",
-    "fileName": "a410"
+    "fileName": "410"
   },
   {
     "pid": "412",
@@ -4100,7 +4100,7 @@ module.exports = [
     "romanisation": "khoy nyang baw than dai gin khao",
     "literalTranslation": "I - still - not - have time to - can - eat - rice",
     "notes": "",
-    "fileName": "a411"
+    "fileName": "411"
   },
   {
     "pid": "413",
@@ -4110,7 +4110,7 @@ module.exports = [
     "romanisation": "khoy nyang baw than dai hap wiisaa",
     "literalTranslation": "I - still - not - have time to - can - get - visa",
     "notes": "",
-    "fileName": "a412"
+    "fileName": "412"
   },
   {
     "pid": "414",
@@ -4120,7 +4120,7 @@ module.exports = [
     "romanisation": "waatsanaa baw ker-ee hen hiima jak thua",
     "literalTranslation": "Vatsana - not - ever - see - snow - how many - time",
     "notes": "",
-    "fileName": "a413"
+    "fileName": "413"
   },
   {
     "pid": "415",
@@ -4130,7 +4130,7 @@ module.exports = [
     "romanisation": "baw dtong jap",
     "literalTranslation": "not - have to - touch",
     "notes": "",
-    "fileName": "a414"
+    "fileName": "414"
   },
   {
     "pid": "416",
@@ -4140,7 +4140,7 @@ module.exports = [
     "romanisation": "bpen bpai baw dai",
     "literalTranslation": "be - go - not - can",
     "notes": "",
-    "fileName": "a415"
+    "fileName": "415"
   },
   {
     "pid": "417",
@@ -4150,7 +4150,7 @@ module.exports = [
     "romanisation": "phuak hao sii bpai thiao nai dtawn taai bpii",
     "literalTranslation": "group of - we - future marker - go - trip - in - period of time - end - year",
     "notes": "Lao has no tenses, but the words 'sii' (ຊິ) and 'ja' (ຈະ) are used to indicate a future action.",
-    "fileName": "a416"
+    "fileName": "416"
   },
   {
     "pid": "418",
@@ -4160,7 +4160,7 @@ module.exports = [
     "romanisation": "jao sii bpai dtat phom dtawn dai?",
     "literalTranslation": "you - future marker - go - cut - hair - period of time - which?",
     "notes": "",
-    "fileName": "a417"
+    "fileName": "417"
   },
   {
     "pid": "419",
@@ -4170,7 +4170,7 @@ module.exports = [
     "romanisation": "bounmii sii baw dai maa hawng-hian nai meu-eun",
     "literalTranslation": "Bounmy - future marker - not - get to - come - school - in - tomorrow",
     "notes": "",
-    "fileName": "a418"
+    "fileName": "418"
   },
   {
     "pid": "420",
@@ -4180,7 +4180,7 @@ module.exports = [
     "romanisation": "khoy sii bpai dtalaat meu-eun gawn sii meua bawn",
     "literalTranslation": "I - future marker - go - market - tomorrow - before - return - home - polite particle",
     "notes": "",
-    "fileName": "a419"
+    "fileName": "419"
   },
   {
     "pid": "421",
@@ -4190,7 +4190,7 @@ module.exports = [
     "romanisation": "mae gamlang-sii het gap khao",
     "literalTranslation": "mother - about to - make - with - rice",
     "notes": "The construction 'gamlang-sii' (ກຳລັງຊິ) is used to indicate that something is just about to happen.",
-    "fileName": "a420"
+    "fileName": "420"
   },
   {
     "pid": "422",
@@ -4200,7 +4200,7 @@ module.exports = [
     "romanisation": "laao meua laew",
     "literalTranslation": "he - return - already",
     "notes": "The word 'laew' (ແລ້ວ) indicates a finished action, or something that is just happening.",
-    "fileName": "a421"
+    "fileName": "421"
   },
   {
     "pid": "423",
@@ -4210,7 +4210,7 @@ module.exports = [
     "romanisation": "haan ahaan bpit laew",
     "literalTranslation": "shop - food - close - already",
     "notes": "",
-    "fileName": "a422"
+    "fileName": "422"
   },
   {
     "pid": "424",
@@ -4220,7 +4220,7 @@ module.exports = [
     "romanisation": "janmaalii baw sabaai meu sao nii",
     "literalTranslation": "Chanmali - not - well - in - day - morning - this",
     "notes": "A past action may be implied by the context, such as when using a time or date.",
-    "fileName": "a423"
+    "fileName": "423"
   },
   {
     "pid": "425",
@@ -4230,7 +4230,7 @@ module.exports = [
     "romanisation": "khoy bpai sawannaket deuan tii laew nii",
     "literalTranslation": "I - go - Savannakhet - month - position - already",
     "notes": "",
-    "fileName": "a424"
+    "fileName": "424"
   },
   {
     "pid": "426",
@@ -4240,7 +4240,7 @@ module.exports = [
     "romanisation": "khoy baw dai seu ",
     "literalTranslation": "I - not - did - buy",
     "notes": "To form a past negative for most verbs, 'baw dai' (ບໍ່ໄດ້) is placed before the verb.",
-    "fileName": "a425"
+    "fileName": "425"
   },
   {
     "pid": "427",
@@ -4250,7 +4250,7 @@ module.exports = [
     "romanisation": "laao baw dai bork khoy",
     "literalTranslation": "he - not - did - tell - me",
     "notes": "",
-    "fileName": "a426"
+    "fileName": "426"
   },
   {
     "pid": "428",
@@ -4260,7 +4260,7 @@ module.exports = [
     "romanisation": "mun beut laew",
     "literalTranslation": "it - used up - already",
     "notes": "The letter 'ໝ' is officially pronounced as 'm' but in practice often sounds more like 'b'.",
-    "fileName": "a427"
+    "fileName": "427"
   },
   {
     "pid": "429",
@@ -4270,7 +4270,7 @@ module.exports = [
     "romanisation": "phuak khao ha-ga ork bpai",
     "literalTranslation": "group of - him - just - leave - go",
     "notes": "",
-    "fileName": "a428"
+    "fileName": "428"
   },
   {
     "pid": "430",
@@ -4280,7 +4280,7 @@ module.exports = [
     "romanisation": "jao het gaan baan laew leu baw? het laew",
     "literalTranslation": "you - do - work - home - already - or - not? do -already",
     "notes": "",
-    "fileName": "a429"
+    "fileName": "429"
   },
   {
     "pid": "431",
@@ -4290,7 +4290,7 @@ module.exports = [
     "romanisation": "por gap maa heuan laew baw? nyang yuu",
     "literalTranslation": "father - return - come - home - already - question particle? not yet - currently",
     "notes": "",
-    "fileName": "a430"
+    "fileName": "430"
   },
   {
     "pid": "432",
@@ -4300,7 +4300,7 @@ module.exports = [
     "romanisation": "jao dai bpai haa taan mor laew baw? bpai maa laew",
     "literalTranslation": "you - did - go - find - title of respect - doctor - already - question particle? go - come - already",
     "notes": "",
-    "fileName": "a431"
+    "fileName": "431"
   },
   {
     "pid": "433",
@@ -4310,7 +4310,7 @@ module.exports = [
     "romanisation": "jao gin khao laew baw? gin laew",
     "literalTranslation": "you - eat - rice - already - question particle? eat - already",
     "notes": "",
-    "fileName": "a432"
+    "fileName": "432"
   },
   {
     "pid": "434",
@@ -4320,7 +4320,7 @@ module.exports = [
     "romanisation": "fon nyang dtok yuu",
     "literalTranslation": "rain - still - fall - is",
     "notes": "",
-    "fileName": "a433"
+    "fileName": "433"
   },
   {
     "pid": "435",
@@ -4330,7 +4330,7 @@ module.exports = [
     "romanisation": "laao nyang yuu nii",
     "literalTranslation": "he - still - situated - this",
     "notes": "",
-    "fileName": "a434"
+    "fileName": "434"
   },
   {
     "pid": "436",
@@ -4340,7 +4340,7 @@ module.exports = [
     "romanisation": "somporn gamlang basuum yuu",
     "literalTranslation": "Somphone - currently - meeting - currently",
     "notes": "The words 'gamlang' (ກຳລັງ) and 'yuu' (ຢູ່) indicate an ongoing action in the present or past. Either may be dropped. ",
-    "fileName": "a435"
+    "fileName": "435"
   },
   {
     "pid": "437",
@@ -4350,7 +4350,7 @@ module.exports = [
     "romanisation": "euay gamlang boeng torapaap",
     "literalTranslation": "older sister - currently - watch - tv",
     "notes": "",
-    "fileName": "a436"
+    "fileName": "436"
   },
   {
     "pid": "438",
@@ -4360,7 +4360,7 @@ module.exports = [
     "romanisation": "maa gamlang norn yuu",
     "literalTranslation": "dog - currently - sleep - currently",
     "notes": "",
-    "fileName": "a437"
+    "fileName": "437"
   },
   {
     "pid": "439",
@@ -4370,7 +4370,7 @@ module.exports = [
     "romanisation": "laao gamlang lor tha lot meh",
     "literalTranslation": "he - currently - wait - wait - vehicle - mail",
     "notes": "",
-    "fileName": "a438"
+    "fileName": "438"
   },
   {
     "pid": "440",
@@ -4380,7 +4380,7 @@ module.exports = [
     "romanisation": "phuak kao ha-ga gap maa jaak bathet nyipun",
     "literalTranslation": "group of - him - just - return - come - from - country - Japan",
     "notes": "",
-    "fileName": "a439"
+    "fileName": "439"
   },
   {
     "pid": "441",
@@ -4390,7 +4390,7 @@ module.exports = [
     "romanisation": "khoy ha-ga huu",
     "literalTranslation": "I - just - know",
     "notes": "",
-    "fileName": "a440"
+    "fileName": "440"
   },
   {
     "pid": "442",
@@ -4400,7 +4400,7 @@ module.exports = [
     "romanisation": "phuak hao ker-ee bpai wat tuuk tuuk aathit",
     "literalTranslation": "group of - we - used to - go - temple - every - every - week",
     "notes": "The word 'ker-ee' (ເຄີຍ) has two uses. It can be used to talk about whether something has ever happened or not, and to talk about habitual actions in the past.",
-    "fileName": "a441"
+    "fileName": "441"
   },
   {
     "pid": "443",
@@ -4410,7 +4410,7 @@ module.exports = [
     "romanisation": "khoy ker-ee boeng laew",
     "literalTranslation": "I - ever - watch - already",
     "notes": "",
-    "fileName": "a442"
+    "fileName": "442"
   },
   {
     "pid": "444",
@@ -4420,7 +4420,7 @@ module.exports = [
     "romanisation": "jao ker-ee bpai wat sii muang baw? ker-ee",
     "literalTranslation": "you - ever - go - temple - colour - purple - question particle? ever",
     "notes": "",
-    "fileName": "a443"
+    "fileName": "443"
   },
   {
     "pid": "445",
@@ -4430,7 +4430,7 @@ module.exports = [
     "romanisation": "khoy ker-ee bpai dtawn nyang nawy",
     "literalTranslation": "I - ever - go - period of time - still - small",
     "notes": "",
-    "fileName": "a444"
+    "fileName": "444"
   },
   {
     "pid": "446",
@@ -4440,7 +4440,7 @@ module.exports = [
     "romanisation": "khoy dtae bawn dtang-dtair aayu haa bpii",
     "literalTranslation": "I - kick - ball - since - age - five - year",
     "notes": "",
-    "fileName": "a445"
+    "fileName": "445"
   },
   {
     "pid": "447",
@@ -4450,7 +4450,7 @@ module.exports = [
     "romanisation": "phuak hao maa yuu dai sawng deuan laew",
     "literalTranslation": "group of - we - come - situated - did - two - month - already",
     "notes": "",
-    "fileName": "a446"
+    "fileName": "446"
   },
   {
     "pid": "448",
@@ -4460,7 +4460,7 @@ module.exports = [
     "romanisation": "an nii laakaa thao dai?",
     "literalTranslation": "item - this - price - equal to - what?",
     "notes": "",
-    "fileName": "a447"
+    "fileName": "447"
   },
   {
     "pid": "449",
@@ -4470,7 +4470,7 @@ module.exports = [
     "romanisation": "jak giip?",
     "literalTranslation": "how many - kip?",
     "notes": "",
-    "fileName": "a448"
+    "fileName": "448"
   },
   {
     "pid": "450",
@@ -4480,7 +4480,7 @@ module.exports = [
     "romanisation": "an la thao dai?",
     "literalTranslation": "piece - each - equal to - what?",
     "notes": "",
-    "fileName": "a449"
+    "fileName": "449"
   },
   {
     "pid": "451",
@@ -4490,7 +4490,7 @@ module.exports = [
     "romanisation": "loh la thao dai?",
     "literalTranslation": "kilo - each - equal to - what?",
     "notes": "'loh' (ໂລ) is an abbreviation of 'giiloh' (ກິໂລ), from the English word 'kilogram'.",
-    "fileName": "a450"
+    "fileName": "450"
   },
   {
     "pid": "452",
@@ -4500,7 +4500,7 @@ module.exports = [
     "romanisation": "maet la thao dai?",
     "literalTranslation": "metre - each - equal to - what?",
     "notes": "",
-    "fileName": "a451"
+    "fileName": "451"
   },
   {
     "pid": "453",
@@ -4510,7 +4510,7 @@ module.exports = [
     "romanisation": "meu la thao dai?",
     "literalTranslation": "day - each - equal to?",
     "notes": "",
-    "fileName": "a452"
+    "fileName": "452"
   },
   {
     "pid": "454",
@@ -4520,7 +4520,7 @@ module.exports = [
     "romanisation": "ao eeyang?",
     "literalTranslation": "take - what?",
     "notes": "",
-    "fileName": "a453"
+    "fileName": "453"
   },
   {
     "pid": "456",
@@ -4530,7 +4530,7 @@ module.exports = [
     "romanisation": "paeng laai",
     "literalTranslation": "expensive - very",
     "notes": "",
-    "fileName": "a455"
+    "fileName": "455"
   },
   {
     "pid": "457",
@@ -4540,7 +4540,7 @@ module.exports = [
     "romanisation": "thuuk",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a456"
+    "fileName": "456"
   },
   {
     "pid": "458",
@@ -4550,7 +4550,7 @@ module.exports = [
     "romanisation": "lut laakaa dai baw? baw dai!",
     "literalTranslation": "reduce - price - can - question particle? not - can!",
     "notes": "",
-    "fileName": "a457"
+    "fileName": "457"
   },
   {
     "pid": "459",
@@ -4560,7 +4560,7 @@ module.exports = [
     "romanisation": "mii eeyang tii thuuk gua nii baw?",
     "literalTranslation": "have - anything - that - cheap - more than - this - question particle?",
     "notes": "",
-    "fileName": "a458"
+    "fileName": "458"
   },
   {
     "pid": "460",
@@ -4570,7 +4570,7 @@ module.exports = [
     "romanisation": "mii baep nii eek baw?",
     "literalTranslation": "have - kind - this - more - question particle?",
     "notes": "",
-    "fileName": "a459"
+    "fileName": "459"
   },
   {
     "pid": "461",
@@ -4580,7 +4580,7 @@ module.exports = [
     "romanisation": "mii sim thorasap baw?",
     "literalTranslation": "have - sim - phone - question particle?",
     "notes": "",
-    "fileName": "a460"
+    "fileName": "460"
   },
   {
     "pid": "462",
@@ -4590,7 +4590,7 @@ module.exports = [
     "romanisation": "khoy sii gap maa mai meu-eun",
     "literalTranslation": "I - future marker - return - come - new - tomorrow",
     "notes": "",
-    "fileName": "a461"
+    "fileName": "461"
   },
   {
     "pid": "463",
@@ -4600,7 +4600,7 @@ module.exports = [
     "romanisation": "hap bat keh-dit baw?",
     "literalTranslation": "accept - card - credit - question  particle?",
     "notes": "",
-    "fileName": "a462"
+    "fileName": "462"
   },
   {
     "pid": "464",
@@ -4610,7 +4610,7 @@ module.exports = [
     "romanisation": "ao an nii",
     "literalTranslation": "take - item - this",
     "notes": "",
-    "fileName": "a463"
+    "fileName": "463"
   },
   {
     "pid": "465",
@@ -4620,7 +4620,7 @@ module.exports = [
     "romanisation": "khoy baw mak an nan",
     "literalTranslation": "I - not - like - item - that",
     "notes": "",
-    "fileName": "a464"
+    "fileName": "464"
   },
   {
     "pid": "466",
@@ -4630,7 +4630,7 @@ module.exports = [
     "romanisation": "ao kheung giiloh",
     "literalTranslation": "take - half - kilo",
     "notes": "",
-    "fileName": "a465"
+    "fileName": "465"
   },
   {
     "pid": "467",
@@ -4640,7 +4640,7 @@ module.exports = [
     "romanisation": "dtat dai baw?",
     "literalTranslation": "cut - can - question particle?",
     "notes": "",
-    "fileName": "a466"
+    "fileName": "466"
   },
   {
     "pid": "468",
@@ -4650,7 +4650,7 @@ module.exports = [
     "romanisation": "mak-kiang sawng giiloh",
     "literalTranslation": "mandarin - two - kilo",
     "notes": "",
-    "fileName": "a467"
+    "fileName": "467"
   },
   {
     "pid": "469",
@@ -4660,7 +4660,7 @@ module.exports = [
     "romanisation": "phaa mai neung maet",
     "literalTranslation": "fabric - silk - one - metre",
     "notes": "",
-    "fileName": "a468"
+    "fileName": "468"
   },
   {
     "pid": "470",
@@ -4670,7 +4670,7 @@ module.exports = [
     "romanisation": "dtoh",
     "literalTranslation": "",
     "notes": "Lao has many classifiers or 'counting words' which have no equivalent in English. When talking about a number of items we can use the construction 'item name + number + classifier'.",
-    "fileName": "a469"
+    "fileName": "469"
   },
   {
     "pid": "471",
@@ -4680,7 +4680,7 @@ module.exports = [
     "romanisation": "khuu",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a470"
+    "fileName": "470"
   },
   {
     "pid": "472",
@@ -4690,7 +4690,7 @@ module.exports = [
     "romanisation": "hua",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a471"
+    "fileName": "471"
   },
   {
     "pid": "473",
@@ -4700,7 +4700,7 @@ module.exports = [
     "romanisation": "jork",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a472"
+    "fileName": "472"
   },
   {
     "pid": "474",
@@ -4710,7 +4710,7 @@ module.exports = [
     "romanisation": "dtuk",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a473"
+    "fileName": "473"
   },
   {
     "pid": "475",
@@ -4720,7 +4720,7 @@ module.exports = [
     "romanisation": "nuay",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a474"
+    "fileName": "474"
   },
   {
     "pid": "476",
@@ -4730,7 +4730,7 @@ module.exports = [
     "romanisation": "khan",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a475"
+    "fileName": "475"
   },
   {
     "pid": "477",
@@ -4740,7 +4740,7 @@ module.exports = [
     "romanisation": "mak-muang sawng nuay",
     "literalTranslation": "mango - two - classifier",
     "notes": "",
-    "fileName": "a476"
+    "fileName": "476"
   },
   {
     "pid": "478",
@@ -4750,7 +4750,7 @@ module.exports = [
     "romanisation": "seua yeut sawng dtoh",
     "literalTranslation": "shirt - T-shirt - two - classifier",
     "notes": "",
-    "fileName": "a477"
+    "fileName": "477"
   },
   {
     "pid": "479",
@@ -4760,7 +4760,7 @@ module.exports = [
     "romanisation": "bpum sawng hua",
     "literalTranslation": "book - two - classifier",
     "notes": "",
-    "fileName": "a478"
+    "fileName": "478"
   },
   {
     "pid": "480",
@@ -4770,7 +4770,7 @@ module.exports = [
     "romanisation": "khoy kor bai hap dai baw?",
     "literalTranslation": "I - request - paper - receive - can - question particle?",
     "notes": "",
-    "fileName": "a479"
+    "fileName": "479"
   },
   {
     "pid": "481",
@@ -4780,7 +4780,7 @@ module.exports = [
     "romanisation": "baw dtong-gaan tung",
     "literalTranslation": "not - want - bag",
     "notes": "",
-    "fileName": "a480"
+    "fileName": "480"
   },
   {
     "pid": "482",
@@ -4790,7 +4790,7 @@ module.exports = [
     "romanisation": "khoy dtong jaai ngoen leuy baw?",
     "literalTranslation": "I - must - pay - money - at once - question particle?",
     "notes": "",
-    "fileName": "a481"
+    "fileName": "481"
   },
   {
     "pid": "483",
@@ -4800,7 +4800,7 @@ module.exports = [
     "romanisation": "khoy dtong jaai ngoen yuu sai?",
     "literalTranslation": "I - must - pay - money - situated - where?",
     "notes": "",
-    "fileName": "a482"
+    "fileName": "482"
   },
   {
     "pid": "484",
@@ -4810,7 +4810,7 @@ module.exports = [
     "romanisation": "khoy jaai ngoen laew",
     "literalTranslation": "I - pay - money - already",
     "notes": "",
-    "fileName": "a483"
+    "fileName": "483"
   },
   {
     "pid": "485",
@@ -4820,7 +4820,7 @@ module.exports = [
     "romanisation": "thang-beut nii luam gan thao dai?",
     "literalTranslation": "all - this - including - together - equal to - which?",
     "notes": "",
-    "fileName": "a484"
+    "fileName": "484"
   },
   {
     "pid": "486",
@@ -4830,7 +4830,7 @@ module.exports = [
     "romanisation": "seua sawng dtoh thao dai?",
     "literalTranslation": "shirt - two - classifier - equal to - which?",
     "notes": "",
-    "fileName": "a485"
+    "fileName": "485"
   },
   {
     "pid": "487",
@@ -4840,7 +4840,7 @@ module.exports = [
     "romanisation": "nyang bpert baw?",
     "literalTranslation": "still - open - question particle?",
     "notes": "",
-    "fileName": "a486"
+    "fileName": "486"
   },
   {
     "pid": "488",
@@ -4850,7 +4850,7 @@ module.exports = [
     "romanisation": "jao bpit jak mohng?",
     "literalTranslation": "you - close - how many - hour?",
     "notes": "",
-    "fileName": "a487"
+    "fileName": "487"
   },
   {
     "pid": "489",
@@ -4860,7 +4860,7 @@ module.exports = [
     "romanisation": "khoy laek ngoen dai yuu sai?",
     "literalTranslation": "I - exchange - money - can - at (place) - which?",
     "notes": "",
-    "fileName": "a488"
+    "fileName": "488"
   },
   {
     "pid": "490",
@@ -4870,7 +4870,7 @@ module.exports = [
     "romanisation": "jao hap laek ngoen dong baw?",
     "literalTranslation": "you - accept - exchange - money - dong - question particle?",
     "notes": "",
-    "fileName": "a489"
+    "fileName": "489"
   },
   {
     "pid": "491",
@@ -4880,7 +4880,7 @@ module.exports = [
     "romanisation": "haan kaa nyawy",
     "literalTranslation": "shop - trade - sector",
     "notes": "",
-    "fileName": "a490"
+    "fileName": "490"
   },
   {
     "pid": "492",
@@ -4890,7 +4890,7 @@ module.exports = [
     "romanisation": "haan kaai bpum",
     "literalTranslation": "shop - sell - book",
     "notes": "",
-    "fileName": "a491"
+    "fileName": "491"
   },
   {
     "pid": "493",
@@ -4900,7 +4900,7 @@ module.exports = [
     "romanisation": "haan ahaan",
     "literalTranslation": "shop - food",
     "notes": "",
-    "fileName": "a492"
+    "fileName": "492"
   },
   {
     "pid": "494",
@@ -4910,7 +4910,7 @@ module.exports = [
     "romanisation": "haang saphasin kaa",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a493"
+    "fileName": "493"
   },
   {
     "pid": "495",
@@ -4920,7 +4920,7 @@ module.exports = [
     "romanisation": "dtalaat",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a494"
+    "fileName": "494"
   },
   {
     "pid": "496",
@@ -4930,7 +4930,7 @@ module.exports = [
     "romanisation": "dtalaat gaang keun",
     "literalTranslation": "market - middle - night",
     "notes": "",
-    "fileName": "a495"
+    "fileName": "495"
   },
   {
     "pid": "497",
@@ -4940,7 +4940,7 @@ module.exports = [
     "romanisation": "saphasin khaa",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a496"
+    "fileName": "496"
   },
   {
     "pid": "498",
@@ -4950,7 +4950,7 @@ module.exports = [
     "romanisation": "sungaan khaa",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a497"
+    "fileName": "497"
   },
   {
     "pid": "499",
@@ -4960,7 +4960,7 @@ module.exports = [
     "romanisation": "tanaakhaan",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a498"
+    "fileName": "498"
   },
   {
     "pid": "500",
@@ -4970,7 +4970,7 @@ module.exports = [
     "romanisation": "hawng gaan bpaisanii",
     "literalTranslation": "room - prefix which converts verbs into noun - mail",
     "notes": "",
-    "fileName": "a499"
+    "fileName": "499"
   },
   {
     "pid": "501",
@@ -4980,7 +4980,7 @@ module.exports = [
     "romanisation": "haan kaai yaa",
     "literalTranslation": "shop - sell - medicine",
     "notes": "",
-    "fileName": "a500"
+    "fileName": "500"
   },
   {
     "pid": "502",
@@ -4990,7 +4990,7 @@ module.exports = [
     "romanisation": "sabuu",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a501"
+    "fileName": "501"
   },
   {
     "pid": "503",
@@ -5000,7 +5000,7 @@ module.exports = [
     "romanisation": "nam yaa sak phaa / pong sak pha",
     "literalTranslation": "water - medicine - wash - clothes / powder - wash - clothes",
     "notes": "",
-    "fileName": "a502"
+    "fileName": "502"
   },
   {
     "pid": "504",
@@ -5010,7 +5010,7 @@ module.exports = [
     "romanisation": "bpaeng sii khaew",
     "literalTranslation": "brush - rub against - teeth",
     "notes": "",
-    "fileName": "a503"
+    "fileName": "503"
   },
   {
     "pid": "505",
@@ -5020,7 +5020,7 @@ module.exports = [
     "romanisation": "yaa sii khaew",
     "literalTranslation": "medicine - rub against - teeth",
     "notes": "",
-    "fileName": "a504"
+    "fileName": "504"
   },
   {
     "pid": "506",
@@ -5030,7 +5030,7 @@ module.exports = [
     "romanisation": "saempuu / yaa sa hua",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a505"
+    "fileName": "505"
   },
   {
     "pid": "507",
@@ -5040,7 +5040,7 @@ module.exports = [
     "romanisation": "yaa gan nyung",
     "literalTranslation": "medicine - prevent - mosquito",
     "notes": "",
-    "fileName": "a506"
+    "fileName": "506"
   },
   {
     "pid": "508",
@@ -5050,7 +5050,7 @@ module.exports = [
     "romanisation": "ga-dtaat",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a507"
+    "fileName": "507"
   },
   {
     "pid": "509",
@@ -5060,7 +5060,7 @@ module.exports = [
     "romanisation": "jot maai",
     "literalTranslation": "note - mean",
     "notes": "",
-    "fileName": "a508"
+    "fileName": "508"
   },
   {
     "pid": "510",
@@ -5070,7 +5070,7 @@ module.exports = [
     "romanisation": "sa-dtaem bpaisanii",
     "literalTranslation": "stamp - mail",
     "notes": "",
-    "fileName": "a509"
+    "fileName": "509"
   },
   {
     "pid": "511",
@@ -5080,7 +5080,7 @@ module.exports = [
     "romanisation": "khiim gan dtaet",
     "literalTranslation": "cream - protect against - sunshine",
     "notes": "",
-    "fileName": "a510"
+    "fileName": "510"
   },
   {
     "pid": "512",
@@ -5090,7 +5090,7 @@ module.exports = [
     "romanisation": "jia hawng nam",
     "literalTranslation": "paper - room - water",
     "notes": "",
-    "fileName": "a511"
+    "fileName": "511"
   },
   {
     "pid": "513",
@@ -5100,7 +5100,7 @@ module.exports = [
     "romanisation": "baet-dtae-lii",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a512"
+    "fileName": "512"
   },
   {
     "pid": "514",
@@ -5110,7 +5110,7 @@ module.exports = [
     "romanisation": "paa pan baat pair",
     "literalTranslation": "cloth - roll - wound - wound",
     "notes": "",
-    "fileName": "a513"
+    "fileName": "513"
   },
   {
     "pid": "515",
@@ -5120,7 +5120,7 @@ module.exports = [
     "romanisation": "tholasap meu theu",
     "literalTranslation": "phone - hand - hold",
     "notes": "",
-    "fileName": "a514"
+    "fileName": "514"
   },
   {
     "pid": "516",
@@ -5130,7 +5130,7 @@ module.exports = [
     "romanisation": "khom-pew-dteu",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a515"
+    "fileName": "515"
   },
   {
     "pid": "517",
@@ -5140,7 +5140,7 @@ module.exports = [
     "romanisation": "gong taai huup",
     "literalTranslation": "optical viewing device - take photo - image",
     "notes": "",
-    "fileName": "a516"
+    "fileName": "516"
   },
   {
     "pid": "518",
@@ -5150,7 +5150,7 @@ module.exports = [
     "romanisation": "paa",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a517"
+    "fileName": "517"
   },
   {
     "pid": "519",
@@ -5160,7 +5160,7 @@ module.exports = [
     "romanisation": "paa maai",
     "literalTranslation": "material - silk",
     "notes": "",
-    "fileName": "a518"
+    "fileName": "518"
   },
   {
     "pid": "520",
@@ -5170,7 +5170,7 @@ module.exports = [
     "romanisation": "paa faai",
     "literalTranslation": "material - raw cotton",
     "notes": "",
-    "fileName": "a519"
+    "fileName": "519"
   },
   {
     "pid": "521",
@@ -5180,7 +5180,7 @@ module.exports = [
     "romanisation": "mai",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a520"
+    "fileName": "520"
   },
   {
     "pid": "522",
@@ -5190,7 +5190,7 @@ module.exports = [
     "romanisation": "mai sak",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a521"
+    "fileName": "521"
   },
   {
     "pid": "523",
@@ -5200,7 +5200,7 @@ module.exports = [
     "romanisation": "gaew bpasert",
     "literalTranslation": "glass/emerald - precious",
     "notes": "",
-    "fileName": "a522"
+    "fileName": "522"
   },
   {
     "pid": "524",
@@ -5210,7 +5210,7 @@ module.exports = [
     "romanisation": "kum bai",
     "literalTranslation": "gold - sheet",
     "notes": "",
-    "fileName": "a523"
+    "fileName": "523"
   },
   {
     "pid": "525",
@@ -5220,7 +5220,7 @@ module.exports = [
     "romanisation": "nang",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a524"
+    "fileName": "524"
   },
   {
     "pid": "526",
@@ -5230,7 +5230,7 @@ module.exports = [
     "romanisation": null,
     "literalTranslation": "upper garment - cloth, clothing",
     "notes": null,
-    "fileName": "a525"
+    "fileName": "525"
   },
   {
     "pid": "527",
@@ -5240,7 +5240,7 @@ module.exports = [
     "romanisation": "seua tii-seut",
     "literalTranslation": "shirt - T-shirt",
     "notes": "",
-    "fileName": "a526"
+    "fileName": "526"
   },
   {
     "pid": "528",
@@ -5250,7 +5250,7 @@ module.exports = [
     "romanisation": "seua",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a527"
+    "fileName": "527"
   },
   {
     "pid": "529",
@@ -5260,7 +5260,7 @@ module.exports = [
     "romanisation": "ga-bpong",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a528"
+    "fileName": "528"
   },
   {
     "pid": "530",
@@ -5270,7 +5270,7 @@ module.exports = [
     "romanisation": "suit",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a529"
+    "fileName": "529"
   },
   {
     "pid": "531",
@@ -5280,7 +5280,7 @@ module.exports = [
     "romanisation": "siin",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a530"
+    "fileName": "530"
   },
   {
     "pid": "532",
@@ -5290,7 +5290,7 @@ module.exports = [
     "romanisation": "song kaa nyao",
     "literalTranslation": "pants - leg - long",
     "notes": "",
-    "fileName": "a531"
+    "fileName": "531"
   },
   {
     "pid": "533",
@@ -5300,7 +5300,7 @@ module.exports = [
     "romanisation": "song kaa san",
     "literalTranslation": "pants - leg - short",
     "notes": "",
-    "fileName": "a532"
+    "fileName": "532"
   },
   {
     "pid": "534",
@@ -5310,7 +5310,7 @@ module.exports = [
     "romanisation": "seua gan naao",
     "literalTranslation": "upper garment - prevent - cold",
     "notes": "",
-    "fileName": "a533"
+    "fileName": "533"
   },
   {
     "pid": "535",
@@ -5320,7 +5320,7 @@ module.exports = [
     "romanisation": "tung dtiin",
     "literalTranslation": "bag - foot",
     "notes": "",
-    "fileName": "a534"
+    "fileName": "534"
   },
   {
     "pid": "536",
@@ -5330,7 +5330,7 @@ module.exports = [
     "romanisation": "muak",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a535"
+    "fileName": "535"
   },
   {
     "pid": "537",
@@ -5340,7 +5340,7 @@ module.exports = [
     "romanisation": "seua san nork",
     "literalTranslation": "upper garment - layer - outside",
     "notes": "",
-    "fileName": "a536"
+    "fileName": "536"
   },
   {
     "pid": "538",
@@ -5350,7 +5350,7 @@ module.exports = [
     "romanisation": "gerp",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a537"
+    "fileName": "537"
   },
   {
     "pid": "539",
@@ -5360,7 +5360,7 @@ module.exports = [
     "romanisation": "gerp dtae",
     "literalTranslation": "footwear - kick",
     "notes": "",
-    "fileName": "a538"
+    "fileName": "538"
   },
   {
     "pid": "540",
@@ -5370,7 +5370,7 @@ module.exports = [
     "romanisation": "saang dtat seua",
     "literalTranslation": "artisan - cut - garment",
     "notes": "",
-    "fileName": "a539"
+    "fileName": "539"
   },
   {
     "pid": "541",
@@ -5380,7 +5380,7 @@ module.exports = [
     "romanisation": "khanaat thao dai?",
     "literalTranslation": "size - equal to - which?",
     "notes": "",
-    "fileName": "a540"
+    "fileName": "540"
   },
   {
     "pid": "542",
@@ -5390,7 +5390,7 @@ module.exports = [
     "romanisation": "long dai baw?",
     "literalTranslation": "try - can - question particle?",
     "notes": "",
-    "fileName": "a541"
+    "fileName": "541"
   },
   {
     "pid": "543",
@@ -5400,7 +5400,7 @@ module.exports = [
     "romanisation": "mun nyai gern bpai",
     "literalTranslation": "it - big - exceed - go",
     "notes": "",
-    "fileName": "a542"
+    "fileName": "542"
   },
   {
     "pid": "544",
@@ -5410,7 +5410,7 @@ module.exports = [
     "romanisation": "mun nawy gern bpai",
     "literalTranslation": "it - small - exceed - go",
     "notes": "",
-    "fileName": "a543"
+    "fileName": "543"
   },
   {
     "pid": "545",
@@ -5420,7 +5420,7 @@ module.exports = [
     "romanisation": "mun nyao gern bpai",
     "literalTranslation": "it - long - exceed - go",
     "notes": "",
-    "fileName": "a544"
+    "fileName": "544"
   },
   {
     "pid": "546",
@@ -5430,7 +5430,7 @@ module.exports = [
     "romanisation": "mun san gern bpai",
     "literalTranslation": "it - short - exceed - go",
     "notes": "",
-    "fileName": "a545"
+    "fileName": "545"
   },
   {
     "pid": "547",
@@ -5440,7 +5440,7 @@ module.exports = [
     "romanisation": "mii nyai gua nii baw?",
     "literalTranslation": "have - big - more than - this - question particle?",
     "notes": "",
-    "fileName": "a546"
+    "fileName": "546"
   },
   {
     "pid": "548",
@@ -5450,7 +5450,7 @@ module.exports = [
     "romanisation": "mii sii eun baw?",
     "literalTranslation": "have - colour - other - question particle?",
     "notes": "",
-    "fileName": "a547"
+    "fileName": "547"
   },
   {
     "pid": "549",
@@ -5460,7 +5460,7 @@ module.exports = [
     "romanisation": "sii sii dtai baw? / sii ja jaang baw?",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a548"
+    "fileName": "548"
   },
   {
     "pid": "550",
@@ -5470,7 +5470,7 @@ module.exports = [
     "romanisation": "mak mai",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a549"
+    "fileName": "549"
   },
   {
     "pid": "551",
@@ -5480,7 +5480,7 @@ module.exports = [
     "romanisation": "mak bpom",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a550"
+    "fileName": "550"
   },
   {
     "pid": "552",
@@ -5490,7 +5490,7 @@ module.exports = [
     "romanisation": "guay",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a551"
+    "fileName": "551"
   },
   {
     "pid": "553",
@@ -5500,7 +5500,7 @@ module.exports = [
     "romanisation": "som",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a552"
+    "fileName": "552"
   },
   {
     "pid": "554",
@@ -5510,7 +5510,7 @@ module.exports = [
     "romanisation": "mak-kiang",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a553"
+    "fileName": "553"
   },
   {
     "pid": "555",
@@ -5520,7 +5520,7 @@ module.exports = [
     "romanisation": "makhaam",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a554"
+    "fileName": "554"
   },
   {
     "pid": "556",
@@ -5530,7 +5530,7 @@ module.exports = [
     "romanisation": "mak-moh",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a555"
+    "fileName": "555"
   },
   {
     "pid": "557",
@@ -5540,7 +5540,7 @@ module.exports = [
     "romanisation": "som-oh",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a556"
+    "fileName": "556"
   },
   {
     "pid": "558",
@@ -5550,7 +5550,7 @@ module.exports = [
     "romanisation": "mak-muang",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a557"
+    "fileName": "557"
   },
   {
     "pid": "559",
@@ -5560,7 +5560,7 @@ module.exports = [
     "romanisation": "mak-hung",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a558"
+    "fileName": "558"
   },
   {
     "pid": "560",
@@ -5570,7 +5570,7 @@ module.exports = [
     "romanisation": "mak siidaa",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a559"
+    "fileName": "559"
   },
   {
     "pid": "561",
@@ -5580,7 +5580,7 @@ module.exports = [
     "romanisation": "mak-paao",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a560"
+    "fileName": "560"
   },
   {
     "pid": "562",
@@ -5590,7 +5590,7 @@ module.exports = [
     "romanisation": "mak-nut",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a561"
+    "fileName": "561"
   },
   {
     "pid": "563",
@@ -5600,7 +5600,7 @@ module.exports = [
     "romanisation": "thulian",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a562"
+    "fileName": "562"
   },
   {
     "pid": "564",
@@ -5610,7 +5610,7 @@ module.exports = [
     "romanisation": "mak-mii",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a563"
+    "fileName": "563"
   },
   {
     "pid": "565",
@@ -5620,7 +5620,7 @@ module.exports = [
     "romanisation": "mak-naao",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a564"
+    "fileName": "564"
   },
   {
     "pid": "566",
@@ -5630,7 +5630,7 @@ module.exports = [
     "romanisation": "pak",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a565"
+    "fileName": "565"
   },
   {
     "pid": "567",
@@ -5640,7 +5640,7 @@ module.exports = [
     "romanisation": "mak-eu",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a566"
+    "fileName": "566"
   },
   {
     "pid": "568",
@@ -5650,7 +5650,7 @@ module.exports = [
     "romanisation": "het",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a567"
+    "fileName": "567"
   },
   {
     "pid": "569",
@@ -5660,7 +5660,7 @@ module.exports = [
     "romanisation": "mak-phet",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a568"
+    "fileName": "568"
   },
   {
     "pid": "571",
@@ -5670,7 +5670,7 @@ module.exports = [
     "romanisation": "khao-phot",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a570"
+    "fileName": "570"
   },
   {
     "pid": "572",
@@ -5680,7 +5680,7 @@ module.exports = [
     "romanisation": "daeng-gua",
     "literalTranslation": null,
     "notes": null,
-    "fileName": "a571"
+    "fileName": "571"
   },
   {
     "pid": "573",
@@ -5690,7 +5690,7 @@ module.exports = [
     "romanisation": "makheua",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a572"
+    "fileName": "572"
   },
   {
     "pid": "574",
@@ -5700,7 +5700,7 @@ module.exports = [
     "romanisation": "mak-len",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a573"
+    "fileName": "573"
   },
   {
     "pid": "575",
@@ -5710,7 +5710,7 @@ module.exports = [
     "romanisation": "mun gaeo",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a574"
+    "fileName": "574"
   },
   {
     "pid": "576",
@@ -5720,7 +5720,7 @@ module.exports = [
     "romanisation": "ga-phao",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a575"
+    "fileName": "575"
   },
   {
     "pid": "577",
@@ -5730,7 +5730,7 @@ module.exports = [
     "romanisation": "haw-rapaa",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a576"
+    "fileName": "576"
   },
   {
     "pid": "578",
@@ -5740,7 +5740,7 @@ module.exports = [
     "romanisation": "pak ii-dtuu",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a577"
+    "fileName": "577"
   },
   {
     "pid": "579",
@@ -5750,7 +5750,7 @@ module.exports = [
     "romanisation": "pak ga-nyae",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a578"
+    "fileName": "578"
   },
   {
     "pid": "583",
@@ -5760,7 +5760,7 @@ module.exports = [
     "romanisation": "pak thiam",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a582"
+    "fileName": "582"
   },
   {
     "pid": "584",
@@ -5770,7 +5770,7 @@ module.exports = [
     "romanisation": "kiing",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a583"
+    "fileName": "583"
   },
   {
     "pid": "585",
@@ -5780,7 +5780,7 @@ module.exports = [
     "romanisation": "hua sing khaai",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a584"
+    "fileName": "584"
   },
   {
     "pid": "586",
@@ -5790,7 +5790,7 @@ module.exports = [
     "romanisation": "khaa",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a585"
+    "fileName": "585"
   },
   {
     "pid": "587",
@@ -5800,7 +5800,7 @@ module.exports = [
     "romanisation": "bpaa",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a586"
+    "fileName": "586"
   },
   {
     "pid": "588",
@@ -5810,7 +5810,7 @@ module.exports = [
     "romanisation": "sin ngua",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a587"
+    "fileName": "587"
   },
   {
     "pid": "589",
@@ -5820,7 +5820,7 @@ module.exports = [
     "romanisation": "gai",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a588"
+    "fileName": "588"
   },
   {
     "pid": "590",
@@ -5830,7 +5830,7 @@ module.exports = [
     "romanisation": "muu",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a589"
+    "fileName": "589"
   },
   {
     "pid": "592",
@@ -5840,7 +5840,7 @@ module.exports = [
     "romanisation": "goong",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a591"
+    "fileName": "591"
   },
   {
     "pid": "593",
@@ -5850,7 +5850,7 @@ module.exports = [
     "romanisation": "khao",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a592"
+    "fileName": "592"
   },
   {
     "pid": "594",
@@ -5860,7 +5860,7 @@ module.exports = [
     "romanisation": "khao niao",
     "literalTranslation": "rice - sticky",
     "notes": "",
-    "fileName": "a593"
+    "fileName": "593"
   },
   {
     "pid": "595",
@@ -5870,7 +5870,7 @@ module.exports = [
     "romanisation": "tua",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a594"
+    "fileName": "594"
   },
   {
     "pid": "596",
@@ -5880,7 +5880,7 @@ module.exports = [
     "romanisation": "kai",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a595"
+    "fileName": "595"
   },
   {
     "pid": "597",
@@ -5890,7 +5890,7 @@ module.exports = [
     "romanisation": "tua din",
     "literalTranslation": "nut - soil",
     "notes": "",
-    "fileName": "a596"
+    "fileName": "596"
   },
   {
     "pid": "599",
@@ -5900,7 +5900,7 @@ module.exports = [
     "romanisation": "gati",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a598"
+    "fileName": "598"
   },
   {
     "pid": "600",
@@ -5910,7 +5910,7 @@ module.exports = [
     "romanisation": "pat",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a599"
+    "fileName": "599"
   },
   {
     "pid": "601",
@@ -5920,7 +5920,7 @@ module.exports = [
     "romanisation": "dtom",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a600"
+    "fileName": "600"
   },
   {
     "pid": "602",
@@ -5930,7 +5930,7 @@ module.exports = [
     "romanisation": "tort",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a601"
+    "fileName": "601"
   },
   {
     "pid": "603",
@@ -5940,7 +5940,7 @@ module.exports = [
     "romanisation": "neung",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a602"
+    "fileName": "602"
   },
   {
     "pid": "604",
@@ -5950,7 +5950,7 @@ module.exports = [
     "romanisation": "nam bpaa",
     "literalTranslation": "liquid - fish",
     "notes": "",
-    "fileName": "a603"
+    "fileName": "603"
   },
   {
     "pid": "605",
@@ -5960,7 +5960,7 @@ module.exports = [
     "romanisation": "bpaa daek",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a604"
+    "fileName": "604"
   },
   {
     "pid": "606",
@@ -5970,7 +5970,7 @@ module.exports = [
     "romanisation": "khao pat",
     "literalTranslation": "rice - fry",
     "notes": "",
-    "fileName": "a605"
+    "fileName": "605"
   },
   {
     "pid": "607",
@@ -5980,7 +5980,7 @@ module.exports = [
     "romanisation": "jeun kai",
     "literalTranslation": "fry - egg",
     "notes": "",
-    "fileName": "a606"
+    "fileName": "606"
   },
   {
     "pid": "608",
@@ -5990,7 +5990,7 @@ module.exports = [
     "romanisation": "bpaa neung",
     "literalTranslation": "fish - steam",
     "notes": "",
-    "fileName": "a607"
+    "fileName": "607"
   },
   {
     "pid": "609",
@@ -6000,7 +6000,7 @@ module.exports = [
     "romanisation": "sen lawn",
     "literalTranslation": "noodle - mung bean noodle",
     "notes": "",
-    "fileName": "a608"
+    "fileName": "608"
   },
   {
     "pid": "610",
@@ -6010,7 +6010,7 @@ module.exports = [
     "romanisation": "fer",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a609"
+    "fileName": "609"
   },
   {
     "pid": "611",
@@ -6020,7 +6020,7 @@ module.exports = [
     "romanisation": "khao bpun",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a610"
+    "fileName": "610"
   },
   {
     "pid": "612",
@@ -6030,7 +6030,7 @@ module.exports = [
     "romanisation": "gaeng jeut",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a611"
+    "fileName": "611"
   },
   {
     "pid": "613",
@@ -6040,7 +6040,7 @@ module.exports = [
     "romanisation": "khao jii",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a612"
+    "fileName": "612"
   },
   {
     "pid": "614",
@@ -6050,7 +6050,7 @@ module.exports = [
     "romanisation": "laap muu",
     "literalTranslation": "minced meat dish - pork",
     "notes": "",
-    "fileName": "a613"
+    "fileName": "613"
   },
   {
     "pid": "615",
@@ -6060,7 +6060,7 @@ module.exports = [
     "romanisation": "dtum mak-hung",
     "literalTranslation": "pound - papaya",
     "notes": "",
-    "fileName": "a614"
+    "fileName": "614"
   },
   {
     "pid": "616",
@@ -6070,7 +6070,7 @@ module.exports = [
     "romanisation": "yaw khao",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a615"
+    "fileName": "615"
   },
   {
     "pid": "617",
@@ -6080,7 +6080,7 @@ module.exports = [
     "romanisation": "sai oua",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a616"
+    "fileName": "616"
   },
   {
     "pid": "618",
@@ -6090,7 +6090,7 @@ module.exports = [
     "romanisation": "bping gai",
     "literalTranslation": "grilled - chicken",
     "notes": "",
-    "fileName": "a617"
+    "fileName": "617"
   },
   {
     "pid": "619",
@@ -6100,7 +6100,7 @@ module.exports = [
     "romanisation": "kawng waan",
     "literalTranslation": "stuff - sweet",
     "notes": "",
-    "fileName": "a618"
+    "fileName": "618"
   },
   {
     "pid": "620",
@@ -6110,7 +6110,7 @@ module.exports = [
     "romanisation": "nam gin",
     "literalTranslation": "water - eat",
     "notes": "",
-    "fileName": "a619"
+    "fileName": "619"
   },
   {
     "pid": "621",
@@ -6120,7 +6120,7 @@ module.exports = [
     "romanisation": "gaew",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a620"
+    "fileName": "620"
   },
   {
     "pid": "622",
@@ -6130,7 +6130,7 @@ module.exports = [
     "romanisation": "tuay",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a621"
+    "fileName": "621"
   },
   {
     "pid": "623",
@@ -6140,7 +6140,7 @@ module.exports = [
     "romanisation": "gaafae",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a622"
+    "fileName": "622"
   },
   {
     "pid": "624",
@@ -6150,7 +6150,7 @@ module.exports = [
     "romanisation": "gaafae dum",
     "literalTranslation": "coffee - black",
     "notes": "",
-    "fileName": "a623"
+    "fileName": "623"
   },
   {
     "pid": "625",
@@ -6160,7 +6160,7 @@ module.exports = [
     "romanisation": "gaafae yen",
     "literalTranslation": "coffee - cool",
     "notes": "",
-    "fileName": "a624"
+    "fileName": "624"
   },
   {
     "pid": "627",
@@ -6170,7 +6170,7 @@ module.exports = [
     "romanisation": "saa",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a626"
+    "fileName": "626"
   },
   {
     "pid": "628",
@@ -6180,7 +6180,7 @@ module.exports = [
     "romanisation": "saa khiao",
     "literalTranslation": "tea - green",
     "notes": "",
-    "fileName": "a627"
+    "fileName": "627"
   },
   {
     "pid": "629",
@@ -6190,7 +6190,7 @@ module.exports = [
     "romanisation": "saa khiao yen",
     "literalTranslation": "tea - green - cool",
     "notes": "",
-    "fileName": "a628"
+    "fileName": "628"
   },
   {
     "pid": "630",
@@ -6200,7 +6200,7 @@ module.exports = [
     "romanisation": "nom",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a629"
+    "fileName": "629"
   },
   {
     "pid": "631",
@@ -6210,7 +6210,7 @@ module.exports = [
     "romanisation": "nam oi",
     "literalTranslation": "liquid - sugarcane",
     "notes": "",
-    "fileName": "a630"
+    "fileName": "630"
   },
   {
     "pid": "632",
@@ -6220,7 +6220,7 @@ module.exports = [
     "romanisation": "nam mak-mai",
     "literalTranslation": "liquid - fruit",
     "notes": "",
-    "fileName": "a631"
+    "fileName": "631"
   },
   {
     "pid": "633",
@@ -6230,7 +6230,7 @@ module.exports = [
     "romanisation": "nam bpan",
     "literalTranslation": "liquid - spin / blend",
     "notes": "",
-    "fileName": "a632"
+    "fileName": "632"
   },
   {
     "pid": "634",
@@ -6240,7 +6240,7 @@ module.exports = [
     "romanisation": "nam bpan mak-mai",
     "literalTranslation": "liquid - spin / blend - fruit ",
     "notes": "",
-    "fileName": "a633"
+    "fileName": "633"
   },
   {
     "pid": "635",
@@ -6250,7 +6250,7 @@ module.exports = [
     "romanisation": "nam mak-kiang bpan",
     "literalTranslation": "liquid - orange - spin / blend",
     "notes": "",
-    "fileName": "a634"
+    "fileName": "634"
   },
   {
     "pid": "636",
@@ -6260,7 +6260,7 @@ module.exports = [
     "romanisation": "nam gorn",
     "literalTranslation": "water - chunk",
     "notes": "",
-    "fileName": "a635"
+    "fileName": "635"
   },
   {
     "pid": "637",
@@ -6270,7 +6270,7 @@ module.exports = [
     "romanisation": "lao",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a636"
+    "fileName": "636"
   },
   {
     "pid": "638",
@@ -6280,7 +6280,7 @@ module.exports = [
     "romanisation": "bia laao",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a637"
+    "fileName": "637"
   },
   {
     "pid": "640",
@@ -6290,7 +6290,7 @@ module.exports = [
     "romanisation": "lao laao",
     "literalTranslation": "alcohol - lao",
     "notes": "",
-    "fileName": "a639"
+    "fileName": "639"
   },
   {
     "pid": "641",
@@ -6300,7 +6300,7 @@ module.exports = [
     "romanisation": "khoy kor boeng laai gaan ahaan dai baw?",
     "literalTranslation": "I - request - see - list - prefix - food - can - question particle?",
     "notes": "",
-    "fileName": "a640"
+    "fileName": "640"
   },
   {
     "pid": "642",
@@ -6310,7 +6310,7 @@ module.exports = [
     "romanisation": "khoy nang yuu bawn nii dai baw?",
     "literalTranslation": "I - sit - situated - place - this - can - question particle?",
     "notes": "",
-    "fileName": "a641"
+    "fileName": "641"
   },
   {
     "pid": "643",
@@ -6320,7 +6320,7 @@ module.exports = [
     "romanisation": "het baw phet der",
     "literalTranslation": "make - not - spicy - polite particle",
     "notes": "",
-    "fileName": "a642"
+    "fileName": "642"
   },
   {
     "pid": "644",
@@ -6330,7 +6330,7 @@ module.exports = [
     "romanisation": "sai khai dai baw?",
     "literalTranslation": "put - egg - can - question particle?",
     "notes": "",
-    "fileName": "a643"
+    "fileName": "643"
   },
   {
     "pid": "645",
@@ -6340,7 +6340,7 @@ module.exports = [
     "romanisation": "kor khao eek tuay neung dai baw?",
     "literalTranslation": "request - rice - another - cup - can - question particle?",
     "notes": "",
-    "fileName": "a644"
+    "fileName": "644"
   },
   {
     "pid": "646",
@@ -6350,7 +6350,7 @@ module.exports = [
     "romanisation": "kor nam gin nair",
     "literalTranslation": "request - water - eat - polite particle",
     "notes": "",
-    "fileName": "a645"
+    "fileName": "645"
   },
   {
     "pid": "647",
@@ -6360,7 +6360,7 @@ module.exports = [
     "romanisation": "kor gaafae haa jork",
     "literalTranslation": "request - coffee - five - classifier for cups",
     "notes": "",
-    "fileName": "a646"
+    "fileName": "646"
   },
   {
     "pid": "648",
@@ -6370,7 +6370,7 @@ module.exports = [
     "romanisation": "kor laap bpaa sawng jaan gap dtam mak-hung jaan neung",
     "literalTranslation": "request - laap - fish - two - plate - with - pound - papaya - plate - one",
     "notes": "",
-    "fileName": "a647"
+    "fileName": "647"
   },
   {
     "pid": "649",
@@ -6380,7 +6380,7 @@ module.exports = [
     "romanisation": "sai mak-phet sawng nuay",
     "literalTranslation": "put - chili - two - classifier",
     "notes": "",
-    "fileName": "a648"
+    "fileName": "648"
   },
   {
     "pid": "650",
@@ -6390,7 +6390,7 @@ module.exports = [
     "romanisation": "khoy ja ao baep gao",
     "literalTranslation": "I - future marker - take - style - old",
     "notes": "",
-    "fileName": "a649"
+    "fileName": "649"
   },
   {
     "pid": "651",
@@ -6400,7 +6400,7 @@ module.exports = [
     "romanisation": "baw sai nam-dtaan",
     "literalTranslation": "not - put - sugar",
     "notes": "",
-    "fileName": "a650"
+    "fileName": "650"
   },
   {
     "pid": "652",
@@ -6410,7 +6410,7 @@ module.exports = [
     "romanisation": "baw sai nam gorn",
     "literalTranslation": "not - put - water - ice",
     "notes": "",
-    "fileName": "a651"
+    "fileName": "651"
   },
   {
     "pid": "653",
@@ -6420,7 +6420,7 @@ module.exports = [
     "romanisation": "por laew",
     "literalTranslation": "enough - already",
     "notes": "",
-    "fileName": "a652"
+    "fileName": "652"
   },
   {
     "pid": "654",
@@ -6430,7 +6430,7 @@ module.exports = [
     "romanisation": "nawy neung",
     "literalTranslation": "a little - one",
     "notes": "",
-    "fileName": "a653"
+    "fileName": "653"
   },
   {
     "pid": "655",
@@ -6440,7 +6440,7 @@ module.exports = [
     "romanisation": "lai ngoen nair der",
     "literalTranslation": "charge - money - polite particle - polite particle",
     "notes": "",
-    "fileName": "a654"
+    "fileName": "654"
   },
   {
     "pid": "656",
@@ -6450,7 +6450,7 @@ module.exports = [
     "romanisation": "phuak hao samaat jaai nyaek dai baw?",
     "literalTranslation": "group of - we - can - pay - separate - can - question particle?",
     "notes": "",
-    "fileName": "a655"
+    "fileName": "655"
   },
   {
     "pid": "657",
@@ -6460,7 +6460,7 @@ module.exports = [
     "romanisation": "sai tung",
     "literalTranslation": "put - bag",
     "notes": "",
-    "fileName": "a656"
+    "fileName": "656"
   },
   {
     "pid": "658",
@@ -6470,7 +6470,7 @@ module.exports = [
     "romanisation": "gin yuu nii",
     "literalTranslation": "eat - situated - here",
     "notes": "",
-    "fileName": "a657"
+    "fileName": "657"
   },
   {
     "pid": "659",
@@ -6480,7 +6480,7 @@ module.exports = [
     "romanisation": "mii eeyang saep yuu nii?",
     "literalTranslation": "have - what - tasty - situated - this",
     "notes": "",
-    "fileName": "a658"
+    "fileName": "658"
   },
   {
     "pid": "660",
@@ -6490,7 +6490,7 @@ module.exports = [
     "romanisation": "jao nae-nam khoy dai baw?",
     "literalTranslation": "you - recommend - me - can - question particle?",
     "notes": "",
-    "fileName": "a659"
+    "fileName": "659"
   },
   {
     "pid": "661",
@@ -6500,7 +6500,7 @@ module.exports = [
     "romanisation": "mii ahaan mungsaawiilat baw?",
     "literalTranslation": "have - food - vegetarian - question particle?",
     "notes": "",
-    "fileName": "a660"
+    "fileName": "660"
   },
   {
     "pid": "662",
@@ -6510,7 +6510,7 @@ module.exports = [
     "romanisation": "an nii maen ahaan mungsaawiilat baw?",
     "literalTranslation": "item - this - is - vegetarian - question particle?",
     "notes": "",
-    "fileName": "a661"
+    "fileName": "661"
   },
   {
     "pid": "663",
@@ -6520,7 +6520,7 @@ module.exports = [
     "romanisation": "khoy baw gin siin",
     "literalTranslation": "I - not - eat - meat",
     "notes": "",
-    "fileName": "a662"
+    "fileName": "662"
   },
   {
     "pid": "664",
@@ -6530,7 +6530,7 @@ module.exports = [
     "romanisation": "khoy gin dtae bpaa",
     "literalTranslation": "I - eat - only - fish",
     "notes": "",
-    "fileName": "a663"
+    "fileName": "663"
   },
   {
     "pid": "665",
@@ -6540,7 +6540,7 @@ module.exports = [
     "romanisation": "khoy baw gin ahaan taleh",
     "literalTranslation": "I - not - eat - food - sea",
     "notes": "",
-    "fileName": "a664"
+    "fileName": "664"
   },
   {
     "pid": "666",
@@ -6550,7 +6550,7 @@ module.exports = [
     "romanisation": "ahaan jaan nii sai khai baw?",
     "literalTranslation": "food - dish - this - put - egg question particle?",
     "notes": "",
-    "fileName": "a665"
+    "fileName": "665"
   },
   {
     "pid": "667",
@@ -6560,7 +6560,7 @@ module.exports = [
     "romanisation": "khoy pair tua",
     "literalTranslation": "I - allergic to - nuts",
     "notes": "",
-    "fileName": "a666"
+    "fileName": "666"
   },
   {
     "pid": "668",
@@ -6570,7 +6570,7 @@ module.exports = [
     "romanisation": "khoy pair nom",
     "literalTranslation": "I - allergic to - milk",
     "notes": "",
-    "fileName": "a667"
+    "fileName": "667"
   },
   {
     "pid": "669",
@@ -6580,7 +6580,7 @@ module.exports = [
     "romanisation": "jao hiu baw? hiu laai",
     "literalTranslation": "you - hungry - question particle? hungry very",
     "notes": "",
-    "fileName": "a668"
+    "fileName": "668"
   },
   {
     "pid": "670",
@@ -6590,7 +6590,7 @@ module.exports = [
     "romanisation": "hiu nam",
     "literalTranslation": "hungry (for) - water",
     "notes": "",
-    "fileName": "a669"
+    "fileName": "669"
   },
   {
     "pid": "671",
@@ -6600,7 +6600,7 @@ module.exports = [
     "romanisation": "saep laai",
     "literalTranslation": "tasty - very",
     "notes": "",
-    "fileName": "a670"
+    "fileName": "670"
   },
   {
     "pid": "672",
@@ -6610,7 +6610,7 @@ module.exports = [
     "romanisation": "khoy im laew",
     "literalTranslation": "I - full - already",
     "notes": "",
-    "fileName": "a671"
+    "fileName": "671"
   },
   {
     "pid": "673",
@@ -6620,7 +6620,7 @@ module.exports = [
     "romanisation": "khoy nyang baw im",
     "literalTranslation": "I - still - not - full",
     "notes": "",
-    "fileName": "a672"
+    "fileName": "672"
   },
   {
     "pid": "674",
@@ -6630,7 +6630,7 @@ module.exports = [
     "romanisation": "jao mak ahaan laao baw? khoy mak baang yaang",
     "literalTranslation": "you - like - food - Lao - question particle?  I - like - some - type",
     "notes": "",
-    "fileName": "a673"
+    "fileName": "673"
   },
   {
     "pid": "675",
@@ -6640,7 +6640,7 @@ module.exports = [
     "romanisation": "khao sao",
     "literalTranslation": "rice - morning",
     "notes": "",
-    "fileName": "a674"
+    "fileName": "674"
   },
   {
     "pid": "676",
@@ -6650,7 +6650,7 @@ module.exports = [
     "romanisation": "khao tiang",
     "literalTranslation": "rice - noon",
     "notes": "",
-    "fileName": "a675"
+    "fileName": "675"
   },
   {
     "pid": "677",
@@ -6660,7 +6660,7 @@ module.exports = [
     "romanisation": "khao laeng",
     "literalTranslation": "rice - evening",
     "notes": "",
-    "fileName": "a676"
+    "fileName": "676"
   },
   {
     "pid": "678",
@@ -6670,7 +6670,7 @@ module.exports = [
     "romanisation": "gin kawng lin",
     "literalTranslation": "eat - stuff - play",
     "notes": "",
-    "fileName": "a677"
+    "fileName": "677"
   },
   {
     "pid": "679",
@@ -6680,7 +6680,7 @@ module.exports = [
     "romanisation": "haan ahaan",
     "literalTranslation": "shop - food",
     "notes": "",
-    "fileName": "a678"
+    "fileName": "678"
   },
   {
     "pid": "680",
@@ -6690,7 +6690,7 @@ module.exports = [
     "romanisation": "jork",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a679"
+    "fileName": "679"
   },
   {
     "pid": "681",
@@ -6700,7 +6700,7 @@ module.exports = [
     "romanisation": "jaan",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a680"
+    "fileName": "680"
   },
   {
     "pid": "682",
@@ -6710,7 +6710,7 @@ module.exports = [
     "romanisation": "buang",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a681"
+    "fileName": "681"
   },
   {
     "pid": "683",
@@ -6720,7 +6720,7 @@ module.exports = [
     "romanisation": "phet baw? nawy neung",
     "literalTranslation": "spicy - question particle? a little - one",
     "notes": "",
-    "fileName": "a682"
+    "fileName": "682"
   },
   {
     "pid": "684",
@@ -6730,7 +6730,7 @@ module.exports = [
     "romanisation": "mun waan baw?",
     "literalTranslation": "it - sweet - question particle?",
     "notes": "",
-    "fileName": "a683"
+    "fileName": "683"
   },
   {
     "pid": "685",
@@ -6740,7 +6740,7 @@ module.exports = [
     "romanisation": "som",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a684"
+    "fileName": "684"
   },
   {
     "pid": "686",
@@ -6750,7 +6750,7 @@ module.exports = [
     "romanisation": "khem",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a685"
+    "fileName": "685"
   },
   {
     "pid": "687",
@@ -6760,7 +6760,7 @@ module.exports = [
     "romanisation": "hawn",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a686"
+    "fileName": "686"
   },
   {
     "pid": "688",
@@ -6770,7 +6770,7 @@ module.exports = [
     "romanisation": "yen",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a687"
+    "fileName": "687"
   },
   {
     "pid": "689",
@@ -6780,7 +6780,7 @@ module.exports = [
     "romanisation": "haawm",
     "literalTranslation": null,
     "notes": null,
-    "fileName": "a688"
+    "fileName": "688"
   },
   {
     "pid": "690",
@@ -6790,7 +6790,7 @@ module.exports = [
     "romanisation": "nao",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a689"
+    "fileName": "689"
   },
   {
     "pid": "691",
@@ -6800,7 +6800,7 @@ module.exports = [
     "romanisation": "mii heuan pak yuu gai nii baw?",
     "literalTranslation": "have - house - rest - situated - near - this - question particle?",
     "notes": "",
-    "fileName": "a690"
+    "fileName": "690"
   },
   {
     "pid": "692",
@@ -6810,7 +6810,7 @@ module.exports = [
     "romanisation": "khoy gamlang haa hawng-haem laakaa tuuk",
     "literalTranslation": "I - currently - look for - hotel - price - cheap",
     "notes": "",
-    "fileName": "a691"
+    "fileName": "691"
   },
   {
     "pid": "693",
@@ -6820,7 +6820,7 @@ module.exports = [
     "romanisation": "jao nae-nam tii pak tii dii dai baw?",
     "literalTranslation": "you - recommend - place - rest - that - good - can - question particle?",
     "notes": "",
-    "fileName": "a692"
+    "fileName": "692"
   },
   {
     "pid": "694",
@@ -6830,7 +6830,7 @@ module.exports = [
     "romanisation": "mii baan home-setae yuu taeo nii baw?",
     "literalTranslation": "have - house - homestay - situated - area - this - question particle?",
     "notes": "",
-    "fileName": "a693"
+    "fileName": "693"
   },
   {
     "pid": "695",
@@ -6840,7 +6840,7 @@ module.exports = [
     "romanisation": "mii hawng waang baw?",
     "literalTranslation": "have - room - available - question  particle?",
     "notes": "",
-    "fileName": "a694"
+    "fileName": "694"
   },
   {
     "pid": "696",
@@ -6850,7 +6850,7 @@ module.exports = [
     "romanisation": "phuak hao jong on-lai",
     "literalTranslation": "group of - we - reserve - online",
     "notes": "",
-    "fileName": "a695"
+    "fileName": "695"
   },
   {
     "pid": "697",
@@ -6860,7 +6860,7 @@ module.exports = [
     "romanisation": "hawng diao",
     "literalTranslation": "room - single",
     "notes": "",
-    "fileName": "a696"
+    "fileName": "696"
   },
   {
     "pid": "698",
@@ -6870,7 +6870,7 @@ module.exports = [
     "romanisation": "hawng khuu",
     "literalTranslation": "room - couple",
     "notes": "",
-    "fileName": "a697"
+    "fileName": "697"
   },
   {
     "pid": "699",
@@ -6880,7 +6880,7 @@ module.exports = [
     "romanisation": "hawng sawng dtiang",
     "literalTranslation": "room - two - bed",
     "notes": "",
-    "fileName": "a698"
+    "fileName": "698"
   },
   {
     "pid": "700",
@@ -6890,7 +6890,7 @@ module.exports = [
     "romanisation": "hor pak",
     "literalTranslation": "hall - rest",
     "notes": "",
-    "fileName": "a699"
+    "fileName": "699"
   },
   {
     "pid": "701",
@@ -6900,7 +6900,7 @@ module.exports = [
     "romanisation": "jak khon?",
     "literalTranslation": "how many - people?",
     "notes": "",
-    "fileName": "a700"
+    "fileName": "700"
   },
   {
     "pid": "702",
@@ -6910,7 +6910,7 @@ module.exports = [
     "romanisation": "jak kheun",
     "literalTranslation": "how many - night?",
     "notes": "",
-    "fileName": "a701"
+    "fileName": "701"
   },
   {
     "pid": "703",
@@ -6920,7 +6920,7 @@ module.exports = [
     "romanisation": "sawng khon, neung kheun",
     "literalTranslation": "two - people - one - night",
     "notes": "",
-    "fileName": "a702"
+    "fileName": "702"
   },
   {
     "pid": "704",
@@ -6930,7 +6930,7 @@ module.exports = [
     "romanisation": "kheun la thao dai?",
     "literalTranslation": "night - each - equal to - which?",
     "notes": "",
-    "fileName": "a703"
+    "fileName": "703"
   },
   {
     "pid": "705",
@@ -6940,7 +6940,7 @@ module.exports = [
     "romanisation": "athit la thao dai?",
     "literalTranslation": "week - each - equal to - which?",
     "notes": "",
-    "fileName": "a704"
+    "fileName": "704"
   },
   {
     "pid": "706",
@@ -6950,7 +6950,7 @@ module.exports = [
     "romanisation": "hawng mii pat-lom",
     "literalTranslation": "room - have - fan",
     "notes": "",
-    "fileName": "a705"
+    "fileName": "705"
   },
   {
     "pid": "707",
@@ -6960,7 +6960,7 @@ module.exports = [
     "romanisation": "hawng mii air",
     "literalTranslation": "room - that - have - air conditioning",
     "notes": "",
-    "fileName": "a706"
+    "fileName": "706"
   },
   {
     "pid": "708",
@@ -6970,7 +6970,7 @@ module.exports = [
     "romanisation": "jao dtawng-gaan air baw?",
     "literalTranslation": "you - want - air conditioning - question particle?",
     "notes": "",
-    "fileName": "a707"
+    "fileName": "707"
   },
   {
     "pid": "709",
@@ -6980,7 +6980,7 @@ module.exports = [
     "romanisation": "jao mii wifi baw?",
     "literalTranslation": "you - have - wifi - question particle?",
     "notes": "",
-    "fileName": "a708"
+    "fileName": "708"
   },
   {
     "pid": "710",
@@ -6990,7 +6990,7 @@ module.exports = [
     "romanisation": "lahat wifi",
     "literalTranslation": "code - wifi",
     "notes": "",
-    "fileName": "a709"
+    "fileName": "709"
   },
   {
     "pid": "711",
@@ -7000,7 +7000,7 @@ module.exports = [
     "romanisation": "mii kheuang het nam oun baw?",
     "literalTranslation": "have - machine - make - water - warm - question particle?",
     "notes": "",
-    "fileName": "a710"
+    "fileName": "710"
   },
   {
     "pid": "712",
@@ -7010,7 +7010,7 @@ module.exports = [
     "romanisation": "boeng hawng dai baw?",
     "literalTranslation": "see - room - can - question particle?",
     "notes": "",
-    "fileName": "a711"
+    "fileName": "711"
   },
   {
     "pid": "713",
@@ -7020,7 +7020,7 @@ module.exports = [
     "romanisation": "boeng hawng eun dai baw?",
     "literalTranslation": "see - room - another - can - question particle?",
     "notes": "",
-    "fileName": "a712"
+    "fileName": "712"
   },
   {
     "pid": "714",
@@ -7030,7 +7030,7 @@ module.exports = [
     "romanisation": "khoy yaak dai hawng sa-aat gua nii",
     "literalTranslation": "I - want - get - room - clean - more than - this",
     "notes": "",
-    "fileName": "a713"
+    "fileName": "713"
   },
   {
     "pid": "715",
@@ -7040,7 +7040,7 @@ module.exports = [
     "romanisation": "nyai gua",
     "literalTranslation": "big - more than",
     "notes": "",
-    "fileName": "a714"
+    "fileName": "714"
   },
   {
     "pid": "716",
@@ -7050,7 +7050,7 @@ module.exports = [
     "romanisation": "ngiap gua",
     "literalTranslation": "quiet - more than",
     "notes": "",
-    "fileName": "a715"
+    "fileName": "715"
   },
   {
     "pid": "717",
@@ -7060,7 +7060,7 @@ module.exports = [
     "romanisation": "laakaa tuuk gua",
     "literalTranslation": "price - cheap - more than",
     "notes": "",
-    "fileName": "a716"
+    "fileName": "716"
   },
   {
     "pid": "718",
@@ -7070,7 +7070,7 @@ module.exports = [
     "romanisation": "hawng tii mii hawng nam",
     "literalTranslation": "room - that - have - room - water",
     "notes": "",
-    "fileName": "a717"
+    "fileName": "717"
   },
   {
     "pid": "719",
@@ -7080,7 +7080,7 @@ module.exports = [
     "romanisation": "hawng nii mii gin yaa-suup",
     "literalTranslation": "room - this - have - smell - tobacco",
     "notes": "",
-    "fileName": "a718"
+    "fileName": "718"
   },
   {
     "pid": "720",
@@ -7090,7 +7090,7 @@ module.exports = [
     "romanisation": "khoy bpert pong-nyiam dai baw?",
     "literalTranslation": "I - open - window - can - question particle?",
     "notes": "",
-    "fileName": "a719"
+    "fileName": "719"
   },
   {
     "pid": "721",
@@ -7100,7 +7100,7 @@ module.exports = [
     "romanisation": "khoy yaai hawng dai baw?",
     "literalTranslation": "I - move - room - can - question particle?",
     "notes": "",
-    "fileName": "a720"
+    "fileName": "720"
   },
   {
     "pid": "722",
@@ -7110,7 +7110,7 @@ module.exports = [
     "romanisation": "khoy kor paahom perm dai baw?",
     "literalTranslation": "I - request - blanket - add - can - question particle?",
     "notes": "",
-    "fileName": "a721"
+    "fileName": "721"
   },
   {
     "pid": "723",
@@ -7120,7 +7120,7 @@ module.exports = [
     "romanisation": "phuak hao kor dtiang serm dai baw?",
     "literalTranslation": "group of - we - request - bed - add - can - question particle?",
     "notes": "",
-    "fileName": "a722"
+    "fileName": "722"
   },
   {
     "pid": "724",
@@ -7130,7 +7130,7 @@ module.exports = [
     "romanisation": "khoy ja ao an nii",
     "literalTranslation": "I - want to - take - item - this",
     "notes": "",
-    "fileName": "a723"
+    "fileName": "723"
   },
   {
     "pid": "725",
@@ -7140,7 +7140,7 @@ module.exports = [
     "romanisation": "khoy sii bpai haa mong eun",
     "literalTranslation": "I - want to - go - look for - place - another",
     "notes": "",
-    "fileName": "a724"
+    "fileName": "724"
   },
   {
     "pid": "726",
@@ -7150,7 +7150,7 @@ module.exports = [
     "romanisation": "khoy yaak yuu dtor eek kheun neung",
     "literalTranslation": "I - want to - stay - next - another - night - one",
     "notes": "",
-    "fileName": "a725"
+    "fileName": "725"
   },
   {
     "pid": "727",
@@ -7160,7 +7160,7 @@ module.exports = [
     "romanisation": "khoy bpa ga-bpao wai bon nii dai baw?",
     "literalTranslation": "I - leave - bag - for future - place - this - can - question particle?",
     "notes": "One usage of the word 'wai' (ໄວ້) is to imply that something will happen in the future or is being done for the future.",
-    "fileName": "a726"
+    "fileName": "726"
   },
   {
     "pid": "728",
@@ -7170,7 +7170,7 @@ module.exports = [
     "romanisation": "khoy ja laek ngoen dai yuu sai?",
     "literalTranslation": "I - future marker - exchange - money - can - at (place) - which?",
     "notes": "",
-    "fileName": "a727"
+    "fileName": "727"
   },
   {
     "pid": "729",
@@ -7180,7 +7180,7 @@ module.exports = [
     "romanisation": "mii boligaan sak liit baw?",
     "literalTranslation": "have - service - wash (clothes) - iron - question particle?",
     "notes": "",
-    "fileName": "a728"
+    "fileName": "728"
   },
   {
     "pid": "730",
@@ -7190,7 +7190,7 @@ module.exports = [
     "romanisation": "khoy leum gajae wai nai hawng",
     "literalTranslation": "I - forget - key - put - in - room",
     "notes": "",
-    "fileName": "a729"
+    "fileName": "729"
   },
   {
     "pid": "731",
@@ -7200,7 +7200,7 @@ module.exports = [
     "romanisation": "lot",
     "literalTranslation": "vehicle ",
     "notes": "",
-    "fileName": "a730"
+    "fileName": "730"
   },
   {
     "pid": "732",
@@ -7210,7 +7210,7 @@ module.exports = [
     "romanisation": "kap lot",
     "literalTranslation": "drive - vehicle",
     "notes": "",
-    "fileName": "a731"
+    "fileName": "731"
   },
   {
     "pid": "733",
@@ -7220,7 +7220,7 @@ module.exports = [
     "romanisation": "lot tiip",
     "literalTranslation": "vehicle - pedal",
     "notes": "",
-    "fileName": "a732"
+    "fileName": "732"
   },
   {
     "pid": "734",
@@ -7230,7 +7230,7 @@ module.exports = [
     "romanisation": "kii lot tiip",
     "literalTranslation": "ride - vehicle - pedal",
     "notes": null,
-    "fileName": "a733"
+    "fileName": "733"
   },
   {
     "pid": "735",
@@ -7240,7 +7240,7 @@ module.exports = [
     "romanisation": "nyang",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a734"
+    "fileName": "734"
   },
   {
     "pid": "736",
@@ -7250,7 +7250,7 @@ module.exports = [
     "romanisation": "dtak-sii",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a735"
+    "fileName": "735"
   },
   {
     "pid": "737",
@@ -7260,7 +7260,7 @@ module.exports = [
     "romanisation": "dtook dtook / jumbo",
     "literalTranslation": "",
     "notes": "Large three-wheeled motorcycle taxi.",
-    "fileName": "a736"
+    "fileName": "736"
   },
   {
     "pid": "738",
@@ -7270,7 +7270,7 @@ module.exports = [
     "romanisation": "saam lor",
     "literalTranslation": "three - wheel",
     "notes": "Small three-wheeled motorcycle taxi with rear compartment.",
-    "fileName": "a737"
+    "fileName": "737"
   },
   {
     "pid": "739",
@@ -7280,7 +7280,7 @@ module.exports = [
     "romanisation": "bpai haw khum laakaa thao dai?",
     "literalTranslation": "go - hall - gold - price - equal to - which?",
     "notes": "",
-    "fileName": "a738"
+    "fileName": "738"
   },
   {
     "pid": "740",
@@ -7290,7 +7290,7 @@ module.exports = [
     "romanisation": "galunaa paa khoy bpai bpa-dtu-sai",
     "literalTranslation": "please - take - me - go - Patuxai",
     "notes": "",
-    "fileName": "a739"
+    "fileName": "739"
   },
   {
     "pid": "741",
@@ -7300,7 +7300,7 @@ module.exports = [
     "romanisation": "galunaa bpert mii-dter",
     "literalTranslation": "please - turn on - meter",
     "notes": "",
-    "fileName": "a740"
+    "fileName": "740"
   },
   {
     "pid": "742",
@@ -7310,7 +7310,7 @@ module.exports = [
     "romanisation": "sai weh-lah don bpaan dai?",
     "literalTranslation": "use - time - long time - to the extent of - which?",
     "notes": "",
-    "fileName": "a741"
+    "fileName": "741"
   },
   {
     "pid": "743",
@@ -7320,7 +7320,7 @@ module.exports = [
     "romanisation": "yut yuu nii",
     "literalTranslation": "stop - at (place) - this",
     "notes": "",
-    "fileName": "a742"
+    "fileName": "742"
   },
   {
     "pid": "744",
@@ -7330,7 +7330,7 @@ module.exports = [
     "romanisation": "diao khoy gap maa",
     "literalTranslation": "a moment - I - return - come",
     "notes": "",
-    "fileName": "a743"
+    "fileName": "743"
   },
   {
     "pid": "745",
@@ -7340,7 +7340,7 @@ module.exports = [
     "romanisation": "muu maa num gan",
     "literalTranslation": "friend - come - together - together",
     "notes": "",
-    "fileName": "a744"
+    "fileName": "744"
   },
   {
     "pid": "746",
@@ -7350,7 +7350,7 @@ module.exports = [
     "romanisation": "lot meh",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a745"
+    "fileName": "745"
   },
   {
     "pid": "747",
@@ -7360,7 +7360,7 @@ module.exports = [
     "romanisation": "sawng taeo",
     "literalTranslation": "two - row",
     "notes": "",
-    "fileName": "a746"
+    "fileName": "746"
   },
   {
     "pid": "748",
@@ -7370,7 +7370,7 @@ module.exports = [
     "romanisation": "lot dtuu",
     "literalTranslation": "vehicle - compartment",
     "notes": "",
-    "fileName": "a747"
+    "fileName": "747"
   },
   {
     "pid": "749",
@@ -7380,7 +7380,7 @@ module.exports = [
     "romanisation": "lot tua",
     "literalTranslation": "vehicle - tour",
     "notes": "",
-    "fileName": "a748"
+    "fileName": "748"
   },
   {
     "pid": "750",
@@ -7390,7 +7390,7 @@ module.exports = [
     "romanisation": "sataanii lot meh",
     "literalTranslation": "station - vehicle - mail",
     "notes": "",
-    "fileName": "a749"
+    "fileName": "749"
   },
   {
     "pid": "751",
@@ -7400,7 +7400,7 @@ module.exports = [
     "romanisation": "bon tha lot meh",
     "literalTranslation": "place - wait - vehicle - mail",
     "notes": "",
-    "fileName": "a750"
+    "fileName": "750"
   },
   {
     "pid": "752",
@@ -7410,7 +7410,7 @@ module.exports = [
     "romanisation": "saai",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a751"
+    "fileName": "751"
   },
   {
     "pid": "753",
@@ -7420,7 +7420,7 @@ module.exports = [
     "romanisation": "bpai doi lot meh",
     "literalTranslation": "go - by means of - vehicle - mail",
     "notes": "",
-    "fileName": "a752"
+    "fileName": "752"
   },
   {
     "pid": "754",
@@ -7430,7 +7430,7 @@ module.exports = [
     "romanisation": "kheun lot meh saai haa-sip-et",
     "literalTranslation": "board - vehicle - mail - number - fifty one",
     "notes": "",
-    "fileName": "a753"
+    "fileName": "753"
   },
   {
     "pid": "755",
@@ -7440,7 +7440,7 @@ module.exports = [
     "romanisation": "bpii",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a754"
+    "fileName": "754"
   },
   {
     "pid": "756",
@@ -7450,7 +7450,7 @@ module.exports = [
     "romanisation": "taang thiao diao",
     "literalTranslation": "way - trip - single",
     "notes": "",
-    "fileName": "a755"
+    "fileName": "755"
   },
   {
     "pid": "757",
@@ -7460,7 +7460,7 @@ module.exports = [
     "romanisation": "bpai gap",
     "literalTranslation": "go - return",
     "notes": "",
-    "fileName": "a756"
+    "fileName": "756"
   },
   {
     "pid": "758",
@@ -7470,7 +7470,7 @@ module.exports = [
     "romanisation": "khoy bpai seu bpii dai yuu sai?",
     "literalTranslation": "I - go - buy - ticket - can - at (place) - which?",
     "notes": "",
-    "fileName": "a757"
+    "fileName": "757"
   },
   {
     "pid": "759",
@@ -7480,7 +7480,7 @@ module.exports = [
     "romanisation": "jao si bpai wieng-jan baw?",
     "literalTranslation": "you - future marker - go - Vientiane - question particle?",
     "notes": "",
-    "fileName": "a758"
+    "fileName": "758"
   },
   {
     "pid": "760",
@@ -7490,7 +7490,7 @@ module.exports = [
     "romanisation": "lot meh bpai sawannaket ja ork jak mohng?",
     "literalTranslation": "vehicle - mail - go - Savannakhet - future marker - leave - how many - hour?",
     "notes": "",
-    "fileName": "a759"
+    "fileName": "759"
   },
   {
     "pid": "761",
@@ -7500,7 +7500,7 @@ module.exports = [
     "romanisation": "lot ja jort hai gin khao laeng baw?",
     "literalTranslation": "vehicle - future marker - park - allow - eat - rice - evening - question particle?",
     "notes": "",
-    "fileName": "a760"
+    "fileName": "760"
   },
   {
     "pid": "762",
@@ -7510,7 +7510,7 @@ module.exports = [
     "romanisation": "tha khoy ao lot tiip bpai num dtong jaai ngoen thao dai?",
     "literalTranslation": "if - I - bring - vehicle - pedal - go - together - have to - pay - money - equal to - which?",
     "notes": "",
-    "fileName": "a761"
+    "fileName": "761"
   },
   {
     "pid": "763",
@@ -7520,7 +7520,7 @@ module.exports = [
     "romanisation": "mun nyang baw than maa",
     "literalTranslation": "it - still - not - yet - come ",
     "notes": "",
-    "fileName": "a762"
+    "fileName": "762"
   },
   {
     "pid": "764",
@@ -7530,7 +7530,7 @@ module.exports = [
     "romanisation": "mun ja maa hort saa",
     "literalTranslation": "it - future marker - come - arrive - late",
     "notes": "",
-    "fileName": "a763"
+    "fileName": "763"
   },
   {
     "pid": "765",
@@ -7540,7 +7540,7 @@ module.exports = [
     "romanisation": "bpai hort bpaak-seh jak mohng?",
     "literalTranslation": "go - arrive - Pakse - how many - hour?",
     "notes": "",
-    "fileName": "a764"
+    "fileName": "764"
   },
   {
     "pid": "766",
@@ -7550,7 +7550,7 @@ module.exports = [
     "romanisation": "sai weh-laa don bpan dai?",
     "literalTranslation": "use - time - long time - to the extent of - which?",
     "notes": "",
-    "fileName": "a765"
+    "fileName": "765"
   },
   {
     "pid": "767",
@@ -7560,7 +7560,7 @@ module.exports = [
     "romanisation": "khoy yaak bpai sataanii lot meh",
     "literalTranslation": "I - want to - go - station - vehicle - mail",
     "notes": "",
-    "fileName": "a766"
+    "fileName": "766"
   },
   {
     "pid": "768",
@@ -7570,7 +7570,7 @@ module.exports = [
     "romanisation": "nii maen meuang eeyang?",
     "literalTranslation": "this - is - city - what?",
     "notes": "",
-    "fileName": "a767"
+    "fileName": "767"
   },
   {
     "pid": "769",
@@ -7580,7 +7580,7 @@ module.exports = [
     "romanisation": "heua",
     "literalTranslation": null,
     "notes": null,
-    "fileName": "a768"
+    "fileName": "768"
   },
   {
     "pid": "770",
@@ -7590,7 +7590,7 @@ module.exports = [
     "romanisation": "heua kaam faak",
     "literalTranslation": "boat - cross - bank",
     "notes": "",
-    "fileName": "a769"
+    "fileName": "769"
   },
   {
     "pid": "771",
@@ -7600,7 +7600,7 @@ module.exports = [
     "romanisation": "bpai taang heua",
     "literalTranslation": "go - way - boat",
     "notes": "",
-    "fileName": "a770"
+    "fileName": "770"
   },
   {
     "pid": "772",
@@ -7610,7 +7610,7 @@ module.exports = [
     "romanisation": "jawng bpii keun heua",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a771"
+    "fileName": "771"
   },
   {
     "pid": "773",
@@ -7620,7 +7620,7 @@ module.exports = [
     "romanisation": "taa heua",
     "literalTranslation": "waterfront - boat",
     "notes": "",
-    "fileName": "a772"
+    "fileName": "772"
   },
   {
     "pid": "774",
@@ -7630,7 +7630,7 @@ module.exports = [
     "romanisation": "heua bin",
     "literalTranslation": "boat - fly",
     "notes": "",
-    "fileName": "a773"
+    "fileName": "773"
   },
   {
     "pid": "775",
@@ -7640,7 +7640,7 @@ module.exports = [
     "romanisation": "sanaam bin",
     "literalTranslation": "field - fly",
     "notes": "",
-    "fileName": "a774"
+    "fileName": "774"
   },
   {
     "pid": "777",
@@ -7650,7 +7650,7 @@ module.exports = [
     "romanisation": "kaa khao",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a776"
+    "fileName": "776"
   },
   {
     "pid": "778",
@@ -7660,7 +7660,7 @@ module.exports = [
     "romanisation": "kaa ork",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a777"
+    "fileName": "777"
   },
   {
     "pid": "779",
@@ -7670,7 +7670,7 @@ module.exports = [
     "romanisation": "bpa-dtuu sao-et",
     "literalTranslation": "gate - twenty one",
     "notes": "",
-    "fileName": "a778"
+    "fileName": "778"
   },
   {
     "pid": "780",
@@ -7680,7 +7680,7 @@ module.exports = [
     "romanisation": "heua bin sii keun jak mohng?",
     "literalTranslation": "boat - fly - future marker - board - how many - hour?",
     "notes": "",
-    "fileName": "a779"
+    "fileName": "779"
   },
   {
     "pid": "781",
@@ -7690,7 +7690,7 @@ module.exports = [
     "romanisation": "sataantii naa son-jai maen nyang?",
     "literalTranslation": "place - prefix to indicate a probable state - interested - is - what?",
     "notes": "",
-    "fileName": "a780"
+    "fileName": "780"
   },
   {
     "pid": "782",
@@ -7700,7 +7700,7 @@ module.exports = [
     "romanisation": "kor apai, haan sab-pha-sin-kaa yuu sai?",
     "literalTranslation": "request - forgive, store - goods - at (place) - which?",
     "notes": "",
-    "fileName": "a781"
+    "fileName": "781"
   },
   {
     "pid": "783",
@@ -7710,7 +7710,7 @@ module.exports = [
     "romanisation": "mii bpaisaanii taeo nii baw?",
     "literalTranslation": "have - post - area - this - question particle?",
     "notes": "",
-    "fileName": "a782"
+    "fileName": "782"
   },
   {
     "pid": "784",
@@ -7720,7 +7720,7 @@ module.exports = [
     "romanisation": "bpai wang-wieng taang dai?",
     "literalTranslation": "go - Vang Vieng - way - which?",
     "notes": "",
-    "fileName": "a783"
+    "fileName": "783"
   },
   {
     "pid": "785",
@@ -7730,7 +7730,7 @@ module.exports = [
     "romanisation": "khoy gamlang haa taa heua kaam faak",
     "literalTranslation": "I - currently - look for - waterfront - boat - cross - bank",
     "notes": "",
-    "fileName": "a784"
+    "fileName": "784"
   },
   {
     "pid": "786",
@@ -7740,7 +7740,7 @@ module.exports = [
     "romanisation": "jao sii hai khoy boeng yuu paentii dai baw?",
     "literalTranslation": "you - future marker - give - me - look - map - can - question particle?",
     "notes": "The verbs 'hai ... boeng' (ໃຫ້ ... ເບິ່ງ) together mean 'show'.",
-    "fileName": "a785"
+    "fileName": "785"
   },
   {
     "pid": "787",
@@ -7750,7 +7750,7 @@ module.exports = [
     "romanisation": "bpai seu seu",
     "literalTranslation": "go - straight - straight",
     "notes": "",
-    "fileName": "a786"
+    "fileName": "786"
   },
   {
     "pid": "788",
@@ -7760,7 +7760,7 @@ module.exports = [
     "romanisation": "bpai sut taang",
     "literalTranslation": "go - end - way",
     "notes": "",
-    "fileName": "a787"
+    "fileName": "787"
   },
   {
     "pid": "789",
@@ -7770,7 +7770,7 @@ module.exports = [
     "romanisation": "liao kuaa",
     "literalTranslation": "turn - right",
     "notes": "",
-    "fileName": "a788"
+    "fileName": "788"
   },
   {
     "pid": "790",
@@ -7780,7 +7780,7 @@ module.exports = [
     "romanisation": "liao saai",
     "literalTranslation": "turn - left",
     "notes": "",
-    "fileName": "a789"
+    "fileName": "789"
   },
   {
     "pid": "791",
@@ -7790,7 +7790,7 @@ module.exports = [
     "romanisation": "paan taang yaek bpai",
     "literalTranslation": "pass by - way - intersection - go",
     "notes": "",
-    "fileName": "a790"
+    "fileName": "790"
   },
   {
     "pid": "792",
@@ -7800,7 +7800,7 @@ module.exports = [
     "romanisation": "bpai seu seu jon gua bpam nam mun, laew liao kuaa",
     "literalTranslation": "go - straight - straight - until - until - pump - liquid - oil, then - turn - right",
     "notes": "",
-    "fileName": "a791"
+    "fileName": "791"
   },
   {
     "pid": "793",
@@ -7810,7 +7810,7 @@ module.exports = [
     "romanisation": "bpai seu, liao saai yuu fai jaarajorn",
     "literalTranslation": "go - straight, turn - left - at - light - traffic",
     "notes": "",
-    "fileName": "a792"
+    "fileName": "792"
   },
   {
     "pid": "794",
@@ -7820,7 +7820,7 @@ module.exports = [
     "romanisation": "liao kuaa lang jaak hort wat",
     "literalTranslation": "turn - right - behind - from - arrive - temple",
     "notes": "",
-    "fileName": "a793"
+    "fileName": "793"
   },
   {
     "pid": "795",
@@ -7830,7 +7830,7 @@ module.exports = [
     "romanisation": "yuu han",
     "literalTranslation": "at - there",
     "notes": "",
-    "fileName": "a794"
+    "fileName": "794"
   },
   {
     "pid": "796",
@@ -7840,7 +7840,7 @@ module.exports = [
     "romanisation": "gap bpai taang nan",
     "literalTranslation": "return - go - way - that",
     "notes": "",
-    "fileName": "a795"
+    "fileName": "795"
   },
   {
     "pid": "797",
@@ -7850,7 +7850,7 @@ module.exports = [
     "romanisation": "yuu beuong saai meu",
     "literalTranslation": "at - side - left - hand",
     "notes": "",
-    "fileName": "a796"
+    "fileName": "796"
   },
   {
     "pid": "798",
@@ -7860,7 +7860,7 @@ module.exports = [
     "romanisation": "taang naa",
     "literalTranslation": "way - front",
     "notes": "",
-    "fileName": "a797"
+    "fileName": "797"
   },
   {
     "pid": "799",
@@ -7870,7 +7870,7 @@ module.exports = [
     "romanisation": "lang",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a798"
+    "fileName": "798"
   },
   {
     "pid": "800",
@@ -7880,7 +7880,7 @@ module.exports = [
     "romanisation": "dtor jaak",
     "literalTranslation": "next - from",
     "notes": "",
-    "fileName": "a799"
+    "fileName": "799"
   },
   {
     "pid": "801",
@@ -7890,7 +7890,7 @@ module.exports = [
     "romanisation": "yuu hua-muum",
     "literalTranslation": "at - corner",
     "notes": "",
-    "fileName": "a800"
+    "fileName": "800"
   },
   {
     "pid": "802",
@@ -7900,7 +7900,7 @@ module.exports = [
     "romanisation": "kong khan kaam",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a801"
+    "fileName": "801"
   },
   {
     "pid": "803",
@@ -7910,7 +7910,7 @@ module.exports = [
     "romanisation": "gai",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a802"
+    "fileName": "802"
   },
   {
     "pid": "804",
@@ -7920,7 +7920,7 @@ module.exports = [
     "romanisation": "gai",
     "literalTranslation": "",
     "notes": "The words for 'near' and 'far' differ only in tone. ",
-    "fileName": "a803"
+    "fileName": "803"
   },
   {
     "pid": "806",
@@ -7930,7 +7930,7 @@ module.exports = [
     "romanisation": "tanon / taang",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a805"
+    "fileName": "805"
   },
   {
     "pid": "807",
@@ -7940,7 +7940,7 @@ module.exports = [
     "romanisation": "taang duan",
     "literalTranslation": "way - urgent",
     "notes": "",
-    "fileName": "a806"
+    "fileName": "806"
   },
   {
     "pid": "808",
@@ -7950,7 +7950,7 @@ module.exports = [
     "romanisation": "baan",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a807"
+    "fileName": "807"
   },
   {
     "pid": "809",
@@ -7960,7 +7960,7 @@ module.exports = [
     "romanisation": "meuang",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a808"
+    "fileName": "808"
   },
   {
     "pid": "811",
@@ -7970,7 +7970,7 @@ module.exports = [
     "romanisation": "khwaeng",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a810"
+    "fileName": "810"
   },
   {
     "pid": "812",
@@ -7980,7 +7980,7 @@ module.exports = [
     "romanisation": "nii maen tanon nyang?",
     "literalTranslation": "this - is - road - what?",
     "notes": "",
-    "fileName": "a811"
+    "fileName": "811"
   },
   {
     "pid": "813",
@@ -7990,7 +7990,7 @@ module.exports = [
     "romanisation": "mii maen baan nyang",
     "literalTranslation": "this - is - village - what?",
     "notes": "",
-    "fileName": "a812"
+    "fileName": "812"
   },
   {
     "pid": "814",
@@ -8000,7 +8000,7 @@ module.exports = [
     "romanisation": "eek gai sum dai?",
     "literalTranslation": "more - far - size - which?",
     "notes": "",
-    "fileName": "a813"
+    "fileName": "813"
   },
   {
     "pid": "815",
@@ -8010,7 +8010,7 @@ module.exports = [
     "romanisation": "sa-bon",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a814"
+    "fileName": "814"
   },
   {
     "pid": "816",
@@ -8020,7 +8020,7 @@ module.exports = [
     "romanisation": "taang lum",
     "literalTranslation": "way - below",
     "notes": "",
-    "fileName": "a815"
+    "fileName": "815"
   },
   {
     "pid": "817",
@@ -8030,7 +8030,7 @@ module.exports = [
     "romanisation": "taang khao",
     "literalTranslation": "way - enter",
     "notes": "",
-    "fileName": "a816"
+    "fileName": "816"
   },
   {
     "pid": "818",
@@ -8040,7 +8040,7 @@ module.exports = [
     "romanisation": "taang awk",
     "literalTranslation": "way - leave",
     "notes": "",
-    "fileName": "a817"
+    "fileName": "817"
   },
   {
     "pid": "819",
@@ -8050,7 +8050,7 @@ module.exports = [
     "romanisation": "nyaang bpamaan sip naatii",
     "literalTranslation": "walk - about - ten - minute",
     "notes": "",
-    "fileName": "a818"
+    "fileName": "818"
   },
   {
     "pid": "820",
@@ -8060,7 +8060,7 @@ module.exports = [
     "romanisation": "nyaang bpai dai",
     "literalTranslation": "walk - go - can",
     "notes": "",
-    "fileName": "a819"
+    "fileName": "819"
   },
   {
     "pid": "821",
@@ -8070,7 +8070,7 @@ module.exports = [
     "romanisation": "lot dtit",
     "literalTranslation": "vehicle - stuck",
     "notes": "",
-    "fileName": "a820"
+    "fileName": "820"
   },
   {
     "pid": "822",
@@ -8080,7 +8080,7 @@ module.exports = [
     "romanisation": "khoy saamaat sao lot jak dai yuu sai?",
     "literalTranslation": "I - can - rent - vehicle - engine - can - at - where?",
     "notes": "",
-    "fileName": "a821"
+    "fileName": "821"
   },
   {
     "pid": "823",
@@ -8090,7 +8090,7 @@ module.exports = [
     "romanisation": "huay",
     "literalTranslation": "",
     "notes": null,
-    "fileName": "a822"
+    "fileName": "822"
   },
   {
     "pid": "824",
@@ -8100,7 +8100,7 @@ module.exports = [
     "romanisation": "taleh",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a823"
+    "fileName": "823"
   },
   {
     "pid": "825",
@@ -8110,7 +8110,7 @@ module.exports = [
     "romanisation": "phu khao",
     "literalTranslation": "mountain - mountain",
     "notes": "",
-    "fileName": "a824"
+    "fileName": "824"
   },
   {
     "pid": "826",
@@ -8120,7 +8120,7 @@ module.exports = [
     "romanisation": "phu nawy",
     "literalTranslation": "mountain - little",
     "notes": "",
-    "fileName": "a825"
+    "fileName": "825"
   },
   {
     "pid": "827",
@@ -8130,7 +8130,7 @@ module.exports = [
     "romanisation": "bpaa",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a826"
+    "fileName": "826"
   },
   {
     "pid": "828",
@@ -8140,7 +8140,7 @@ module.exports = [
     "romanisation": "taang nyang",
     "literalTranslation": "way - walk",
     "notes": "",
-    "fileName": "a827"
+    "fileName": "827"
   },
   {
     "pid": "829",
@@ -8150,7 +8150,7 @@ module.exports = [
     "romanisation": "naa",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a828"
+    "fileName": "828"
   },
   {
     "pid": "830",
@@ -8160,7 +8160,7 @@ module.exports = [
     "romanisation": "tum",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a829"
+    "fileName": "829"
   },
   {
     "pid": "831",
@@ -8170,7 +8170,7 @@ module.exports = [
     "romanisation": "nam / seh",
     "literalTranslation": "",
     "notes": "The word 'nam' (ນ້ໍາ), which also means 'water' and liquid in general, is used in Northern Laos, while 'seh' (ເຊ) is used in Southern Laos. ",
-    "fileName": "a830"
+    "fileName": "830"
   },
   {
     "pid": "832",
@@ -8180,7 +8180,7 @@ module.exports = [
     "romanisation": "fang nam",
     "literalTranslation": "bank - river",
     "notes": "",
-    "fileName": "a831"
+    "fileName": "831"
   },
   {
     "pid": "833",
@@ -8190,7 +8190,7 @@ module.exports = [
     "romanisation": "don",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a832"
+    "fileName": "832"
   },
   {
     "pid": "834",
@@ -8200,7 +8200,7 @@ module.exports = [
     "romanisation": "taleh saap",
     "literalTranslation": "sea - damn",
     "notes": "",
-    "fileName": "a833"
+    "fileName": "833"
   },
   {
     "pid": "835",
@@ -8210,7 +8210,7 @@ module.exports = [
     "romanisation": "nam dtok dtaat",
     "literalTranslation": "water - fall - torrent",
     "notes": "",
-    "fileName": "a834"
+    "fileName": "834"
   },
   {
     "pid": "836",
@@ -8220,7 +8220,7 @@ module.exports = [
     "romanisation": "haa bpaa",
     "literalTranslation": "look for - fish",
     "notes": "",
-    "fileName": "a835"
+    "fileName": "835"
   },
   {
     "pid": "838",
@@ -8230,7 +8230,7 @@ module.exports = [
     "romanisation": "bpiin phu",
     "literalTranslation": "climb - hill",
     "notes": "",
-    "fileName": "a837"
+    "fileName": "837"
   },
   {
     "pid": "839",
@@ -8240,7 +8240,7 @@ module.exports = [
     "romanisation": "dern bpaa",
     "literalTranslation": "walk - forest",
     "notes": "",
-    "fileName": "a838"
+    "fileName": "838"
   },
   {
     "pid": "840",
@@ -8250,7 +8250,7 @@ module.exports = [
     "romanisation": "khon nam tiao",
     "literalTranslation": "person - lead - trip",
     "notes": "",
-    "fileName": "a839"
+    "fileName": "839"
   },
   {
     "pid": "841",
@@ -8260,7 +8260,7 @@ module.exports = [
     "romanisation": "muung",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a840"
+    "fileName": "840"
   },
   {
     "pid": "842",
@@ -8270,7 +8270,7 @@ module.exports = [
     "romanisation": "kii lot tiip",
     "literalTranslation": "ride - vehicle - pedal",
     "notes": "",
-    "fileName": "a841"
+    "fileName": "841"
   },
   {
     "pid": "843",
@@ -8280,7 +8280,7 @@ module.exports = [
     "romanisation": "korp khua",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a842"
+    "fileName": "842"
   },
   {
     "pid": "844",
@@ -8290,7 +8290,7 @@ module.exports = [
     "romanisation": "mae",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a843"
+    "fileName": "843"
   },
   {
     "pid": "845",
@@ -8300,7 +8300,7 @@ module.exports = [
     "romanisation": "por",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a844"
+    "fileName": "844"
   },
   {
     "pid": "846",
@@ -8310,7 +8310,7 @@ module.exports = [
     "romanisation": "por mae",
     "literalTranslation": "father - mother",
     "notes": "",
-    "fileName": "a845"
+    "fileName": "845"
   },
   {
     "pid": "847",
@@ -8320,7 +8320,7 @@ module.exports = [
     "romanisation": "luuk saai",
     "literalTranslation": "child - male",
     "notes": "",
-    "fileName": "a846"
+    "fileName": "846"
   },
   {
     "pid": "848",
@@ -8330,7 +8330,7 @@ module.exports = [
     "romanisation": "luuk saao",
     "literalTranslation": "child - female",
     "notes": "",
-    "fileName": "a847"
+    "fileName": "847"
   },
   {
     "pid": "850",
@@ -8340,7 +8340,7 @@ module.exports = [
     "romanisation": "euay",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a849"
+    "fileName": "849"
   },
   {
     "pid": "851",
@@ -8350,7 +8350,7 @@ module.exports = [
     "romanisation": "aai",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a850"
+    "fileName": "850"
   },
   {
     "pid": "852",
@@ -8360,7 +8360,7 @@ module.exports = [
     "romanisation": "nawng saao",
     "literalTranslation": "younger sibling - female",
     "notes": "",
-    "fileName": "a851"
+    "fileName": "851"
   },
   {
     "pid": "853",
@@ -8370,7 +8370,7 @@ module.exports = [
     "romanisation": "nawng saai",
     "literalTranslation": "younger sibling - male",
     "notes": "",
-    "fileName": "a852"
+    "fileName": "852"
   },
   {
     "pid": "854",
@@ -8380,7 +8380,7 @@ module.exports = [
     "romanisation": "saamii",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a853"
+    "fileName": "853"
   },
   {
     "pid": "855",
@@ -8390,7 +8390,7 @@ module.exports = [
     "romanisation": "phua",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a854"
+    "fileName": "854"
   },
   {
     "pid": "856",
@@ -8400,7 +8400,7 @@ module.exports = [
     "romanisation": "panlayaa",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a855"
+    "fileName": "855"
   },
   {
     "pid": "857",
@@ -8410,7 +8410,7 @@ module.exports = [
     "romanisation": "mia",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a856"
+    "fileName": "856"
   },
   {
     "pid": "858",
@@ -8420,7 +8420,7 @@ module.exports = [
     "romanisation": "bpuu",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a857"
+    "fileName": "857"
   },
   {
     "pid": "859",
@@ -8430,7 +8430,7 @@ module.exports = [
     "romanisation": "yaa",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a858"
+    "fileName": "858"
   },
   {
     "pid": "860",
@@ -8440,7 +8440,7 @@ module.exports = [
     "romanisation": "por thao",
     "literalTranslation": "father - old",
     "notes": "",
-    "fileName": "a859"
+    "fileName": "859"
   },
   {
     "pid": "861",
@@ -8450,7 +8450,7 @@ module.exports = [
     "romanisation": "mae thao",
     "literalTranslation": "mother - old",
     "notes": "",
-    "fileName": "a860"
+    "fileName": "860"
   },
   {
     "pid": "862",
@@ -8460,7 +8460,7 @@ module.exports = [
     "romanisation": "bpaa",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a861"
+    "fileName": "861"
   },
   {
     "pid": "863",
@@ -8470,7 +8470,7 @@ module.exports = [
     "romanisation": "lung",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a862"
+    "fileName": "862"
   },
   {
     "pid": "864",
@@ -8480,7 +8480,7 @@ module.exports = [
     "romanisation": "naa saao",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a863"
+    "fileName": "863"
   },
   {
     "pid": "865",
@@ -8490,7 +8490,7 @@ module.exports = [
     "romanisation": "naa baao",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a864"
+    "fileName": "864"
   },
   {
     "pid": "866",
@@ -8500,7 +8500,7 @@ module.exports = [
     "romanisation": "ao",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a865"
+    "fileName": "865"
   },
   {
     "pid": "867",
@@ -8510,7 +8510,7 @@ module.exports = [
     "romanisation": "aa",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a866"
+    "fileName": "866"
   },
   {
     "pid": "868",
@@ -8520,7 +8520,7 @@ module.exports = [
     "romanisation": "jao mii luuk jak khon?",
     "literalTranslation": "you - have - child - how many - classifier for people?",
     "notes": "",
-    "fileName": "a867"
+    "fileName": "867"
   },
   {
     "pid": "869",
@@ -8530,7 +8530,7 @@ module.exports = [
     "romanisation": "luuk saai neung khon lae luuk saao sawng khon",
     "literalTranslation": "child - male - one - classifier for people - child - female - two - classifier for people",
     "notes": "",
-    "fileName": "a868"
+    "fileName": "868"
   },
   {
     "pid": "870",
@@ -8540,7 +8540,7 @@ module.exports = [
     "romanisation": "nying",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a869"
+    "fileName": "869"
   },
   {
     "pid": "871",
@@ -8550,7 +8550,7 @@ module.exports = [
     "romanisation": "saai",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a870"
+    "fileName": "870"
   },
   {
     "pid": "872",
@@ -8560,7 +8560,7 @@ module.exports = [
     "romanisation": "mae nying",
     "literalTranslation": "mother - female",
     "notes": "",
-    "fileName": "a871"
+    "fileName": "871"
   },
   {
     "pid": "873",
@@ -8570,7 +8570,7 @@ module.exports = [
     "romanisation": "phu saai",
     "literalTranslation": "person - male",
     "notes": "",
-    "fileName": "a872"
+    "fileName": "872"
   },
   {
     "pid": "874",
@@ -8580,7 +8580,7 @@ module.exports = [
     "romanisation": "dek phu saai",
     "literalTranslation": "child - person - male",
     "notes": "",
-    "fileName": "a873"
+    "fileName": "873"
   },
   {
     "pid": "875",
@@ -8590,7 +8590,7 @@ module.exports = [
     "romanisation": "dek phu nying",
     "literalTranslation": "child - person - female",
     "notes": "",
-    "fileName": "a874"
+    "fileName": "874"
   },
   {
     "pid": "876",
@@ -8600,7 +8600,7 @@ module.exports = [
     "romanisation": "phu baao",
     "literalTranslation": "person - young man",
     "notes": "",
-    "fileName": "a875"
+    "fileName": "875"
   },
   {
     "pid": "877",
@@ -8610,7 +8610,7 @@ module.exports = [
     "romanisation": "phu saao",
     "literalTranslation": "person - young woman",
     "notes": "",
-    "fileName": "a876"
+    "fileName": "876"
   },
   {
     "pid": "878",
@@ -8620,7 +8620,7 @@ module.exports = [
     "romanisation": "muu",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a877"
+    "fileName": "877"
   },
   {
     "pid": "880",
@@ -8630,7 +8630,7 @@ module.exports = [
     "romanisation": "faen",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a879"
+    "fileName": "879"
   },
   {
     "pid": "881",
@@ -8640,7 +8640,7 @@ module.exports = [
     "romanisation": "",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a880"
+    "fileName": "880"
   },
   {
     "pid": "884",
@@ -8650,7 +8650,7 @@ module.exports = [
     "romanisation": "khon dtaang pathet",
     "literalTranslation": "person - different - nation",
     "notes": "",
-    "fileName": "a883"
+    "fileName": "883"
   },
   {
     "pid": "885",
@@ -8660,7 +8660,7 @@ module.exports = [
     "romanisation": "falang",
     "literalTranslation": "",
     "notes": "Informal term.",
-    "fileName": "a884"
+    "fileName": "884"
   },
   {
     "pid": "886",
@@ -8670,7 +8670,7 @@ module.exports = [
     "romanisation": "meu aasiip",
     "literalTranslation": "hand - occupation",
     "notes": "",
-    "fileName": "a885"
+    "fileName": "885"
   },
   {
     "pid": "887",
@@ -8680,7 +8680,7 @@ module.exports = [
     "romanisation": "nak seuk-saa",
     "literalTranslation": "person who - study (above school)",
     "notes": "",
-    "fileName": "a886"
+    "fileName": "886"
   },
   {
     "pid": "888",
@@ -8690,7 +8690,7 @@ module.exports = [
     "romanisation": "nak hian",
     "literalTranslation": "person who - study (school level)",
     "notes": "",
-    "fileName": "a887"
+    "fileName": "887"
   },
   {
     "pid": "889",
@@ -8700,7 +8700,7 @@ module.exports = [
     "romanisation": "kuu aajaan",
     "literalTranslation": "teacher - teacher",
     "notes": "Either word may be used in isolation. 'aajaan' (ອາຈານ) is more respectful and is commonly used for the abbot of the temple.",
-    "fileName": "a888"
+    "fileName": "888"
   },
   {
     "pid": "890",
@@ -8710,7 +8710,7 @@ module.exports = [
     "romanisation": "nak tulagit",
     "literalTranslation": "person who - business",
     "notes": "",
-    "fileName": "a889"
+    "fileName": "889"
   },
   {
     "pid": "891",
@@ -8720,7 +8720,7 @@ module.exports = [
     "romanisation": "nak tawng tiao",
     "literalTranslation": "person who - wander - trip",
     "notes": "",
-    "fileName": "a890"
+    "fileName": "890"
   },
   {
     "pid": "892",
@@ -8730,7 +8730,7 @@ module.exports = [
     "romanisation": "taan mor",
     "literalTranslation": "Mr - doctor",
     "notes": "",
-    "fileName": "a891"
+    "fileName": "891"
   },
   {
     "pid": "893",
@@ -8740,7 +8740,7 @@ module.exports = [
     "romanisation": "naang phayaabaan",
     "literalTranslation": "Miss - nurse",
     "notes": "",
-    "fileName": "a892"
+    "fileName": "892"
   },
   {
     "pid": "894",
@@ -8750,7 +8750,7 @@ module.exports = [
     "romanisation": "saao naa",
     "literalTranslation": "person - rice field",
     "notes": "",
-    "fileName": "a893"
+    "fileName": "893"
   },
   {
     "pid": "895",
@@ -8760,7 +8760,7 @@ module.exports = [
     "romanisation": "saao hai",
     "literalTranslation": "person - unit of land",
     "notes": "",
-    "fileName": "a894"
+    "fileName": "894"
   },
   {
     "pid": "896",
@@ -8770,7 +8770,7 @@ module.exports = [
     "romanisation": "gan gai gaan",
     "literalTranslation": "mechanical - fix - ",
     "notes": "",
-    "fileName": "a895"
+    "fileName": "895"
   },
   {
     "pid": "897",
@@ -8780,7 +8780,7 @@ module.exports = [
     "romanisation": "khon kap taeksii",
     "literalTranslation": "person classifier - drive - taxi",
     "notes": "",
-    "fileName": "a896"
+    "fileName": "896"
   },
   {
     "pid": "898",
@@ -8790,7 +8790,7 @@ module.exports = [
     "romanisation": "khon haa bpaa",
     "literalTranslation": "person - look for - fish",
     "notes": "",
-    "fileName": "a897"
+    "fileName": "897"
   },
   {
     "pid": "899",
@@ -8800,7 +8800,7 @@ module.exports = [
     "romanisation": "dtamhuat",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a898"
+    "fileName": "898"
   },
   {
     "pid": "900",
@@ -8810,7 +8810,7 @@ module.exports = [
     "romanisation": "nak gaan meuang",
     "literalTranslation": "professional - subject of - city",
     "notes": "",
-    "fileName": "a899"
+    "fileName": "899"
   },
   {
     "pid": "901",
@@ -8820,7 +8820,7 @@ module.exports = [
     "romanisation": "nak giilaa",
     "literalTranslation": "professional - sport",
     "notes": "",
-    "fileName": "a900"
+    "fileName": "900"
   },
   {
     "pid": "902",
@@ -8830,7 +8830,7 @@ module.exports = [
     "romanisation": "nak dtondtrii",
     "literalTranslation": "professional - music",
     "notes": "",
-    "fileName": "a901"
+    "fileName": "901"
   },
   {
     "pid": "903",
@@ -8840,7 +8840,7 @@ module.exports = [
     "romanisation": "por khua / mae khua",
     "literalTranslation": "father - kitchen / mother - kitchen",
     "notes": "",
-    "fileName": "a902"
+    "fileName": "902"
   },
   {
     "pid": "904",
@@ -8850,7 +8850,7 @@ module.exports = [
     "romanisation": "gammagorn",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a903"
+    "fileName": "903"
   },
   {
     "pid": "905",
@@ -8860,7 +8860,7 @@ module.exports = [
     "romanisation": "ngaam",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a904"
+    "fileName": "904"
   },
   {
     "pid": "906",
@@ -8870,7 +8870,7 @@ module.exports = [
     "romanisation": "hor",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a905"
+    "fileName": "905"
   },
   {
     "pid": "907",
@@ -8880,7 +8880,7 @@ module.exports = [
     "romanisation": "baang",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a906"
+    "fileName": "906"
   },
   {
     "pid": "908",
@@ -8890,7 +8890,7 @@ module.exports = [
     "romanisation": "dtui",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a907"
+    "fileName": "907"
   },
   {
     "pid": "909",
@@ -8900,7 +8900,7 @@ module.exports = [
     "romanisation": "soong",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a908"
+    "fileName": "908"
   },
   {
     "pid": "910",
@@ -8910,7 +8910,7 @@ module.exports = [
     "romanisation": "",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a909"
+    "fileName": "909"
   },
   {
     "pid": "911",
@@ -8920,7 +8920,7 @@ module.exports = [
     "romanisation": "naa hak",
     "literalTranslation": "worthy of - love",
     "notes": "",
-    "fileName": "a910"
+    "fileName": "910"
   },
   {
     "pid": "912",
@@ -8930,7 +8930,7 @@ module.exports = [
     "romanisation": "kii kaan",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a911"
+    "fileName": "911"
   },
   {
     "pid": "913",
@@ -8940,7 +8940,7 @@ module.exports = [
     "romanisation": "",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a912"
+    "fileName": "912"
   },
   {
     "pid": "914",
@@ -8950,7 +8950,7 @@ module.exports = [
     "romanisation": "kii aai",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a913"
+    "fileName": "913"
   },
   {
     "pid": "915",
@@ -8960,7 +8960,7 @@ module.exports = [
     "romanisation": "bpen mit",
     "literalTranslation": "is - friend",
     "notes": "",
-    "fileName": "a914"
+    "fileName": "914"
   },
   {
     "pid": "916",
@@ -8970,7 +8970,7 @@ module.exports = [
     "romanisation": "toi",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a915"
+    "fileName": "915"
   },
   {
     "pid": "917",
@@ -8980,7 +8980,7 @@ module.exports = [
     "romanisation": "jai dii",
     "literalTranslation": "heart - good",
     "notes": "",
-    "fileName": "a916"
+    "fileName": "916"
   },
   {
     "pid": "918",
@@ -8990,7 +8990,7 @@ module.exports = [
     "romanisation": "kii tii",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a917"
+    "fileName": "917"
   },
   {
     "pid": "919",
@@ -9000,7 +9000,7 @@ module.exports = [
     "romanisation": "soht",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a918"
+    "fileName": "918"
   },
   {
     "pid": "920",
@@ -9010,7 +9010,7 @@ module.exports = [
     "romanisation": "daeng-ngaan laew",
     "literalTranslation": "marry - past action marker",
     "notes": "",
-    "fileName": "a919"
+    "fileName": "919"
   },
   {
     "pid": "921",
@@ -9020,7 +9020,7 @@ module.exports = [
     "romanisation": "jai yen",
     "literalTranslation": "heart - cool",
     "notes": "",
-    "fileName": "a920"
+    "fileName": "920"
   },
   {
     "pid": "922",
@@ -9030,7 +9030,7 @@ module.exports = [
     "romanisation": "salaat",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a921"
+    "fileName": "921"
   },
   {
     "pid": "923",
@@ -9040,7 +9040,7 @@ module.exports = [
     "romanisation": "bpaa",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a922"
+    "fileName": "922"
   },
   {
     "pid": "924",
@@ -9050,7 +9050,7 @@ module.exports = [
     "romanisation": "laao bpen khon baep dai?",
     "literalTranslation": "he - is - person - type - which?",
     "notes": "",
-    "fileName": "a923"
+    "fileName": "923"
   },
   {
     "pid": "925",
@@ -9060,7 +9060,7 @@ module.exports = [
     "romanisation": "khon jai dii",
     "literalTranslation": "person - heart - good",
     "notes": "",
-    "fileName": "a924"
+    "fileName": "924"
   },
   {
     "pid": "926",
@@ -9070,7 +9070,7 @@ module.exports = [
     "romanisation": "laao jai dii baw? maen laew, dii laai",
     "literalTranslation": "he - heart - good - question particle? yes - already, good - very",
     "notes": "",
-    "fileName": "a925"
+    "fileName": "925"
   },
   {
     "pid": "927",
@@ -9080,7 +9080,7 @@ module.exports = [
     "romanisation": "laao sai waen dtaa",
     "literalTranslation": "she - wear - ring - eye",
     "notes": "",
-    "fileName": "a926"
+    "fileName": "926"
   },
   {
     "pid": "928",
@@ -9090,7 +9090,7 @@ module.exports = [
     "romanisation": "luuk kawng jao naa hak",
     "literalTranslation": "child - belonging to - you - worthy of - love",
     "notes": "",
-    "fileName": "a927"
+    "fileName": "927"
   },
   {
     "pid": "929",
@@ -9100,7 +9100,7 @@ module.exports = [
     "romanisation": "khoy kii-aai gua jao",
     "literalTranslation": "I - shy - more than - you",
     "notes": "",
-    "fileName": "a928"
+    "fileName": "928"
   },
   {
     "pid": "930",
@@ -9110,7 +9110,7 @@ module.exports = [
     "romanisation": "laao soong gua khoy",
     "literalTranslation": "he - tall - more than - me",
     "notes": "",
-    "fileName": "a929"
+    "fileName": "929"
   },
   {
     "pid": "931",
@@ -9120,7 +9120,7 @@ module.exports = [
     "romanisation": "phu nying phu dai ngaam tii sut nai hawng jao?",
     "literalTranslation": "person - female - person - which - beautiful - that - most - in - room - you?",
     "notes": "",
-    "fileName": "a930"
+    "fileName": "930"
   },
   {
     "pid": "932",
@@ -9130,7 +9130,7 @@ module.exports = [
     "romanisation": "miikuaamsuk",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a931"
+    "fileName": "931"
   },
   {
     "pid": "933",
@@ -9140,7 +9140,7 @@ module.exports = [
     "romanisation": "sia jai",
     "literalTranslation": "spoiled - heart",
     "notes": "",
-    "fileName": "a932"
+    "fileName": "932"
   },
   {
     "pid": "934",
@@ -9150,7 +9150,7 @@ module.exports = [
     "romanisation": "sabaai",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a933"
+    "fileName": "933"
   },
   {
     "pid": "935",
@@ -9160,7 +9160,7 @@ module.exports = [
     "romanisation": "meuay",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a934"
+    "fileName": "934"
   },
   {
     "pid": "936",
@@ -9170,7 +9170,7 @@ module.exports = [
     "romanisation": "beua",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a935"
+    "fileName": "935"
   },
   {
     "pid": "937",
@@ -9180,7 +9180,7 @@ module.exports = [
     "romanisation": "dteun dten",
     "literalTranslation": "wake - dance/throb",
     "notes": "",
-    "fileName": "a936"
+    "fileName": "936"
   },
   {
     "pid": "938",
@@ -9190,7 +9190,7 @@ module.exports = [
     "romanisation": "jai haai",
     "literalTranslation": "heart - angry",
     "notes": "",
-    "fileName": "a937"
+    "fileName": "937"
   },
   {
     "pid": "939",
@@ -9200,7 +9200,7 @@ module.exports = [
     "romanisation": "son jai",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a938"
+    "fileName": "938"
   },
   {
     "pid": "940",
@@ -9210,7 +9210,7 @@ module.exports = [
     "romanisation": "salaeng jai",
     "literalTranslation": "injured - heart",
     "notes": "",
-    "fileName": "a939"
+    "fileName": "939"
   },
   {
     "pid": "941",
@@ -9220,7 +9220,7 @@ module.exports = [
     "romanisation": "jao huuseuk naeo dai?",
     "literalTranslation": "you - feel - sort - which?",
     "notes": "",
-    "fileName": "a940"
+    "fileName": "940"
   },
   {
     "pid": "942",
@@ -9230,7 +9230,7 @@ module.exports = [
     "romanisation": "khoy meuay",
     "literalTranslation": "I - tired",
     "notes": "",
-    "fileName": "a941"
+    "fileName": "941"
   },
   {
     "pid": "943",
@@ -9240,7 +9240,7 @@ module.exports = [
     "romanisation": "jao boeng khu sao",
     "literalTranslation": "you - look - like - sad",
     "notes": "",
-    "fileName": "a942"
+    "fileName": "942"
   },
   {
     "pid": "944",
@@ -9250,7 +9250,7 @@ module.exports = [
     "romanisation": "bpen nyang laao jang jai haai?",
     "literalTranslation": "is - what - he - really - heart - angry?",
     "notes": "",
-    "fileName": "a943"
+    "fileName": "943"
   },
   {
     "pid": "945",
@@ -9260,7 +9260,7 @@ module.exports = [
     "romanisation": "laao jai haai tii sai mao lao",
     "literalTranslation": "she - heart - angry - that - Sai - intoxicated - alcohol",
     "notes": "",
-    "fileName": "a944"
+    "fileName": "944"
   },
   {
     "pid": "946",
@@ -9270,7 +9270,7 @@ module.exports = [
     "romanisation": "jao kit waa naeo dai?",
     "literalTranslation": "you - think - that - sort - which?",
     "notes": "",
-    "fileName": "a945"
+    "fileName": "945"
   },
   {
     "pid": "947",
@@ -9280,7 +9280,7 @@ module.exports = [
     "romanisation": "khoy kit waa mun bpen kuaam kit tii dii",
     "literalTranslation": "I - think - that - it - is - prefix which converts verb to noun - think - that - good",
     "notes": "",
-    "fileName": "a946"
+    "fileName": "946"
   },
   {
     "pid": "948",
@@ -9290,7 +9290,7 @@ module.exports = [
     "romanisation": "khoy kit waa jao kuaan bpai kor toht susidaa po waa laao boeng kuu gamlang sia jai",
     "literalTranslation": "I - think - that - you - should - go - apology - Sousida - because - that - she - look - like - currently - spoiled - heart",
     "notes": "",
-    "fileName": "a947"
+    "fileName": "947"
   },
   {
     "pid": "949",
@@ -9300,7 +9300,7 @@ module.exports = [
     "romanisation": "laao bork baw hai khoy jom peua baw hai mii pai sia naa",
     "literalTranslation": "he - tell - not - let - me - complain - so that - not - cause - have - anyone - spoiled - face",
     "notes": "",
-    "fileName": "a948"
+    "fileName": "948"
   },
   {
     "pid": "950",
@@ -9310,7 +9310,7 @@ module.exports = [
     "romanisation": "khoy kit waa laao het dai dii",
     "literalTranslation": "I - think - that - he - do - get - good",
     "notes": "",
-    "fileName": "a949"
+    "fileName": "949"
   },
   {
     "pid": "951",
@@ -9320,7 +9320,7 @@ module.exports = [
     "romanisation": "hao ja bpai don dai dii?",
     "literalTranslation": "we - future marker - go - period of time - which - good?",
     "notes": "We can put the word 'dii' (ດີ) after a question word to ask for advice or opinion.",
-    "fileName": "a950"
+    "fileName": "950"
   },
   {
     "pid": "952",
@@ -9330,7 +9330,7 @@ module.exports = [
     "romanisation": "khoy hen dii gap jao",
     "literalTranslation": "I - see - good - with - you",
     "notes": "",
-    "fileName": "a951"
+    "fileName": "951"
   },
   {
     "pid": "953",
@@ -9340,7 +9340,7 @@ module.exports = [
     "romanisation": "khoy baw hen dii",
     "literalTranslation": "I - not - see - good",
     "notes": "",
-    "fileName": "a952"
+    "fileName": "952"
   },
   {
     "pid": "954",
@@ -9350,7 +9350,7 @@ module.exports = [
     "romanisation": "mun baw sumkhan",
     "literalTranslation": "it - not - important",
     "notes": "",
-    "fileName": "a953"
+    "fileName": "953"
   },
   {
     "pid": "955",
@@ -9360,7 +9360,7 @@ module.exports = [
     "romanisation": "khoy baw huu",
     "literalTranslation": "I - not - know",
     "notes": "",
-    "fileName": "a954"
+    "fileName": "954"
   },
   {
     "pid": "956",
@@ -9370,7 +9370,7 @@ module.exports = [
     "romanisation": "khoy baw waa nyang",
     "literalTranslation": "I - not - think - anything",
     "notes": "",
-    "fileName": "a955"
+    "fileName": "955"
   },
   {
     "pid": "957",
@@ -9380,7 +9380,7 @@ module.exports = [
     "romanisation": "khoy wang waa jao ja khao jai",
     "literalTranslation": "I - hope - that - you - future marker - enter - heart/mind",
     "notes": "",
-    "fileName": "a956"
+    "fileName": "956"
   },
   {
     "pid": "958",
@@ -9390,7 +9390,7 @@ module.exports = [
     "romanisation": "boeng nang",
     "literalTranslation": "watch - film",
     "notes": "",
-    "fileName": "a957"
+    "fileName": "957"
   },
   {
     "pid": "959",
@@ -9400,7 +9400,7 @@ module.exports = [
     "romanisation": "fang pehng",
     "literalTranslation": "listen - song",
     "notes": "",
-    "fileName": "a958"
+    "fileName": "958"
   },
   {
     "pid": "960",
@@ -9410,7 +9410,7 @@ module.exports = [
     "romanisation": "boeng gaan sadaeng",
     "literalTranslation": "look at - matter of - perform",
     "notes": "",
-    "fileName": "a959"
+    "fileName": "959"
   },
   {
     "pid": "961",
@@ -9420,7 +9420,7 @@ module.exports = [
     "romanisation": "dten",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a960"
+    "fileName": "960"
   },
   {
     "pid": "963",
@@ -9430,7 +9430,7 @@ module.exports = [
     "romanisation": "lin gii-dtaa",
     "literalTranslation": "play - guitar",
     "notes": "",
-    "fileName": "a962"
+    "fileName": "962"
   },
   {
     "pid": "964",
@@ -9440,7 +9440,7 @@ module.exports = [
     "romanisation": "jao mak hawng pehng baw?",
     "literalTranslation": "you - like - sing - song - question particle?",
     "notes": "",
-    "fileName": "a963"
+    "fileName": "963"
   },
   {
     "pid": "965",
@@ -9450,7 +9450,7 @@ module.exports = [
     "romanisation": "jao mak nak hawng khon dai?",
     "literalTranslation": "you - like - person who - sing - classifier for people - which?",
     "notes": "",
-    "fileName": "a964"
+    "fileName": "964"
   },
   {
     "pid": "966",
@@ -9460,7 +9460,7 @@ module.exports = [
     "romanisation": "lum",
     "literalTranslation": "",
     "notes": "Lum music has a characteristic rhythm and down to earth singing style. The traditiional instrument is the kaen (ແຄນ), which is similar to South American pan pipes. Nowadays the music is fast and uses a full modern band.",
-    "fileName": "a965"
+    "fileName": "965"
   },
   {
     "pid": "967",
@@ -9470,7 +9470,7 @@ module.exports = [
     "romanisation": "pehng bpop",
     "literalTranslation": "song - pop",
     "notes": "",
-    "fileName": "a966"
+    "fileName": "966"
   },
   {
     "pid": "968",
@@ -9480,7 +9480,7 @@ module.exports = [
     "romanisation": "lum peun meuang",
     "literalTranslation": "lum - history - city",
     "notes": "",
-    "fileName": "a967"
+    "fileName": "967"
   },
   {
     "pid": "969",
@@ -9490,7 +9490,7 @@ module.exports = [
     "romanisation": "lin giilaa",
     "literalTranslation": "play - sport",
     "notes": "",
-    "fileName": "a968"
+    "fileName": "968"
   },
   {
     "pid": "970",
@@ -9500,7 +9500,7 @@ module.exports = [
     "romanisation": "dtae baan",
     "literalTranslation": "kick - ball",
     "notes": "",
-    "fileName": "a969"
+    "fileName": "969"
   },
   {
     "pid": "972",
@@ -9510,7 +9510,7 @@ module.exports = [
     "romanisation": "wollehbawn",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a971"
+    "fileName": "971"
   },
   {
     "pid": "973",
@@ -9520,7 +9520,7 @@ module.exports = [
     "romanisation": "buang",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a972"
+    "fileName": "972"
   },
   {
     "pid": "974",
@@ -9530,7 +9530,7 @@ module.exports = [
     "romanisation": "ork gamlang gaai",
     "literalTranslation": "out - currently - body",
     "notes": null,
-    "fileName": "a973"
+    "fileName": "973"
   },
   {
     "pid": "975",
@@ -9540,7 +9540,7 @@ module.exports = [
     "romanisation": "muay",
     "literalTranslation": "",
     "notes": null,
-    "fileName": "a974"
+    "fileName": "974"
   },
   {
     "pid": "976",
@@ -9550,7 +9550,7 @@ module.exports = [
     "romanisation": "ga-dtor",
     "literalTranslation": null,
     "notes": "Kind of like hacky sack but often played over a net. The ball is about 12cm in diameter and made of hard woven plastic or rattan.",
-    "fileName": "a975"
+    "fileName": "975"
   },
   {
     "pid": "977",
@@ -9560,7 +9560,7 @@ module.exports = [
     "romanisation": "boeng gaan kaeng-khan giilaa baan dtae",
     "literalTranslation": "watch - matter of - competition - sport - ball - kick",
     "notes": "",
-    "fileName": "a976"
+    "fileName": "976"
   },
   {
     "pid": "978",
@@ -9570,7 +9570,7 @@ module.exports = [
     "romanisation": "jao mak ga-dtor baw?",
     "literalTranslation": "you - like - takraw - question particle?",
     "notes": "",
-    "fileName": "a977"
+    "fileName": "977"
   },
   {
     "pid": "979",
@@ -9580,7 +9580,7 @@ module.exports = [
     "romanisation": "jao loi nam bpen baw?",
     "literalTranslation": "you - float - water - know how to - question particle?",
     "notes": "",
-    "fileName": "a978"
+    "fileName": "978"
   },
   {
     "pid": "980",
@@ -9590,7 +9590,7 @@ module.exports = [
     "romanisation": "jao yaak dtae baan baw?",
     "literalTranslation": "you - want - kick - ball - question particle?",
     "notes": "",
-    "fileName": "a979"
+    "fileName": "979"
   },
   {
     "pid": "981",
@@ -9600,7 +9600,7 @@ module.exports = [
     "romanisation": "nak giilaa",
     "literalTranslation": "person who does - sport",
     "notes": "",
-    "fileName": "a980"
+    "fileName": "980"
   },
   {
     "pid": "982",
@@ -9610,7 +9610,7 @@ module.exports = [
     "romanisation": "team giilaa",
     "literalTranslation": "team - sport",
     "notes": "",
-    "fileName": "a981"
+    "fileName": "981"
   },
   {
     "pid": "983",
@@ -9620,7 +9620,7 @@ module.exports = [
     "romanisation": "wat",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a982"
+    "fileName": "982"
   },
   {
     "pid": "984",
@@ -9630,7 +9630,7 @@ module.exports = [
     "romanisation": "wat bpaa",
     "literalTranslation": "temple - forest",
     "notes": "",
-    "fileName": "a983"
+    "fileName": "983"
   },
   {
     "pid": "985",
@@ -9640,7 +9640,7 @@ module.exports = [
     "romanisation": "saalaa",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a984"
+    "fileName": "984"
   },
   {
     "pid": "986",
@@ -9650,7 +9650,7 @@ module.exports = [
     "romanisation": "pa",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a985"
+    "fileName": "985"
   },
   {
     "pid": "987",
@@ -9660,7 +9660,7 @@ module.exports = [
     "romanisation": "jua",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a986"
+    "fileName": "986"
   },
   {
     "pid": "988",
@@ -9670,7 +9670,7 @@ module.exports = [
     "romanisation": "mae kaao",
     "literalTranslation": "mother - white",
     "notes": "Buddhist nuns wear white.",
-    "fileName": "a987"
+    "fileName": "987"
   },
   {
     "pid": "989",
@@ -9680,7 +9680,7 @@ module.exports = [
     "romanisation": "papuutajao",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a988"
+    "fileName": "988"
   },
   {
     "pid": "990",
@@ -9690,7 +9690,7 @@ module.exports = [
     "romanisation": "saatsanaa puut",
     "literalTranslation": "religion - Buddha",
     "notes": "",
-    "fileName": "a989"
+    "fileName": "989"
   },
   {
     "pid": "991",
@@ -9700,7 +9700,7 @@ module.exports = [
     "romanisation": "saao puut",
     "literalTranslation": "person - Buddha",
     "notes": "",
-    "fileName": "a990"
+    "fileName": "990"
   },
   {
     "pid": "992",
@@ -9710,7 +9710,7 @@ module.exports = [
     "romanisation": "sai baat",
     "literalTranslation": "put in - bowl carried by monks",
     "notes": "",
-    "fileName": "a991"
+    "fileName": "991"
   },
   {
     "pid": "993",
@@ -9720,7 +9720,7 @@ module.exports = [
     "romanisation": "siin",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a992"
+    "fileName": "992"
   },
   {
     "pid": "994",
@@ -9730,7 +9730,7 @@ module.exports = [
     "romanisation": "haksaa siin",
     "literalTranslation": "maintain - religious precept",
     "notes": "",
-    "fileName": "a993"
+    "fileName": "993"
   },
   {
     "pid": "995",
@@ -9740,7 +9740,7 @@ module.exports = [
     "romanisation": "saksit",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a994"
+    "fileName": "994"
   },
   {
     "pid": "996",
@@ -9750,7 +9750,7 @@ module.exports = [
     "romanisation": "het hai dii",
     "literalTranslation": "make - give - good",
     "notes": "",
-    "fileName": "a995"
+    "fileName": "995"
   },
   {
     "pid": "997",
@@ -9760,7 +9760,7 @@ module.exports = [
     "romanisation": "samaati",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a996"
+    "fileName": "996"
   },
   {
     "pid": "998",
@@ -9770,7 +9770,7 @@ module.exports = [
     "romanisation": "haam",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a997"
+    "fileName": "997"
   },
   {
     "pid": "999",
@@ -9780,7 +9780,7 @@ module.exports = [
     "romanisation": "papuutahuup",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a998"
+    "fileName": "998"
   },
   {
     "pid": "1000",
@@ -9790,7 +9790,7 @@ module.exports = [
     "romanisation": "jehdii",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a999"
+    "fileName": "999"
   },
   {
     "pid": "1001",
@@ -9800,7 +9800,7 @@ module.exports = [
     "romanisation": "",
     "literalTranslation": "religious - circle",
     "notes": "",
-    "fileName": "a1000"
+    "fileName": "1000"
   },
   {
     "pid": "1002",
@@ -9810,7 +9810,7 @@ module.exports = [
     "romanisation": "tetsanaa",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a1001"
+    "fileName": "1001"
   },
   {
     "pid": "1004",
@@ -9820,7 +9820,7 @@ module.exports = [
     "romanisation": "wian tian",
     "literalTranslation": "go around - candle",
     "notes": "It is common practice to walk clockwise around a stupa three times.",
-    "fileName": "a1003"
+    "fileName": "1003"
   },
   {
     "pid": "1005",
@@ -9830,7 +9830,7 @@ module.exports = [
     "romanisation": "saatsanaajak",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a1004"
+    "fileName": "1004"
   },
   {
     "pid": "1006",
@@ -9840,7 +9840,7 @@ module.exports = [
     "romanisation": "maaka busaa",
     "literalTranslation": "third lunar month - worship",
     "notes": "The day when 1250 of the Lord Buddha's disciples spontaneously gathered to hear him preach. Usually falls in February or March.",
-    "fileName": "a1005"
+    "fileName": "1005"
   },
   {
     "pid": "1007",
@@ -9850,7 +9850,7 @@ module.exports = [
     "romanisation": "bpii mai",
     "literalTranslation": "year - new",
     "notes": "April 13-15. The biggest national holiday and party. You are likely to get doused with water if you go anywhere at this time.",
-    "fileName": "a1006"
+    "fileName": "1006"
   },
   {
     "pid": "1008",
@@ -9860,7 +9860,7 @@ module.exports = [
     "romanisation": "wan pa",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a1007"
+    "fileName": "1007"
   },
   {
     "pid": "1009",
@@ -9870,7 +9870,7 @@ module.exports = [
     "romanisation": "wiisaaka busaa",
     "literalTranslation": "full moon day - worship",
     "notes": "Commemorates three important events in the life of the Lord Buddha - his birth, enlightenment and death - which all occurred on the full moon day of the sixth lunar month. Occurs in May/June.",
-    "fileName": "a1008"
+    "fileName": "1008"
   },
   {
     "pid": "1010",
@@ -9880,7 +9880,7 @@ module.exports = [
     "romanisation": "aasana busaa",
     "literalTranslation": "full moon day of eighth lunar month - worship",
     "notes": "The day when the Lord Buddha delivered his first sermon. Usually in July or August.",
-    "fileName": "a1009"
+    "fileName": "1009"
   },
   {
     "pid": "1011",
@@ -9890,7 +9890,7 @@ module.exports = [
     "romanisation": "khao pansaa",
     "literalTranslation": "enter - rainy season",
     "notes": "The day after Asahna Busaa. Marks the start of the three month Buddhist retreat period.",
-    "fileName": "a1010"
+    "fileName": "1010"
   },
   {
     "pid": "1012",
@@ -9900,7 +9900,7 @@ module.exports = [
     "romanisation": "awk pansaa",
     "literalTranslation": "exit - rainy season",
     "notes": "The end of the rainy season and Buddhist retreat period, occurring in September or October.",
-    "fileName": "a1011"
+    "fileName": "1011"
   },
   {
     "pid": "1013",
@@ -9910,7 +9910,7 @@ module.exports = [
     "romanisation": "wan gert",
     "literalTranslation": "day - born",
     "notes": "",
-    "fileName": "a1012"
+    "fileName": "1012"
   },
   {
     "pid": "1014",
@@ -9920,7 +9920,7 @@ module.exports = [
     "romanisation": "wan gert jao meu dai?",
     "literalTranslation": "day - born - you - day - which?",
     "notes": "",
-    "fileName": "a1013"
+    "fileName": "1013"
   },
   {
     "pid": "1015",
@@ -9930,7 +9930,7 @@ module.exports = [
     "romanisation": "taan mor",
     "literalTranslation": "Mr - doctor",
     "notes": "",
-    "fileName": "a1014"
+    "fileName": "1014"
   },
   {
     "pid": "1016",
@@ -9940,7 +9940,7 @@ module.exports = [
     "romanisation": "naang phayaabaan",
     "literalTranslation": "Miss - nurse",
     "notes": "",
-    "fileName": "a1015"
+    "fileName": "1015"
   },
   {
     "pid": "1017",
@@ -9950,7 +9950,7 @@ module.exports = [
     "romanisation": "mor bpua kaew",
     "literalTranslation": "doctor - treat - teeth",
     "notes": "",
-    "fileName": "a1016"
+    "fileName": "1016"
   },
   {
     "pid": "1018",
@@ -9960,7 +9960,7 @@ module.exports = [
     "romanisation": "yaa",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a1017"
+    "fileName": "1017"
   },
   {
     "pid": "1019",
@@ -9970,7 +9970,7 @@ module.exports = [
     "romanisation": "bai sang yaa",
     "literalTranslation": "sheet - order - medicine",
     "notes": "",
-    "fileName": "a1018"
+    "fileName": "1018"
   },
   {
     "pid": "1020",
@@ -9980,7 +9980,7 @@ module.exports = [
     "romanisation": "yaa dtaan seua",
     "literalTranslation": "medicine - anti - germ",
     "notes": "",
-    "fileName": "a1019"
+    "fileName": "1019"
   },
   {
     "pid": "1021",
@@ -9990,7 +9990,7 @@ module.exports = [
     "romanisation": "yaa gae bpuat",
     "literalTranslation": "medicine - fix - ache",
     "notes": "",
-    "fileName": "a1020"
+    "fileName": "1020"
   },
   {
     "pid": "1022",
@@ -10000,7 +10000,7 @@ module.exports = [
     "romanisation": "gin yaa laew baw?",
     "literalTranslation": "eat - medicine - already - question particle?",
     "notes": "",
-    "fileName": "a1021"
+    "fileName": "1021"
   },
   {
     "pid": "1023",
@@ -10010,7 +10010,7 @@ module.exports = [
     "romanisation": "ker-ee pair yaa baw?",
     "literalTranslation": "ever - allergic - medicine - question particle?",
     "notes": "",
-    "fileName": "a1022"
+    "fileName": "1022"
   },
   {
     "pid": "1024",
@@ -10020,7 +10020,7 @@ module.exports = [
     "romanisation": "gin neung met meu la saam theu lang ahaan",
     "literalTranslation": "eat - one - classifier for seeds and pills - day - each - three - time - after - food",
     "notes": "",
-    "fileName": "a1023"
+    "fileName": "1023"
   },
   {
     "pid": "1025",
@@ -10030,7 +10030,7 @@ module.exports = [
     "romanisation": "siit",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a1024"
+    "fileName": "1024"
   },
   {
     "pid": "1026",
@@ -10040,7 +10040,7 @@ module.exports = [
     "romanisation": "hong mor",
     "literalTranslation": "building - doctor",
     "notes": "",
-    "fileName": "a1025"
+    "fileName": "1025"
   },
   {
     "pid": "1027",
@@ -10050,7 +10050,7 @@ module.exports = [
     "romanisation": "",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a1026"
+    "fileName": "1026"
   },
   {
     "pid": "1028",
@@ -10060,7 +10060,7 @@ module.exports = [
     "romanisation": "payaat",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a1027"
+    "fileName": "1027"
   },
   {
     "pid": "1029",
@@ -10070,7 +10070,7 @@ module.exports = [
     "romanisation": "dtit seu",
     "literalTranslation": "contract disease - germ",
     "notes": "",
-    "fileName": "a1028"
+    "fileName": "1028"
   },
   {
     "pid": "1030",
@@ -10080,7 +10080,7 @@ module.exports = [
     "romanisation": "pair",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a1029"
+    "fileName": "1029"
   },
   {
     "pid": "1031",
@@ -10090,7 +10090,7 @@ module.exports = [
     "romanisation": "jep tong",
     "literalTranslation": "hurt - stomach",
     "notes": "",
-    "fileName": "a1030"
+    "fileName": "1030"
   },
   {
     "pid": "1032",
@@ -10100,7 +10100,7 @@ module.exports = [
     "romanisation": "jep hua",
     "literalTranslation": "hurt - head",
     "notes": "",
-    "fileName": "a1031"
+    "fileName": "1031"
   },
   {
     "pid": "1033",
@@ -10110,7 +10110,7 @@ module.exports = [
     "romanisation": "jep lang",
     "literalTranslation": "hurt - back",
     "notes": "",
-    "fileName": "a1032"
+    "fileName": "1032"
   },
   {
     "pid": "1034",
@@ -10120,7 +10120,7 @@ module.exports = [
     "romanisation": "jep huu",
     "literalTranslation": "hurt - ear",
     "notes": "",
-    "fileName": "a1033"
+    "fileName": "1033"
   },
   {
     "pid": "1035",
@@ -10130,7 +10130,7 @@ module.exports = [
     "romanisation": "jep dtiin",
     "literalTranslation": "hurt - foot",
     "notes": "",
-    "fileName": "a1034"
+    "fileName": "1034"
   },
   {
     "pid": "1036",
@@ -10140,7 +10140,7 @@ module.exports = [
     "romanisation": "jep meu",
     "literalTranslation": "hurt - hand",
     "notes": "",
-    "fileName": "a1035"
+    "fileName": "1035"
   },
   {
     "pid": "1037",
@@ -10150,7 +10150,7 @@ module.exports = [
     "romanisation": "teu paa",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a1036"
+    "fileName": "1036"
   },
   {
     "pid": "1038",
@@ -10160,7 +10160,7 @@ module.exports = [
     "romanisation": "malehng",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a1037"
+    "fileName": "1037"
   },
   {
     "pid": "1039",
@@ -10170,7 +10170,7 @@ module.exports = [
     "romanisation": "lohk bao waan",
     "literalTranslation": "disease - urine - sweet",
     "notes": "",
-    "fileName": "a1038"
+    "fileName": "1038"
   },
   {
     "pid": "1040",
@@ -10180,7 +10180,7 @@ module.exports = [
     "romanisation": "jep baw?",
     "literalTranslation": "hurt - question particle?",
     "notes": "",
-    "fileName": "a1039"
+    "fileName": "1039"
   },
   {
     "pid": "1041",
@@ -10190,7 +10190,7 @@ module.exports = [
     "romanisation": "jep nawy neung",
     "literalTranslation": "hurt - a little - one",
     "notes": "",
-    "fileName": "a1040"
+    "fileName": "1040"
   },
   {
     "pid": "1042",
@@ -10200,7 +10200,7 @@ module.exports = [
     "romanisation": "jep laai",
     "literalTranslation": "hurt - a lot",
     "notes": "",
-    "fileName": "a1041"
+    "fileName": "1041"
   },
   {
     "pid": "1043",
@@ -10210,7 +10210,7 @@ module.exports = [
     "romanisation": "jep bon dai?",
     "literalTranslation": "hurt - place - which?",
     "notes": "",
-    "fileName": "a1042"
+    "fileName": "1042"
   },
   {
     "pid": "1044",
@@ -10220,7 +10220,7 @@ module.exports = [
     "romanisation": "jep bon nii",
     "literalTranslation": "hurt - place - this",
     "notes": "",
-    "fileName": "a1043"
+    "fileName": "1043"
   },
   {
     "pid": "1045",
@@ -10230,7 +10230,7 @@ module.exports = [
     "romanisation": "aagaan",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a1044"
+    "fileName": "1044"
   },
   {
     "pid": "1046",
@@ -10240,7 +10240,7 @@ module.exports = [
     "romanisation": "bpen kai",
     "literalTranslation": "afflicted with - fever",
     "notes": "",
-    "fileName": "a1045"
+    "fileName": "1045"
   },
   {
     "pid": "1047",
@@ -10250,7 +10250,7 @@ module.exports = [
     "romanisation": "bpen wat",
     "literalTranslation": "afflicted with- cold",
     "notes": "",
-    "fileName": "a1046"
+    "fileName": "1046"
   },
   {
     "pid": "1048",
@@ -10260,7 +10260,7 @@ module.exports = [
     "romanisation": "bpen kai wat nyai",
     "literalTranslation": "afflicted with - fever - cold - big",
     "notes": "",
-    "fileName": "a1047"
+    "fileName": "1047"
   },
   {
     "pid": "1049",
@@ -10270,7 +10270,7 @@ module.exports = [
     "romanisation": "win hua",
     "literalTranslation": "rotate - head",
     "notes": "",
-    "fileName": "a1048"
+    "fileName": "1048"
   },
   {
     "pid": "1050",
@@ -10280,7 +10280,7 @@ module.exports = [
     "romanisation": "bpen lom",
     "literalTranslation": "afflicted with - air, wind",
     "notes": "",
-    "fileName": "a1049"
+    "fileName": "1049"
   },
   {
     "pid": "1051",
@@ -10290,7 +10290,7 @@ module.exports = [
     "romanisation": "haak",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a1050"
+    "fileName": "1050"
   },
   {
     "pid": "1052",
@@ -10300,7 +10300,7 @@ module.exports = [
     "romanisation": "ai",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a1051"
+    "fileName": "1051"
   },
   {
     "pid": "1053",
@@ -10310,7 +10310,7 @@ module.exports = [
     "romanisation": "tork tong",
     "literalTranslation": "pour - stomach",
     "notes": "",
-    "fileName": "a1052"
+    "fileName": "1052"
   },
   {
     "pid": "1054",
@@ -10320,7 +10320,7 @@ module.exports = [
     "romanisation": "leuat",
     "literalTranslation": "",
     "notes": "",
-    "fileName": "a1053"
+    "fileName": "1053"
   },
   {
     "pid": "1056",
@@ -10330,7 +10330,7 @@ module.exports = [
     "romanisation": "nuat paen buhaan",
     "literalTranslation": "massage - design - ancient",
     "notes": "",
-    "fileName": "a1055"
+    "fileName": "1055"
   },
   {
     "pid": "1057",
@@ -10340,7 +10340,7 @@ module.exports = [
     "romanisation": "bpai haa taan mor",
     "literalTranslation": "go - find - Mr - doctor",
     "notes": "",
-    "fileName": "a1056"
+    "fileName": "1056"
   },
   {
     "pid": "1058",
@@ -10350,7 +10350,7 @@ module.exports = [
     "romanisation": "khoy baw sabaai",
     "literalTranslation": "I - not - well",
     "notes": "",
-    "fileName": "a1057"
+    "fileName": "1057"
   },
   {
     "pid": "1059",
@@ -10360,7 +10360,7 @@ module.exports = [
     "romanisation": "haak laai teu",
     "literalTranslation": "vomit - many - time",
     "notes": "",
-    "fileName": "a1058"
+    "fileName": "1058"
   },
   {
     "pid": "1060",
@@ -10370,7 +10370,7 @@ module.exports = [
     "romanisation": "khoy yaak bpai haa taan mor",
     "literalTranslation": "I - want to - go - find  - Mr - doctor",
     "notes": "",
-    "fileName": "a1059"
+    "fileName": "1059"
   },
   {
     "pid": "1061",
@@ -10380,7 +10380,7 @@ module.exports = [
     "romanisation": "sun sukhapaap thi gai thi sut yuu bon-dai?",
     "literalTranslation": "station - health - that - close -that - most - situated - where",
     "notes": "",
-    "fileName": "a1060"
+    "fileName": "1060"
   },
   {
     "pid": "1062",
@@ -10390,7 +10390,7 @@ module.exports = [
     "romanisation": "jao huuseuk dii keun baw?",
     "literalTranslation": "you - feel - good - increase - question particle?",
     "notes": "",
-    "fileName": "a1061"
+    "fileName": "1061"
   },
   {
     "pid": "1063",
@@ -10400,7 +10400,7 @@ module.exports = [
     "romanisation": "taan mor hai yaa laew",
     "literalTranslation": "Mr - doctor - give - medicine - already",
     "notes": "",
-    "fileName": "a1062"
+    "fileName": "1062"
   },
   {
     "pid": "1064",
@@ -10410,6 +10410,6 @@ module.exports = [
     "romanisation": "khoy kit waa jao kuan bpai nuat",
     "literalTranslation": "I - think - that - you - should - go - massage",
     "notes": "",
-    "fileName": "a1063"
+    "fileName": "1063"
   }
 ]
