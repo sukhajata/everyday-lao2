@@ -13,24 +13,16 @@ import { fade } from '@material-ui/core/styles/colorManipulator';
 import { withStyles } from '@material-ui/core/styles';
 import MenuIcon from '@material-ui/icons/Menu';
 import SearchIcon from '@material-ui/icons/Search';
-import List from '@material-ui/core/List';
-import ListItem from '@material-ui/core/ListItem';
-import ListItemText from '@material-ui/core/ListItemText';
-import ExpandLess from '@material-ui/icons/ExpandLess';
-import ExpandMore from '@material-ui/icons/ExpandMore';
 import Card from '@material-ui/core/Card';
 import CardContent from '@material-ui/core/CardContent';
 import Grid from '@material-ui/core/Grid';
-import { Collapse } from '@material-ui/core';
 
 import 'typeface-roboto';
 import logo from './img/icon-promo.jpg';
-import favourite from './img/ic_favourite.png';
-import favouriteActive from './img/ic_favourite_active.png';
-import play from './img/ic_play1.png';
-import playing from './img/ic_playing.png';
 import './App.css';
 import { dbSetup, getSubCategory, searchDb, getFavourites } from './services/dbAccess';
+import SideNav from './components/SideNav';
+import PhraseList from './components/PhraseList';
 
 class App extends Component {
 
@@ -49,7 +41,14 @@ class App extends Component {
     };
 
     this.handleKeyUp = this.handleKeyUp.bind(this);
-    this.search = this.search.bind(this)
+    this.search = this.search.bind(this);
+
+    
+    /*let output = "";
+    for (let i = 1; i < 502; i++) {
+      output += "import a" + i.toString() + " from './audio/" + i.toString() + ".mp3';\n";
+    }
+    console.log(output);*/
   }
 
   toggleDrawer = (open) => () => {
@@ -58,13 +57,13 @@ class App extends Component {
     });
   };
 
-  toggleExpand(categoryId) {
+  toggleExpand = (categoryId) =>  {
     var categoriesOpen = {...this.state.categoriesOpen};
     categoriesOpen[categoryId] = !categoriesOpen[categoryId];
     this.setState({ categoriesOpen });
   }
 
-  async selectSubcategory (subCatId) {
+  selectSubcategory = async (subCatId) => {
     this.setState({ isLoading: true });
 
     const data = getSubCategory(subCatId);//await this.fetchJSON('https://sukhajata.com/el/lesson-api.php?lanId=3&id=' + subCatId)
@@ -77,7 +76,7 @@ class App extends Component {
     }
   }
 
-  speak (id) {
+  speak = (id) => {
     //const filePath = "https://sukhajata.com/audio/lao/" + fileName + ".mp3";
     const audio = document.getElementById("audio" + id);
     var playPromise = audio.play();
@@ -138,7 +137,7 @@ class App extends Component {
     }
   }
 
-  showFavourites() {
+  showFavourites = () => {
     const favouritePhrases = getFavourites(this.state.favourites);
     this.setState({ 
       phrases: favouritePhrases,
@@ -147,7 +146,7 @@ class App extends Component {
     
   }
 
-  toggleFavourite(id) {
+  toggleFavourite = (id) => {
     var favourites = this.state.favourites;
     var index = favourites.indexOf(id);
     if (index !== -1) {
@@ -159,7 +158,7 @@ class App extends Component {
     localStorage.setItem('favourites', JSON.stringify(favourites));
   }
 
-  isFavourite(id) {
+  isFavourite = (id) => {
     var index = this.state.favourites.indexOf(id);
     if (index !== -1) {
      return true;
@@ -205,84 +204,13 @@ class App extends Component {
 
   render() {
     const { classes } = this.props;
-    const { categories, categoriesOpen, phrases, searchResults } = this.state;
+    const { categories, categoriesOpen, phrases, playingId, error, isLoading } = this.state;
 
-    const sideList = (
-      <div className={classes.list}>
-        <List>
-          {categories.map(category => (
-            <div key={category.id}>
-              <ListItem button  onClick={() => this.toggleExpand(category.id)}>
-                <ListItemText primary={category.c_name} />
-                {categoriesOpen[category.id] ? <ExpandLess /> : <ExpandMore />}
-              </ListItem>
-              
-              <Collapse in={categoriesOpen[category.id]} timeout="auto" unmountOnExit>
-                <List component="div" disablePadding>
-                  {category.subCategories.map(subcategory => (
-                    <ListItem button key={subcategory.id} className={classes.nested} onClick={() => this.selectSubcategory(subcategory.id)}>
-                      <ListItemText inset primary={subcategory.c_name} />
-                    </ListItem>
-                  ))}
-                </List>
-              </Collapse>
-            </div>
-          ))}
-          <ListItem button  onClick={() => this.showFavourites()}>
-              <ListItemText primary="Favourites" />
-          </ListItem>
-        </List>
-      </div>
-    );
-
-    const phraseList = (
-      <div className={classes.list}>
-        <List className={classes.second} dense>
-          {phrases.map(phrase => (
-            <ListItem className={classes.white} button key={phrase.pid}>
-              <audio id={"audio" + phrase.pid} src={process.env.PUBLIC_URL + '/audio/' + phrase.fileName + '.mp3'} preload="true"/>
-              <Card className={classes.full}>
-                <CardContent>
-                    <Typography component="p" >
-                      {phrase.firstLanguage}
-                    </Typography>
-                    <Typography color="textSecondary">
-                      {phrase.secondLanguage}
-                    </Typography>
-                    <Typography >
-                      {phrase.romanisation}
-                    </Typography>
-                    {phrase.literalTranslation && 
-                      <Typography color="textSecondary">
-                        {phrase.literalTranslation}
-                      </Typography>
-                    }
-                    {phrase.notes && 
-                      <Typography className={classes.notes}>
-                        {phrase.notes}
-                      </Typography>
-                    }
-                    <Grid container  spacing={16} className={classes.topMargin}>
-                      <Grid item onClick={() => this.speak(phrase.pid)}>
-                        <img alt="play audio" src={phrase.pid == this.state.playingId ? playing : play} height="28"/>
-                      </Grid>
-                      <Grid item>
-                        <img src={this.isFavourite(phrase.pid) ? favouriteActive : favourite} height="28" alt="toggle favourite" onClick={() => this.toggleFavourite(phrase.pid)}/>
-                      </Grid>
-                    </Grid>
-              </CardContent>
-              </Card>
-            </ListItem>
-          ))}
-        </List>
-      </div>
-    );
-
-    if (this.state.error) {
-      return <p>{this.state.error.message}</p>;
+    if (error) {
+      return <p>{error.message}</p>;
     }
 
-    if (this.state.isLoading) {
+    if (isLoading) {
       return <p>Loading ...</p>;
     }
 
@@ -295,7 +223,7 @@ class App extends Component {
                 <MenuIcon onClick={this.toggleDrawer(true)}/>
               </IconButton>
               <Typography className={classes.title} variant="h6" color="inherit" noWrap>
-                Material-UI
+                Everyday Lao
               </Typography>
               <div className={classes.grow} />
               <div className={classes.search}>
@@ -336,11 +264,25 @@ class App extends Component {
                     </Grid>
                   </CardContent>
                 </Card>
-                {sideList}
+                <SideNav 
+                  styles={styles} 
+                  toggleExpand={this.toggleExpand} 
+                  categories={categories}
+                  categoriesOpen={categoriesOpen}
+                  selectSubcategory={this.selectSubcategory}
+                  showFavourites={this.showFavourites}
+                />
               </div>
             </SwipeableDrawer>
             <div className={classes.content}>
-              {phraseList}
+              <PhraseList 
+                classes={classes} 
+                phrases={phrases} 
+                playingId={playingId}
+                toggleFavourite={this.toggleFavourite}
+                isFavourite={this.isFavourite}
+                speak={this.speak}
+              />
             </div>
         </div>
       </MuiThemeProvider>
@@ -428,9 +370,6 @@ const styles = {
   },
   content: {
     marginTop: 50,
-  },
-  nested: {
-    paddingLeft: theme.spacing.unit * 0,
   },
   pos: {
     marginBottom: 12,
